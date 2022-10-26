@@ -1,0 +1,234 @@
+---
+title: "TU Delft R Café"
+subtitle: "Community of practice"
+format: 
+  html:
+    code-tools: true
+    self-contained: true
+    toc: true
+    toc-location: left
+    toc-title: 'On this page'
+    fig-cap-location: margin
+    theme: 
+        light: cerulean
+        dark: darkly
+execute:
+  warning: false
+  message: false
+---
+
+![](img/poster_mailing_list.png)
+
+```{r}
+#| label: setup
+#| echo: false
+
+# Load libraries ----------------------------------------------------------
+# Package names
+packages <- c("tidyverse", "here", "data.table", "igraph", "ggraph", "stringr", "tm", "tidytext", "pluralize" , "quanteda", "fst", "stopwords", "SnowballC", "textstem" , "viridis", "htmlwidgets", "webshot", "lexicon", "wesanderson", "RColorBrewer", "textdata", "stringi"
+              )
+
+# Install packages not yet installed
+installed_packages <- packages %in% rownames(installed.packages())
+if (any(installed_packages == FALSE)) {
+  install.packages(packages[!installed_packages])
+}
+
+# Packages loading 
+invisible(lapply(packages, library, character.only = TRUE))
+
+# Themes and colors ----------------------------------------------------------
+
+# Set the ggplot theme
+theme_set(theme_minimal())
+
+bg <- '#f7f7f7' #'background'  
+edge<- 'gray60'
+label <- 'gray40'
+
+tud_blue<-'#00A6D6'
+
+# Load data ----------------------------------------------------------
+network <- readRDS(here('data', 'network.RDS'))
+words_clean <- readRDS(here('data', 'words_clean.RDS'))
+mycolors <- c( rep(tud_blue,6),rep('#000000',1000))
+
+```
+
+# Why R?
+
+Did you know that with R, you can clean and process your research data, conduct a wide range of statistical analyses, create publication-quality figures, and save scripts that allow you to reproduce your work with the push of a button – all using just one program! 
+
+R is a programming language that is popular in both academia and industry for its broad functionality and approachable learning curve. R and supporting tools are open-source and totally free, making it easy to find resources developed by a global community of users. No matter which discipline you work in, you’re likely to find packages and tutorials targeted toward the types of analyses you want to run, and resources that make it easy to get started or “unstuck”. You can also develop your own packages for specific purposes in your research and publish them for others to use. 
+
+
+Do you want to build your skills in the programming language R, write R code with others, or ask questions about working with R? Check out some examples of the many cool things you can build with R! 
+
+
+```{r}
+#| label: word-cloud
+#| fig-cap: "Words used in IDE master theses: word cloud created with wordcloud2 package"
+#| code-fold: true
+
+library(wordcloud2)
+
+wcloud_data <- words_clean[order(-N_total)][1:1000]
+
+set.seed(12345)
+wordcloud2(wcloud_data, size = 0.7, color = mycolors)
+```
+
+
+# Join the TU Delft R Café!
+
+![Live coding during our monthly R Café meeting in September 2022](img/r_cafe.jpg)
+
+
+We’re a group of R enthusiasts from across the TU Delft community who meet monthly to discuss questions from the very broad *Why should I use R?* to the hyper-specific *Why is my code not working?!*
+
+
+Together we make up a supportive community of practice for researchers to share knowledge and learn with each other in an open and informal setting.
+
+Our meetings are hybrid – you can join in person or online via Zoom. If you plan to join online, please pre-register (see below for upcoming dates and registration links), and make sure to update your registration if you can’t make it.
+
+
+Our initiative was inspired by Utrecht University’s R Café now [Programming Café](https://www.uu.nl/en/research/research-data-management/walk-in-hours-workshops/programming-cafe).
+
+
+
+# Who can join?
+
+The R Café is open to anyone who works in R or is interested in learning. No prior experience with R is necessary - all are welcome! 
+
+
+Many of our members have recently completed the Data Carpentry workshop and are looking for a space to continue practicing R skills with others. You can also join if you’ve got plenty of R experience and want to share some awesome tips and tricks (e.g., about an R package, type of analysis, or visualization) with others! 
+
+
+To get the most out of the R Café, we suggest that you bring your laptop with R and RStudio installed. You can find details on installing R and RStudio in the Resources section below - please let us know if you need any help.
+ 
+
+# How do R Café meetings run?
+
+Our monthly meetings usually have a theme which we can touch upon by brief presentations by one or more of our members, exercises for us to work through, a group discussion, or some combination.
+
+
+We take a hands-on approach to work through problems and always have RStudio open for live coding. 
+
+If you have an R-related question or challenge that is specific to your project, we are happy to discuss in any of our meetings. If your question requires a lot of context, it’s helpful if you can send us an email with details before the meeting. 
+
+Got a favorite topic you’d like us to explore, or an idea for a presentation at an upcoming R Café? Please let us know at: [rcafe-lib@tudelft.nl](mailto:rcafe-lib@tudelft.nl).
+
+```{r}
+#| label: network
+#| fig-cap: "Connections between words in IDE master theses: bigram count network created with networkD3 package."
+#| code-fold: true
+
+library("networkD3")
+
+# Create networkD3 object.
+network_D3 <- igraph_to_networkD3(g = network)
+# Define node size.
+network_D3$nodes$size <- 100* V(network)$degree
+# Degine color group (I will explore this feature later).
+network_D3$nodes$group <- 1
+# Define edges width. 
+network_D3$links$value <- 20*E(network)$width
+
+
+ColourScale <- 'd3.scaleOrdinal()
+            .domain(["lions", "tigers"])
+           .range(["#00A6D6", "#694489"]);'
+
+
+forceNetwork(
+  Links = network_D3$links, 
+  Nodes = network_D3$nodes, 
+  Source = 'source', 
+  Target = 'target',
+  NodeID = 'name',
+  Group = 'group', 
+  opacity = 0.9,
+  Value = 'value',
+  Nodesize = 'size', 
+  # We input a JavaScript function.
+  fontSize = 14,
+  zoom = TRUE, 
+  opacityNoHover = 1,
+  fontFamily = "sans-serif",
+  linkColour = "black",
+  colourScale = JS(ColourScale)
+)
+
+```
+
+
+# Resources
+
+Some inspiration for working with R! 
+
+- [Install R for your OS](https://cran.r-project.org/) 
+
+- [Install RStudio](https://www.rstudio.com/products/rstudio/download/#download) 
+
+- [Gallery of data visualization in R](https://r-graph-gallery.com/)
+
+- [Reproducible Research in R](https://datacarpentry.org/rr-workshop/) 
+
+- [R for Excel](https://rstudio-conf-2020.github.io/r-for-excel/)
+
+- [Learning statistics with R](https://bookdown.org/ekothe/navarro26/preface.html) 
+
+- [Text mining with R](https://juliasilge.shinyapps.io/learntidytext/) 
+
+- [Happy Git and GitHub for the useR](https://happygitwithr.com/) 
+
+
+For a full list of R resources collected by members of the R Café, click [here](https://delft-rcafe.github.io/resources/).
+
+# Contact
+
+The R Cafe is an initiative of the TU Delft Library [Research Data Services](https://www.tudelft.nl/library/research-data-management) Team and the [Digital Competence Centre](https://www.tudelft.nl/library/library-voor-onderzoekers/library-voor-onderzoekers/onderzoek-starten/dcc). The organizers are [Ashley Cryan]( https://www.tudelft.nl/library/research-data-management/r/support/data-stewardship/contact/ashley-cryan) and [Aleksandra Wilczynska]( https://www.tudelft.nl/library/research-data-management/r/support/data-stewardship/contact/aleksandra-wilczynska). For questions or more information, please contact [rcafe-lib@tudelft.nl](mailto:rcafe-lib@tudelft.nl). 
+
+
+You can also find us on [GitHub](github.com/Delft-RCafe). 
+
+# Subscribe
+
+To stay informed about upcoming events, please subscribe to our **[mailing list](https://c.spotler.com/ct/m7/k1/N8Z4e19vGcZGN2mE3VcMXfDMXZoWzWbiRLJZ2JUjp5kjHNFzI5QbCaHn2bZuk-sa/bWDAUgBpGub4uVH)**.
+
+# Upcoming meetings 
+
+::: {.callout-note icon=false }
+
+## R Café November
+
+- **Theme:** Do you want to build your R coding skills, or write R code with others? 
+- **Date:** 4th November 2022 
+- **Time:** 11AM – 12:30PM CEST 
+- **Place:** BG.West.670, TU Delft BK Building 
+- **Registration link (for online participants):** bit.ly/RCafeNov  
+
+<a href='outlook/Rcafe-nov.ics' download="GFG">
+<button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
+</a>
+
+:::
+
+ 
+::: {.callout-note icon=false }
+
+## R Café December
+
+- **Theme:** R for Geospatial Data 
+- **Date:** 2nd December 2022 
+- **Time:** 11AM – 12:30PM CEST 
+- **Place:** TU Delft Library, Albert Einstein room 
+- **Registration link (for online participants):** https://bit.ly/RCafeGeospatial  
+
+<a href='outlook/Rcafe-dec.ics' download="GFG">
+<button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
+</a>
+
+::: 
+ 
+
