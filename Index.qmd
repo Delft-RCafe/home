@@ -16,15 +16,10 @@ execute:
   message: false
 ---
 
-
-
-![](img/poster_mailing_list.png)
-
-
-
 ```{r}
 #| label: setup
 #| echo: false
+#| include: false
 
 # Load libraries ----------------------------------------------------------
 # Package names
@@ -53,6 +48,20 @@ tud_blue<-'#00A6D6'
 
 
 ```
+
+```{r}
+#| label: logo
+#| echo: false
+
+htmltools::img(src = here("img", "TUDelft_logo_rgb.png"), 
+               alt = 'logo', 
+               width="12%",
+               style = 'position:absolute; top:0; left:0; padding:10px;')
+```
+
+
+![](img/poster_mailing_list.png)
+---
 
 # Why R?{#sec-whyr}
 
@@ -198,8 +207,6 @@ Got a favorite topic you’d like us to explore, or an idea for a presentation a
 
 :::
 
-<!-- > Got a favorite topic you’d like us to explore, or an idea for a presentation at an upcoming R Café? Please let us know at: [rcafe-lib@tudelft.nl](mailto:rcafe-lib@tudelft.nl). -->
-
 
 # Resources {#sec-res}
 
@@ -223,8 +230,9 @@ Some inspiration for working with R!
 - [Happy Git and GitHub for the useR](https://happygitwithr.com/) 
 
 ::: {.column-margin}
-![Artwork by @allison_horst](img/rtwitter.png) 
+![Artwork by @allison_horst](img/monster_support.jpg)
 :::
+
 
 For a full list of R resources collected by members of the R Café, click [here](https://delft-rcafe.github.io/resources/).
 
@@ -232,12 +240,17 @@ For a full list of R resources collected by members of the R Café, click [here]
 
 The R Cafe is an initiative of the TU Delft Library [Research Data Services](https://www.tudelft.nl/library/research-data-management) Team and the [Digital Competence Centre](https://www.tudelft.nl/library/library-voor-onderzoekers/library-voor-onderzoekers/onderzoek-starten/dcc).
 
+::: {.column-margin}
+![Artwork by @allison_horst](img/rtwitter.png) 
+:::
+
 The organizers are [Ashley Cryan]( https://www.tudelft.nl/library/research-data-management/r/support/data-stewardship/contact/ashley-cryan) and [Aleksandra Wilczynska]( https://www.tudelft.nl/library/research-data-management/r/support/data-stewardship/contact/aleksandra-wilczynska). For questions or more information, please contact [rcafe-lib@tudelft.nl](mailto:rcafe-lib@tudelft.nl). 
 
 
 You can also find us on [GitHub](github.com/Delft-RCafe). 
 
 ## Subscribe {#sec-subscribe}
+
 
 To stay informed about upcoming events, please subscribe to our [mailing list](https://c.spotler.com/ct/m7/k1/N8Z4e19vGcZGN2mE3VcMXfDMXZoWzWbiRLJZ2JUjp5kjHNFzI5QbCaHn2bZuk-sa/bWDAUgBpGub4uVH).
 
@@ -259,7 +272,7 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 :::
 
  
-::: {.callout-note icon=false }
+::: {.callout-note icon=false}
 
 ## R Café December: **R for Geospatial Data**
 
