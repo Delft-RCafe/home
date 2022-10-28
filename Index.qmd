@@ -49,15 +49,15 @@ tud_blue<-'#00A6D6'
 
 ```
 
-```{r}
-#| label: logo
-#| echo: false
-
-htmltools::img(src = here("img", "TUDelft_logo_rgb.png"), 
-               alt = 'logo', 
-               width="12%",
-               style = 'position:absolute; top:0; left:0; padding:10px;')
-```
+<!-- # ```{r} -->
+<!-- # #| label: logo -->
+<!-- # #| echo: false -->
+<!-- #  -->
+<!-- # htmltools::img(src = here("img", "TUDelft_logo_rgb.png"),  -->
+<!-- #                alt = 'logo',  -->
+<!-- #                width="12%", -->
+<!-- #                style = 'position:absolute; top:0; left:0; padding:10px;') -->
+<!-- # ``` -->
 
 
 ![](img/poster_mailing_list.png)
