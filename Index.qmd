@@ -158,6 +158,43 @@ forceNetwork(
 
 ```
 
+```{r}
+#| label: dygraphs
+#| fig-cap: "Amazon and Tesla Share Prices with `dygraphs` package"
+#| code-fold: true
+
+
+# Load library wordcloud2
+library(dygraphs)
+library(quantmod) # API to get stock data
+
+#Load data of TESLA stock
+TSLA <- getSymbols("TSLA", env=NULL)
+
+#Load data of AMZN stock
+AMZN <- getSymbols("AMZN", env=NULL)
+# create new df with Amazon and Tesla data
+stocks <- cbind(AMZN[,2:4], TSLA[,2:4])
+
+
+# Define colors 
+tud_cols<- c('#00A6D6', '#EC6842', '#0C2340', '#FFB81C' )
+tud_cols2<- c('#00A6D6', '#00B8C8', '#0C2340', '#0076C2' )
+
+
+# Create a dygraph
+dygraph(stocks) %>%
+  dySeries(c("AMZN.Low", "AMZN.Close",
+             "AMZN.High"), label = "AMZN") %>%
+  dySeries(c("TSLA.Low", "TSLA.Close",
+             "TSLA.High"), label = "TSLA") %>% 
+  dyRangeSelector() %>%
+  dyOptions(colors = tud_cols2[c(1,3)]) %>%
+  dyAxis("x", drawGrid = FALSE) 
+
+```
+
+
 
 # Join the TU Delft R Café!{#sec-joinrcafe}
 
@@ -247,7 +284,7 @@ The R Cafe is an initiative of the TU Delft Library [Research Data Services](htt
 The organizers are [Ashley Cryan]( https://www.tudelft.nl/library/research-data-management/r/support/data-stewardship/contact/ashley-cryan) and [Aleksandra Wilczynska]( https://www.tudelft.nl/library/research-data-management/r/support/data-stewardship/contact/aleksandra-wilczynska). For questions or more information, please contact [rcafe-lib@tudelft.nl](mailto:rcafe-lib@tudelft.nl). 
 
 
-You can also find us on [GitHub](github.com/Delft-RCafe). 
+You can also find us on [GitHub](https://github.com/Delft-RCafe). 
 
 ## Subscribe {#sec-subscribe}
 
@@ -256,22 +293,7 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 
 # Upcoming meetings {#sec-upcoming}
 
-::: {.callout-note icon=false }
 
-## R Café November: **Build your R coding skills & write R code with others**
-
-- **Date:** 4th November 2022 
-- **Time:** 11AM – 12:30PM CEST 
-- **Place:** BG.West.670, TU Delft BK Building 
-- **Registration:** [link for online participants](bit.ly/RCafeNov)  
-
-<a href='outlook/Rcafe-nov.ics' download="GFG">
-<button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
-</a>
-
-:::
-
- 
 ::: {.callout-note icon=false}
 
 ## R Café December: **R for Geospatial Data**
@@ -288,3 +310,64 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 ::: 
  
  
+# Past meetings {#sec-past}
+
+##### Time series visualisation with `dygraphs` library
+
+- Date: 4th November 2022 
+- Time: 11AM – 12:30PM CEST 
+- Place: BG.West.670, TU Delft BK Building 
+- **Resources: [Exercises](https://github.com/Delft-RCafe/resources/tree/main/themes/xts_dygraphs)** 
+
+
+##### Using the `apply` family of functions
+- Date: 26 September 2022
+- Time: 11AM – 12:30PM CEST
+- Place: TU Delft Library, Steve Jobs room 
+- **Resources: [Exercises](https://github.com/Delft-RCafe/resources/tree/main/themes/apply_family)**  
+
+##### Prepare your script without data
+- Date: 26 August 2022
+- Time: 11AM – 12:30PM
+- Place: TU Delft Library, Steve Jobs room
+- **Resources: [Slides](https://delft-rcafe.github.io/2022-08-26-Prepare-your-script/Index.html#/)** 
+
+##### Do you have questions about working with R, or want to write R code with others?
+- Date: 7 July 2022
+- Time: 11:00AM – 12:00PM
+- Place: TU Delft Library, Gertrude Stein room  
+
+##### Do you have questions about working with R, or want to write R code with others?
+- Date: 9 June 2022 
+- Time: 11AM - 12PM
+- Place: BG.West.350 
+
+##### Do you have questions about working with R, or want to write R code with others?
+- Date: 11 May 2022
+- Time: 10AM-11AM
+- Place: TU Delft Library, Steve Jobs room 
+
+##### Do you have questions about working with R, or want to write R code with others?
+- Date: 4 April 2022
+- Time: 11:30AM – 12:15PM
+- Place: Online 
+
+##### Do you have questions about working with R, or want to write R code with others?
+- Date: 3 March 2022
+- Time: 10:00AM – 10:45AM
+- Place: Online 
+
+##### Do you have questions about working with R, or want to write R code with others?
+- Date: 7 February 2022
+- Time: 11:00AM – 11:45AM
+- Place: Online 
+
+##### Do you have questions about working with R, or want to write R code with others?
+- Date: 29 November 2021
+- Time: 10AM-11AM
+- Place: Online 
+
+##### R Café Kickoff
+- Date: 1 November 2021
+- Time: 10AM-11AM
+- Place: TU Delft Library CoffeeStar 
