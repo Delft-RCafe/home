@@ -49,15 +49,15 @@ tud_blue<-'#00A6D6'
 
 ```
 
-<!-- # ```{r} -->
-<!-- # #| label: logo -->
-<!-- # #| echo: false -->
-<!-- #  -->
-<!-- # htmltools::img(src = here("img", "TUDelft_logo_rgb.png"),  -->
-<!-- #                alt = 'logo',  -->
-<!-- #                width="12%", -->
-<!-- #                style = 'position:absolute; top:0; left:0; padding:10px;') -->
-<!-- # ``` -->
+ <!-- ```{r} -->
+ <!-- #| label: logo -->
+ <!-- #| echo: false -->
+
+ <!-- htmltools::img(src = here("img", "TUDelft_logo_rgb.png"), -->
+ <!--                alt = 'logo', -->
+ <!--                width="12%", -->
+ <!--                style = 'position:absolute; top:10px; right:0; padding:5px;') -->
+ <!-- ``` -->
 
 
 ![](img/poster_mailing_list.png)
@@ -303,12 +303,28 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 - **Place:** TU Delft Library, Albert Einstein room 
 - **Registration:** [link for online participants](https://bit.ly/RCafeGeospatial) 
 
-<a href='outlook/Rcafe-dec.ics' download="GFG">
+<a href='outlook/Rcafe-dec.ics' download="R-Cafe">
 <button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
 </a>
 
 ::: 
  
+ 
+::: {.callout-note icon=false}
+
+## R Café January 2023: **Dealing with messy data in R**
+
+- **Date:** 13th January 2023 
+- **Time:** 11AM – 12:30PM CEST 
+- **Place:** TU Delft BK Building, BG.West.640
+- **Registration:** [link for online participants](bit.ly/RCafeMessyData) 
+
+<a href='outlook/Rcafe-jan2023.ics' download="R-Cafe">
+<button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
+</a>
+
+::: 
+  
  
 # Past meetings {#sec-past}
 
@@ -316,7 +332,7 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 
 - Date: 4th November 2022 
 - Time: 11AM – 12:30PM CEST 
-- Place: BG.West.670, TU Delft BK Building 
+- Place: TU Delft BK Building, BG.West.670
 - **Resources: [Exercises](https://github.com/Delft-RCafe/resources/tree/main/themes/xts_dygraphs)** 
 
 
@@ -340,7 +356,7 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 ##### Do you have questions about working with R, or want to write R code with others?
 - Date: 9 June 2022 
 - Time: 11AM - 12PM
-- Place: BG.West.350 
+- Place: TU Delft BK Building, BG.West.350  
 
 ##### Do you have questions about working with R, or want to write R code with others?
 - Date: 11 May 2022
