@@ -29,7 +29,7 @@ packages <- c("tidyverse", "here", "data.table", "igraph", "ggraph", "stringr", 
 # Install packages not yet installed
 installed_packages <- packages %in% rownames(installed.packages())
 if (any(installed_packages == FALSE)) {
-  install.packages(packages[!installed_packages])
+  install.packages(packages[!installed_packages], repos="http://cran.us.r-project.org")
 }
 
 # Packages loading 
@@ -320,6 +320,22 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 - **Registration:** [link for online participants](bit.ly/RCafeMessyData) 
 
 <a href='outlook/Rcafe-jan2023.ics' download="R-Cafe">
+<button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
+</a>
+
+::: 
+
+
+::: {.callout-note icon=false}
+
+## R Café February 2023: **Organizing a research paper as an R package**
+
+- **Date:** 10th February 2023 
+- **Time:** 11AM – 12:30PM CEST 
+- **Place:** TU Delft Library, Albert Einstein room
+- **Registration:** [link for online participants](bit.ly/RPackagePaper) 
+
+<a href='outlook/Rcafe-feb2023.ics' download="R-Cafe">
 <button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
 </a>
 
