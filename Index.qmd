@@ -23,7 +23,7 @@ execute:
 
 # Load libraries ----------------------------------------------------------
 # Package names
-packages <- c("tidyverse", "here", "data.table", "igraph", "ggraph", "stringr", "tm", "tidytext", "pluralize" , "quanteda", "fst", "stopwords", "SnowballC", "textstem" , "viridis", "htmlwidgets", "webshot", "lexicon", "wesanderson", "RColorBrewer", "textdata", "stringi"
+packages <- c("tidyverse", "here", "data.table", "igraph", "ggraph", "stringr", "tm", "tidytext", "pluralize" , "quanteda", "fst", "stopwords", "SnowballC", "textstem" , "viridis", "htmlwidgets", "webshot", "lexicon", "wesanderson", "RColorBrewer", "textdata", "stringi", "vembedr"
               )
 
 # Install packages not yet installed
@@ -213,11 +213,19 @@ Our meetings are hybrid – you can join in person or online via Zoom. If you pl
 Our initiative was inspired by Utrecht University’s R Café now [Programming Café](https://www.uu.nl/en/research/research-data-management/walk-in-hours-workshops/programming-cafe).
 
 ### Hear from our members
+```{r}
+#| echo: false 
+embed_url( "https://youtu.be/u-w1-fiBJrI" )
 
-{{< video https://youtu.be/u-w1-fiBJrI >}}
+```
 
 
-{{< video https://youtu.be/6C8_TGZc6B0 >}}
+```{r}
+#| echo: false 
+embed_url( "https://youtu.be/6C8_TGZc6B0" )
+
+```
+
 
 # Who can join?{#sec-who}
 
