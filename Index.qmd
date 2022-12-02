@@ -306,21 +306,6 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 
 # Upcoming meetings {#sec-upcoming}
 
-
-::: {.callout-note icon=false}
-
-## R Café December: **R for Geospatial Data**
-
-- **Date:** 2nd December 2022 
-- **Time:** 11AM – 12:30PM CEST 
-- **Place:** TU Delft Library, Albert Einstein room 
-- **Registration:** [link for online participants](https://bit.ly/RCafeGeospatial) 
-
-<a href='outlook/Rcafe-dec.ics' download="R-Cafe">
-<button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
-</a>
-
-::: 
  
  
 ::: {.callout-note icon=false}
@@ -356,6 +341,16 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
   
  
 # Past meetings {#sec-past}
+
+
+##### R for Geospatial Data
+
+- Date: 2nd December 2022 
+- Time: 11AM – 12:30PM CEST 
+- Place: TU Delft Library, Albert Einstein room 
+- **Resources: [Exercises](https://github.com/Delft-RCafe/resources/tree/main/themes/geospatial)** 
+
+
 
 ##### Time series visualisation with `dygraphs` library
 
