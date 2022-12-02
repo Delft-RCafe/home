@@ -212,7 +212,12 @@ Our meetings are hybrid – you can join in person or online via Zoom. If you pl
 
 Our initiative was inspired by Utrecht University’s R Café now [Programming Café](https://www.uu.nl/en/research/research-data-management/walk-in-hours-workshops/programming-cafe).
 
+### Hear from our members
 
+{{< video https://youtu.be/u-w1-fiBJrI >}}
+
+
+{{< video https://youtu.be/6C8_TGZc6B0 >}}
 
 # Who can join?{#sec-who}
 
