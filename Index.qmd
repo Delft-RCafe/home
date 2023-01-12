@@ -315,7 +315,7 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 - **Date:** 13th January 2023 
 - **Time:** 11AM – 12:30PM CEST 
 - **Place:** TU Delft BK Building, BG.West.640
-- **Registration:** [link for online participants](bit.ly/RCafeMessyData) 
+- **Registration:** [link for online participants](https://bit.ly/RCafeMessyData) 
 
 <a href='outlook/Rcafe-jan2023.ics' download="R-Cafe">
 <button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
@@ -331,7 +331,7 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 - **Date:** 10th February 2023 
 - **Time:** 11AM – 12:30PM CEST 
 - **Place:** TU Delft Library, Albert Einstein room
-- **Registration:** [link for online participants](bit.ly/RPackagePaper) 
+- **Registration:** [link for online participants](https://bit.ly/RPackagePaper) 
 
 <a href='outlook/Rcafe-feb2023.ics' download="R-Cafe">
 <button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
