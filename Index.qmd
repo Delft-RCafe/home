@@ -207,7 +207,7 @@ We’re a group of R enthusiasts from across the TU Delft community who meet mon
 
 Together we make up a supportive community of practice for researchers to share knowledge and learn with each other in an open and informal setting.
 
-Our meetings are hybrid – you can join in person or online via Zoom. If you plan to join online, please pre-register (see below for upcoming dates and registration links), and make sure to update your registration if you can’t make it.
+If you plan to join online, please pre-register so that we can order enough refreshments. See below for upcoming dates and registration links, and make sure to update your registration if you can’t make it.
 
 
 Our initiative was inspired by Utrecht University’s R Café now [Programming Café](https://www.uu.nl/en/research/research-data-management/walk-in-hours-workshops/programming-cafe).
@@ -248,7 +248,13 @@ Our monthly meetings usually have a theme which we can touch upon by brief prese
 
 We take a hands-on approach to work through problems and always have RStudio open for live coding. 
 
+::: {.column-margin}
+![](img/pizza2.gif)
+:::
+
 If you have an R-related question or challenge that is specific to your project, we are happy to discuss in any of our meetings. If your question requires a lot of context, it’s helpful if you can send us an email with details before the meeting. 
+
+Because we know our audience, we offer a *unique*  combination of `r emo::ji("coffee")` and  `r emo::ji("pizza")`.
 
 :::{.callout-tip}
 ## Want to get involved?
@@ -315,6 +321,7 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 - **Date:** 10th February 2023 
 - **Time:** 11AM – 12:30PM CEST 
 - **Place:** TU Delft Library, Albert Einstein room
+- **Presenter:** Rodrigo Revilla
 - **Registration:** [Sign up for free pizza](https://forms.gle/7oGMYVpjNqa3a44d9) 
 
 <a href='outlook/Rcafe-feb2023.ics' download="R-Cafe">
