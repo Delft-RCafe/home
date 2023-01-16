@@ -321,7 +321,7 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 - **Date:** 10th February 2023 
 - **Time:** 11AM – 12:30PM CEST 
 - **Place:** TU Delft Library, Albert Einstein room
-- **Presenter:** Rodrigo Revilla
+- **Presenter:** Bjørn Bartholdy 
 - **Registration:** [Sign up for free pizza](https://forms.gle/7oGMYVpjNqa3a44d9) 
 
 <a href='outlook/Rcafe-feb2023.ics' download="R-Cafe">
@@ -338,6 +338,7 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 - Date: 13th January 2023 
 - Time: 11AM – 12:30PM CEST 
 - Place: TU Delft BK Building, BG.West.640
+- Presenter: Rodrigo Revilla
 - **Resources: [Workbook](https://github.com/Delft-RCafe/resources/tree/main/themes/pdf_to_R) **
 
 
