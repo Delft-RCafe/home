@@ -312,7 +312,23 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 
 # Upcoming meetings {#sec-upcoming}
 
- 
+::: {.callout-note icon=false}
+
+## R Café March 2023: **Network science approach to psychopathology using**
+
+- **Date:** 17th March 2023 
+- **Time:** 12PM – 13:30PM CEST 
+- **Place:** TU Delft Library, Orange Room
+- **Presenter:** [Alberto Jover Martínez](https://www.nsmd.eu/organisation/people/jover-martinez-alberto)
+- **Registration:** [Sign up for free pizza](https://www.eventbrite.com/e/network-science-approach-to-psychopathology-using-r-tickets-541233482917 )
+
+
+<a href='outlook/Rcafe-mar2023.ics' download="R-Cafe">
+<button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
+</a>
+
+::: 
+   
  
 ::: {.callout-note icon=false}
 
