@@ -321,8 +321,9 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 - **Date:** 10th February 2023 
 - **Time:** 11AM – 12:30PM CEST 
 - **Place:** TU Delft Library, ~~Albert Einstein room~~ ~~Blue Room~~ **Orange Room**
-- **Presenter:** Bjørn Bartholdy 
-- **Registration:** [Sign up for free pizza](https://forms.gle/7oGMYVpjNqa3a44d9) 
+- **Presenter:** [Bjørn Bartholdy](https://www.universiteitleiden.nl/en/staffmembers/bjorn-peare-bartholdy#tab-1) 
+- **Registration:** [Sign up for free pizza](https://forms.gle/7oGMYVpjNqa3a44d9)
+- **Resources: [Walk-through](https://github.com/Delft-RCafe/resources/tree/main/themes/research_package) **
 
 <a href='outlook/Rcafe-feb2023.ics' download="R-Cafe">
 <button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
