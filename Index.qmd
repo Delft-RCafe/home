@@ -314,7 +314,7 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 
 ::: {.callout-note icon=false}
 
-## R Café March 2023: **Network science approach to psychopathology using**
+## R Café March 2023: **Network science approach to psychopathology using R**
 
 - **Date:** 17th March 2023 
 - **Time:** 12PM – 13:30PM CEST 
@@ -330,25 +330,18 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 ::: 
    
  
-::: {.callout-note icon=false}
-
-## R Café February 2023: **Organizing a research paper as an R package**
-
-- **Date:** 10th February 2023 
-- **Time:** 11AM – 12:30PM CEST 
-- **Place:** TU Delft Library, ~~Albert Einstein room~~ ~~Blue Room~~ **Orange Room**
-- **Presenter:** [Bjørn Bartholdy](https://www.universiteitleiden.nl/en/staffmembers/bjorn-peare-bartholdy#tab-1) 
-- **Registration:** [Sign up for free pizza](https://forms.gle/7oGMYVpjNqa3a44d9)
-- **Resources: [Walk-through](https://github.com/Delft-RCafe/resources/tree/main/themes/research_package) **
-
-<a href='outlook/Rcafe-feb2023.ics' download="R-Cafe">
-<button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
-</a>
-
-::: 
-  
  
 # Past meetings {#sec-past}
+
+
+##### Organizing a research paper as an R package
+
+- Date: 10th February 2023 
+- Time: 11AM – 12:30PM CEST 
+- Place: TU Delft Library, ~~Albert Einstein room~~ ~~Blue Room~~ **Orange Room**
+- Presenter: [Bjørn Bartholdy](https://www.universiteitleiden.nl/en/staffmembers/bjorn-peare-bartholdy#tab-1) 
+- **Resources: [Walk-through](https://github.com/Delft-RCafe/resources/tree/main/themes/research_package) **
+
 
 ##### Dealing with messy data in R
 
