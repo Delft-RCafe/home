@@ -4,6 +4,7 @@ subtitle: "Community of practice"
 format: 
   html:
     code-tools: true
+    fig-cap-location: margin
     self-contained: true
     toc: true
     toc-location: left
@@ -198,9 +199,15 @@ dygraph(stocks) %>%
 
 # Join the TU Delft R Café!{#sec-joinrcafe}
 
-[Live coding during our monthly R Café meeting in September 2022]{.aside}
-![](img/r_cafe.jpg)
+<!-- [Live coding during our monthly R Café meeting in September 2022]{.aside} -->
+<!-- ![](img/r_cafe.jpg) -->
 
+![Live coding during our monthly R Café meeting in September 2022](img/r_cafe.jpg)
+
+<!-- [R Café code & pizza meeting in February 2023]{.aside} -->
+<!-- ![](img/r_cafe_feb.jpg) -->
+
+![R Café reproducible research & pizza meeting in February 2023](img/r_cafe_feb.jpg)
 
 We’re a group of R enthusiasts from across the TU Delft community who meet monthly to discuss questions from the very broad *Why should I use R?* to the hyper-specific *Why is my code not working?!*
 
