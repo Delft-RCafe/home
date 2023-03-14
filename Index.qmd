@@ -328,7 +328,7 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 - **Place:** TU Delft Library, Orange Room
 - **Presenter:** [Alberto Jover Martínez](https://www.nsmd.eu/organisation/people/jover-martinez-alberto)
 - **Registration:** [Sign up for free pizza](https://www.eventbrite.com/e/network-science-approach-to-psychopathology-using-r-tickets-541233482917 )
-- **Resources:** [Walk-through](https://github.com/Delft-RCafe/resources/tree/main/themes/network_science) 
+- **Resources:** [R project](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Delft-RCafe/resources/tree/main/themes/network_science) 
 
 <a href='outlook/Rcafe-mar2023.ics' download="R-Cafe">
 <button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
