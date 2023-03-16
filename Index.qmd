@@ -321,6 +321,23 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 
 ::: {.callout-note icon=false}
 
+## R Café April 2023: **ChatGPT in R - practical session**
+
+- **Date:** 24th April 2023
+- **Time:** 12PM – 13:30PM CEST
+- **Place:** TU Delft Library, Orange Room
+- **Presenter:** [Ashley Cryan](https://www.tudelft.nl/library/research-data-management/r/support/data-stewardship/contact/ashley-cryan) & [Aleks Wilczynska](https://www.tudelft.nl/library/research-data-management/r/support/data-stewardship/contact/aleksandra-wilczynska)
+- **Registration:** [Sign up for free pizza](https://www.eventbrite.nl/e/chatgpt-in-r-practical-session-tickets-591841934157)
+
+<a href='outlook/Rcafe-apr2023.ics' download="R-Cafe">
+<button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
+</a>
+
+::: 
+
+
+::: {.callout-note icon=false}
+
 ## R Café March 2023: **Network science approach to psychopathology using R**
 
 - **Date:** 17th March 2023 
