@@ -319,7 +319,21 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 
 # Upcoming meetings {#sec-upcoming}
 
+::: {.callout-note icon=false}
 
+## R Café April 2023: **Level up your reproducibility game with Quarto**
+
+- **Date:** 24th April 2023
+- **Time:** 12PM – 13:30PM CEST
+- **Place:** TU Delft Library, Orange Room
+- **Presenter:** [Claudiu Forgaci](https://www.tudelft.nl/en/staff/c.forgaci/?cHash=9502327a507dad434f22a30ca4f4771b) & [Bjørn Bartholdy](https://www.universiteitleiden.nl/en/staffmembers/bjorn-peare-bartholdy#tab-1)
+- **Registration:** [Sign up for free pizza](https://www.eventbrite.nl/e/level-up-your-reproducibility-game-with-quarto-tickets-604526935337)
+
+<a href='outlook/Rcafe-apr2023.ics' download="R-Cafe">
+<button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
+</a>
+
+:::
  
 # Past meetings {#sec-past}
 

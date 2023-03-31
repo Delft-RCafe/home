@@ -20,18 +20,19 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 CLASS:PUBLIC
-CREATED:20230316T214555Z
-DESCRIPTION:Sign up for free pizza : https://www.eventbrite.nl/e/chatgpt-in
-	-r-practical-session-tickets-591841934157 \n
+CREATED:20230331T114456Z
+DESCRIPTION:Sign up for free pizza : https://www.eventbrite.nl/e/level-up-y
+	our-reproducibility-game-with-quarto-tickets-604526935337 \n
 DTEND;TZID="W. Europe Standard Time":20230424T133000
 DTSTAMP:20221014T113210Z
 DTSTART;TZID="W. Europe Standard Time":20230424T120000
-LAST-MODIFIED:20230316T214555Z
+LAST-MODIFIED:20230331T114456Z
 LOCATION:TU Delft Library\, Orange room
 ORGANIZER;CN=rcafe-lib:mailto:rcafe-lib@tudelft.nl
 PRIORITY:5
 SEQUENCE:0
-SUMMARY;LANGUAGE=en-gb:R café: ChatGPT in R - practical session
+SUMMARY;LANGUAGE=en-gb:R café: Level up your reproducibility game with Qua
+	rto
 TRANSP:OPAQUE
 UID:040000008200E00074C5B7101A82E0080000000040AE475DD0DFD801000000000000000
 	01000000048946A62488B46439EDCF1AFB11B8B19
@@ -41,7 +42,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml"
 	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name=ProgId c
 	ontent=Word.Document><meta name=Generator content="Microsoft Word 15"><met
 	a name=Originator content="Microsoft Word 15"><link rel=File-List href="ci
-	d:filelist.xml@01D95859.1151AFC0"><!--[if gte mso 9]><xml>\n<o:OfficeDocum
+	d:filelist.xml@01D963D6.FAABBB10"><!--[if gte mso 9]><xml>\n<o:OfficeDocum
 	entSettings>\n<o:AllowPNG/>\n</o:OfficeDocumentSettings>\n</xml><![endif]-
 	-><!--[if gte mso 9]><xml>\n<w:WordDocument>\n<w:Zoom>130</w:Zoom>\n<w:Spe
 	llingState>Clean</w:SpellingState>\n<w:TrackMoves/>\n<w:TrackFormatting/>\
@@ -493,55 +494,52 @@ X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml"
 	rk Accent 6"/>\n<w:LsdException Locked="false" Priority="51" Name="List Ta
 	ble 6 Colorful Accent 6"/>\n<w:LsdException Locked="false" Priority="52" N
 	ame="List Table 7 Colorful Accent 6"/>\n</w:LatentStyles>\n</xml><![endif]
-	--><style><!--\n/* Font Definitions */\n@font-face\n	{font-family:"Cambria
-	 Math"\;\n	panose-1:2 4 5 3 5 4 6 3 2 4\;\n	mso-font-charset:1\;\n	mso-gen
-	eric-font-family:roman\;\n	mso-font-pitch:variable\;\n	mso-font-signature:
-	0 0 0 0 0 0\;}\n@font-face\n	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 
-	2 4 3 2 4\;\n	mso-font-charset:0\;\n	mso-generic-font-family:swiss\;\n	mso
-	-font-pitch:variable\;\n	mso-font-signature:-469750017 -1073732485 9 0 511
-	 0\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNormal
-	\n	{mso-style-unhide:no\;\n	mso-style-qformat:yes\;\n	mso-style-parent:""\
-	;\n	margin:0cm\;\n	margin-bottom:.0001pt\;\n	mso-pagination:widow-orphan\;
-	\n	font-size:11.0pt\;\n	font-family:"Calibri"\,sans-serif\;\n	mso-fareast-
-	font-family:Calibri\;\n	mso-fareast-language:EN-US\;}\na:link\, span.MsoHy
-	perlink\n	{mso-style-priority:99\;\n	color:#0563C1\;\n	text-decoration:und
-	erline\;\n	text-underline:single\;}\na:visited\, span.MsoHyperlinkFollowed
-	\n	{mso-style-noshow:yes\;\n	mso-style-priority:99\;\n	color:#954F72\;\n	t
-	ext-decoration:underline\;\n	text-underline:single\;}\np.msonormal0\, li.m
-	sonormal0\, div.msonormal0\n	{mso-style-name:msonormal\;\n	mso-style-unhid
-	e:no\;\n	mso-margin-top-alt:auto\;\n	margin-right:0cm\;\n	mso-margin-botto
-	m-alt:auto\;\n	margin-left:0cm\;\n	mso-pagination:widow-orphan\;\n	font-si
-	ze:12.0pt\;\n	font-family:"Times New Roman"\,serif\;\n	mso-fareast-font-fa
-	mily:Calibri\;}\nspan.EmailStyle18\n	{mso-style-type:personal-compose\;\n	
-	mso-style-noshow:yes\;\n	mso-style-unhide:no\;\n	mso-ansi-font-size:11.0pt
-	\;\n	mso-bidi-font-size:11.0pt\;\n	font-family:"Calibri"\,sans-serif\;\n	m
-	so-ascii-font-family:Calibri\;\n	mso-fareast-font-family:Calibri\;\n	mso-h
-	ansi-font-family:Calibri\;\n	mso-bidi-font-family:"Times New Roman"\;\n	co
-	lor:windowtext\;}\n.MsoChpDefault\n	{mso-style-type:export-only\;\n	mso-de
-	fault-props:yes\;\n	font-size:10.0pt\;\n	mso-ansi-font-size:10.0pt\;\n	mso
-	-bidi-font-size:10.0pt\;\n	font-family:"Calibri"\,sans-serif\;\n	mso-ascii
-	-font-family:Calibri\;\n	mso-fareast-font-family:Calibri\;\n	mso-hansi-fon
-	t-family:Calibri\;\n	mso-bidi-font-family:Calibri\;\n	mso-ansi-language:EN
-	-US\;\n	mso-fareast-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 
-	792.0pt\;\n	margin:72.0pt 72.0pt 72.0pt 72.0pt\;\n	mso-header-margin:36.0p
-	t\;\n	mso-footer-margin:36.0pt\;\n	mso-paper-source:0\;}\ndiv.WordSection1
-	\n	{page:WordSection1\;}\n--></style><!--[if gte mso 10]><style>/* Style D
-	efinitions */\ntable.MsoNormalTable\n	{mso-style-name:"Table Normal"\;\n	m
-	so-tstyle-rowband-size:0\;\n	mso-tstyle-colband-size:0\;\n	mso-style-nosho
-	w:yes\;\n	mso-style-priority:99\;\n	mso-style-parent:""\;\n	mso-padding-al
-	t:0cm 5.4pt 0cm 5.4pt\;\n	mso-para-margin:0cm\;\n	mso-para-margin-bottom:.
-	0001pt\;\n	mso-pagination:widow-orphan\;\n	font-size:10.0pt\;\n	font-famil
-	y:"Calibri"\,sans-serif\;\n	mso-ansi-language:EN-US\;\n	mso-fareast-langua
-	ge:EN-US\;}\n</style><![endif]--><!--[if gte mso 9]><xml>\n<o:shapedefault
-	s v:ext="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xm
-	l>\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:s
-	hapelayout></xml><![endif]--></head><body lang=EN-GB link="#0563C1" vlink=
-	"#954F72" style='tab-interval:36.0pt'><div class=WordSection1><p class=Mso
-	Normal>Sign up for free pizza : <a href="https://www.eventbrite.nl/e/chatg
-	pt-in-r-practical-session-tickets-591841934157">https://www.eventbrite.nl/
-	e/chatgpt-in-r-practical-session-tickets-591841934157</a> <span style='mso
-	-bidi-font-family:"Times New Roman"'><o:p></o:p></span></p></div></body></
-	html>
+	--><style><!--\n/* Font Definitions */\n@font-face\n	{font-family:Calibri\
+	;\n	panose-1:2 15 5 2 2 2 4 3 2 4\;\n	mso-font-charset:0\;\n	mso-generic-f
+	ont-family:swiss\;\n	mso-font-pitch:variable\;\n	mso-font-signature:-46975
+	0017 -1073732485 9 0 511 0\;}\n/* Style Definitions */\np.MsoNormal\, li.M
+	soNormal\, div.MsoNormal\n	{mso-style-unhide:no\;\n	mso-style-qformat:yes\
+	;\n	mso-style-parent:""\;\n	margin:0cm\;\n	margin-bottom:.0001pt\;\n	mso-p
+	agination:widow-orphan\;\n	font-size:11.0pt\;\n	font-family:"Calibri"\,san
+	s-serif\;\n	mso-fareast-font-family:Calibri\;\n	mso-fareast-language:EN-US
+	\;}\na:link\, span.MsoHyperlink\n	{mso-style-priority:99\;\n	color:#0563C1
+	\;\n	text-decoration:underline\;\n	text-underline:single\;}\na:visited\, s
+	pan.MsoHyperlinkFollowed\n	{mso-style-noshow:yes\;\n	mso-style-priority:99
+	\;\n	color:#954F72\;\n	text-decoration:underline\;\n	text-underline:single
+	\;}\np.msonormal0\, li.msonormal0\, div.msonormal0\n	{mso-style-name:msono
+	rmal\;\n	mso-style-unhide:no\;\n	mso-margin-top-alt:auto\;\n	margin-right:
+	0cm\;\n	mso-margin-bottom-alt:auto\;\n	margin-left:0cm\;\n	mso-pagination:
+	widow-orphan\;\n	font-size:12.0pt\;\n	font-family:"Times New Roman"\,serif
+	\;\n	mso-fareast-font-family:Calibri\;}\nspan.EmailStyle18\n	{mso-style-ty
+	pe:personal-compose\;\n	mso-style-noshow:yes\;\n	mso-style-unhide:no\;\n	m
+	so-ansi-font-size:11.0pt\;\n	mso-bidi-font-size:11.0pt\;\n	font-family:"Ca
+	libri"\,sans-serif\;\n	mso-ascii-font-family:Calibri\;\n	mso-fareast-font-
+	family:Calibri\;\n	mso-hansi-font-family:Calibri\;\n	mso-bidi-font-family:
+	"Times New Roman"\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-typ
+	e:export-only\;\n	mso-default-props:yes\;\n	font-size:10.0pt\;\n	mso-ansi-
+	font-size:10.0pt\;\n	mso-bidi-font-size:10.0pt\;\n	font-family:"Calibri"\,
+	sans-serif\;\n	mso-ascii-font-family:Calibri\;\n	mso-fareast-font-family:C
+	alibri\;\n	mso-hansi-font-family:Calibri\;\n	mso-bidi-font-family:Calibri\
+	;\n	mso-ansi-language:EN-US\;\n	mso-fareast-language:EN-US\;}\n@page WordS
+	ection1\n	{size:612.0pt 792.0pt\;\n	margin:72.0pt 72.0pt 72.0pt 72.0pt\;\n
+		mso-header-margin:36.0pt\;\n	mso-footer-margin:36.0pt\;\n	mso-paper-sourc
+	e:0\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--></style><!--[if gte m
+	so 10]><style>/* Style Definitions */\ntable.MsoNormalTable\n	{mso-style-n
+	ame:"Table Normal"\;\n	mso-tstyle-rowband-size:0\;\n	mso-tstyle-colband-si
+	ze:0\;\n	mso-style-noshow:yes\;\n	mso-style-priority:99\;\n	mso-style-pare
+	nt:""\;\n	mso-padding-alt:0cm 5.4pt 0cm 5.4pt\;\n	mso-para-margin:0cm\;\n	
+	mso-para-margin-bottom:.0001pt\;\n	mso-pagination:widow-orphan\;\n	font-si
+	ze:10.0pt\;\n	font-family:"Calibri"\,sans-serif\;\n	mso-ansi-language:EN-U
+	S\;\n	mso-fareast-language:EN-US\;}\n</style><![endif]--><!--[if gte mso 9
+	]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n</xml><![endif]-
+	-><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="
+	edit" data="1" />\n</o:shapelayout></xml><![endif]--></head><body lang=EN-
+	GB link="#0563C1" vlink="#954F72" style='tab-interval:36.0pt'><div class=W
+	ordSection1><p class=MsoNormal>Sign up for free pizza : <a href="https://w
+	ww.eventbrite.nl/e/level-up-your-reproducibility-game-with-quarto-tickets-
+	604526935337">https://www.eventbrite.nl/e/level-up-your-reproducibility-ga
+	me-with-quarto-tickets-604526935337</a> <span style='mso-bidi-font-family:
+	"Times New Roman"'><o:p></o:p></span></p></div></body></html>
 X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
 X-MICROSOFT-CDO-IMPORTANCE:1
 X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
