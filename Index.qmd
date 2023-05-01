@@ -344,6 +344,7 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 - Time: 12PM – 13:30PM CEST
 - Place: TU Delft Library, Orange Room
 - Presenters: [Claudiu Forgaci](https://www.tudelft.nl/en/staff/c.forgaci/?cHash=9502327a507dad434f22a30ca4f4771b) & [Bjørn Bartholdy](https://www.universiteitleiden.nl/en/staffmembers/bjorn-peare-bartholdy#tab-1)
+- **Resources:** [R project](https://github.com/bbartholdy/quarto-level-up-reproducibility/releases/tag/v23.04.0-beta)
 
 
 ##### Network science approach to psychopathology using R
