@@ -328,6 +328,7 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 - **Place:** TU Delft Library, Blue Room
 - **Presenter:** [Aleksandra Wilczynska](https://www.tudelft.nl/library/research-data-management/r/support/data-stewardship/contact/aleksandra-wilczynska) & [Ashley Cryan](https://www.tudelft.nl/library/research-data-management/r/support/data-stewardship/contact/ashley-cryan)
 - **Registration:** [Sign up for free pizza](https://www.eventbrite.nl/e/a-gentle-introduction-to-building-web-apps-with-r-shiny-tickets-630718324487)
+- **Resources:** [R project](https://github.com/Delft-RCafe/resources/tree/main/themes/intro_shiny)
 
 <a href='outlook/Rcafe-may2023.ics' download="R-Cafe">
 <button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
