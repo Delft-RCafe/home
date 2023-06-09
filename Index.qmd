@@ -319,22 +319,25 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 
 # Upcoming meetings {#sec-upcoming}
 
-<!-- ::: {.callout-note icon=false} -->
+::: {.callout-note icon=false}
 
-<!-- ## R Café May 2023: **A gentle introduction to building web apps with R Shiny** -->
+## R Café June 2023: **Troubleshooting walk-in session**
 
-<!-- - **Date:** 30th May 2023 -->
-<!-- - **Time:** 12PM – 13:30PM CEST -->
-<!-- - **Place:** TU Delft Library, Blue Room -->
-<!-- - **Presenter:** [Aleksandra Wilczynska](https://www.tudelft.nl/library/research-data-management/r/support/data-stewardship/contact/aleksandra-wilczynska) & [Ashley Cryan](https://www.tudelft.nl/library/research-data-management/r/support/data-stewardship/contact/ashley-cryan) -->
-<!-- - **Registration:** [Sign up for free pizza](https://www.eventbrite.nl/e/a-gentle-introduction-to-building-web-apps-with-r-shiny-tickets-630718324487) -->
-<!-- - **Resources:** [R project](https://github.com/Delft-RCafe/resources/tree/main/themes/intro_shiny) -->
+- **Date:** 20th June 2023
+- **Time:** 3 PM – 4:30 PM CEST
+- **Place:** TU Delft BK Building, BG.West.350
+- **Description:** A walk-in session dedicated to Data Carpentries' participants. Work on your project after the workshop and pass by the R Café to share your analysis, experiences, problems, ask questions, etc. You don't have a project to work on yet? You can have a go at one of those:
+  - [30 day map challenge](https://30daymapchallenge.com/)  - Geospatial Data Carpentry
+  -	[advent calendaR](https://github.com/kiirsti/ggplot_adventcalendaR/tree/main) - Data Carpentry for Social Sciences and Humanities
 
-<!-- <a href='outlook/Rcafe-may2023.ics' download="R-Cafe"> -->
-<!-- <button type="button" class="btn btn-primary btn-sm">Add to calendar</button> -->
-<!-- </a> -->
+- **Registration:** No registration needed
 
-<!-- ::: -->
+
+<a href='outlook/Rcafe-jun2023.ics' download="R-Cafe">
+<button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
+</a>
+
+:::
  
 # Past meetings {#sec-past}
 
