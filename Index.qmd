@@ -4,7 +4,7 @@ subtitle: "Community of practice"
 format: 
   html:
     code-tools: true
-    fig-cap-location: margin
+    fig-cap-location: bottom
     self-contained: true
     toc: true
     toc-location: left
@@ -199,13 +199,9 @@ dygraph(stocks) %>%
 
 # Join the TU Delft R Café!{#sec-joinrcafe}
 
-<!-- [Live coding during our monthly R Café meeting in September 2022]{.aside} -->
-<!-- ![](img/r_cafe.jpg) -->
 
 ![Live coding during our monthly R Café meeting in September 2022](img/r_cafe.jpg)
 
-<!-- [R Café code & pizza meeting in February 2023]{.aside} -->
-<!-- ![](img/r_cafe_feb.jpg) -->
 
 ![R Café reproducible research & pizza meeting in February 2023](img/r_cafe_feb.jpg)
 
@@ -321,25 +317,165 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 
 ::: {.callout-note icon=false}
 
-## R Café June 2023: **Troubleshooting walk-in session**
+## R Café September 2023: **Sourcing data with R**
 
-- **Date:** 20th June 2023
-- **Time:** 3 PM – 4:30 PM CEST
-- **Place:** TU Delft BK Building, BG.West.350
-- **Description:** A walk-in session dedicated to Data Carpentries' participants. Work on your project after the workshop and pass by the R Café to share your analysis, experiences, problems, ask questions, etc. You don't have a project to work on yet? You can have a go at one of those:
-  - [30 day map challenge](https://30daymapchallenge.com/)  - Geospatial Data Carpentry
-  -	[advent calendaR](https://github.com/kiirsti/ggplot_adventcalendaR/tree/main) - Data Carpentry for Social Sciences and Humanities
-
-- **Registration:** No registration needed
+- **Date:** Friday, 29th September 2023
+- **Time:** 12PM – 13:30PM CEST
+- **Place:** TU Delft Library, Orange Room
+- **Presenter:** TBD
+- **Registration:** TBD
 
 
-<a href='outlook/Rcafe-jun2023.ics' download="R-Cafe">
+<a href='outlook/Rcafe-sep2023.ics' download="R-Cafe">
+<button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
+</a>
+
+:::
+
+::: {.callout-note icon=false}
+
+## R Café October 2023: **R Café event**
+
+- **Date:** Wednesday, 11th October 2023
+- **Time:** 3PM – 7PM CEST
+- **Place:** TU Delft Library, Orange Room
+- **Presenter:** TBD
+- **Registration:** TBD
+
+
+<a href='outlook/Rcafe-oct2023.ics' download="R-Cafe">
 <button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
 </a>
 
 :::
  
+::: {.callout-note icon=false}
+
+## R Café November 2023: **Why is my `for` loop so *fast*? Code performance in R**
+
+- **Date:** Friday, 17th November 2023
+- **Time:** 12PM – 13:30PM CEST
+- **Place:** TU Delft Library, Orange Room
+- **Presenter:** TBD
+- **Registration:** TBD
+
+
+<a href='outlook/Rcafe-nov2023.ics' download="R-Cafe">
+<button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
+</a>
+
+::: 
+ 
+::: {.callout-note icon=false}
+
+## R Café December 2023: **How to create an R package?**
+
+- **Date:** Friday, 15th December 2023
+- **Time:** 12PM – 13:30PM CEST
+- **Place:** TU Delft Library, Orange Room
+- **Presenter:** TBD
+- **Registration:** TBD
+
+
+<a href='outlook/Rcafe-dec2023.ics' download="R-Cafe">
+<button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
+</a>
+
+:::  
+ 
+
+::: {.callout-note icon=false}
+
+## R Café January 2024: **TBD**
+
+- **Date:** **Thursday**, 11th January 2024
+- **Time:** 12PM – 13:30PM CEST
+- **Place:** TU Delft Library, Orange Room
+- **Presenter:** TBD
+- **Registration:** TBD
+
+
+<a href='outlook/Rcafe-jan2024.ics' download="R-Cafe">
+<button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
+</a>
+
+:::  
+
+::: {.callout-note icon=false}
+
+## R Café February 2024: **TBD**
+
+- **Date:** Friday, 23rd February 2024
+- **Time:** 12PM – 13:30PM CEST
+- **Place:** TU Delft Library, Orange Room
+- **Presenter:** TBD
+- **Registration:** TBD
+
+
+<a href='outlook/Rcafe-feb2024.ics' download="R-Cafe">
+<button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
+</a>
+
+::: 
+ 
+::: {.callout-note icon=false}
+
+## R Café March 2024: **TBD**
+
+- **Date:** Friday, 22nd March 2024
+- **Time:** 12PM – 13:30PM CEST
+- **Place:** TU Delft Library, Orange Room
+- **Presenter:** TBD
+- **Registration:** TBD
+
+
+<a href='outlook/Rcafe-mar2024.ics' download="R-Cafe">
+<button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
+</a>
+
+:::  
+
+::: {.callout-note icon=false}
+
+## R Café April 2024: **TBD**
+
+- **Date:** Friday, 26th April 2024
+- **Time:** 12PM – 13:30PM CEST
+- **Place:** TU Delft Library, **Blue** Room
+- **Presenter:** TBD
+- **Registration:** TBD
+
+
+<a href='outlook/Rcafe-apr2024.ics' download="R-Cafe">
+<button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
+</a>
+
+::: 
+
+::: {.callout-note icon=false}
+
+## R Café May 2024: **TBD**
+
+- **Date:** Friday, 24th May 2024
+- **Time:** 12PM – 13:30PM CEST
+- **Place:** TU Delft Library, Orange Room
+- **Presenter:** TBD
+- **Registration:** TBD
+
+
+<a href='outlook/Rcafe-may2024.ics' download="R-Cafe">
+<button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
+</a>
+
+::: 
+ 
 # Past meetings {#sec-past}
+
+##### Troubleshooting walk-in session
+- Date: 7 July 2022
+- Time: 3:00PM – 4:30PM CEST
+- Place: TU Delft BK Building, BG.West.350
+
 
 ##### A gentle introduction to building web apps with R Shiny
 
