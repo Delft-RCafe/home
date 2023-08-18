@@ -323,7 +323,7 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 - **Time:** 12PM – 13:30PM CEST
 - **Place:** TU Delft Library, Orange Room
 - **Presenter:** TBD
-- **Registration:** TBD
+- **Registration:** [Sign up for free pizza](https://www.eventbrite.nl/e/use-apis-to-source-your-data-in-r-tickets-700715176957?aff=oddtdtcreator)
 
 
 <a href='outlook/Rcafe-sep2023.ics' download="R-Cafe">
