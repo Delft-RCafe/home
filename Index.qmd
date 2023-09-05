@@ -5,13 +5,9 @@ format:
   html:
     code-tools: true
     fig-cap-location: bottom
-    self-contained: true
     toc: true
     toc-location: left
     toc-title: 'On this page'
-    theme: 
-        light: cerulean
-        dark: darkly
 execute:
   warning: false
   message: false
