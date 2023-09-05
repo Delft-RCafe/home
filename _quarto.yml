@@ -4,7 +4,7 @@ project:
 
 website:
   title: "TU Delft R Café"
-  site-url: https://delft-rcafe.github.io/home/
+  site-url: https://delft-rcafe.github.io/home/Index.html/
   favicon: img/logo.png
   
   page-footer: 
@@ -14,10 +14,10 @@ website:
   
   navbar: 
     logo: img/logo.png
-    href: https://delft-rcafe.github.io/home/
+    href: https://delft-rcafe.github.io/home/Index.html/
     right:
       - icon: github
-        href:  https://github.com/Delft-RCafe/home
+        href:  https://github.com/Delft-RCafe/home/Index.html/
 
     left:
       - href: Index.qmd
