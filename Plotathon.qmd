@@ -16,6 +16,13 @@ execute:
 
 ![](img/Plot-a-thon_Eventbrite.png)
 
+::: {.column-margin}
+<a href='https://www.eventbrite.nl/e/plot-a-thon-tickets-708427334227?aff=oddtdtcreator'>
+<button type="button" class="btn btn-primary btn-lg">SIGN UP NOW</button>
+</a>
+
+:::
+
 ::: {.panel-tabset}
 
 ## About Plot-a-thon 
