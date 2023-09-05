@@ -1,0 +1,135 @@
+---
+title: "PLOT-A-THON"
+subtitle: "TU Delft R Café x 4TU.ResearchData data visualization challenge"
+format: 
+  html:
+    code-tools: true
+    fig-cap-location: bottom
+    self-contained: true
+    theme: 
+        light: cerulean
+        dark: darkly
+execute:
+  warning: false
+  message: false
+---
+
+![](img/Plot-a-thon_Eventbrite.png)
+
+::: {.panel-tabset}
+
+## About Plot-a-thon 
+
+Are you venturing into the world of R programming and seeking a challenge to elevate your skills? Perhaps you find yourself finetuning your data visualizations a tad too often? Do you yearn to express your creativity while unraveling data's mysteries?
+
+Join us for the first TU Delft R Café Plot-a-thon: a data visualization challenge!
+
+### Who can participate?
+
+The event is dedicated to the TU Delft community. So if you study or work at TU Delft, you’re welcome to participate! The competition is open to R users of all proficiency levels!
+
+You can register individually or as part of a group. If you prefer joining a group but don't have one in mind, don't worry—we can match you with other solo R enthusiasts searching for their pack!
+
+### What’s the challenge?
+
+In this thrilling challenge, you will dive into the world of statistics from the [4TU.ResearchData repository](https://data.4tu.nl/). Once you register, we'll provide instructions on how to access the data and submit your work.
+
+### How to participate?
+
+The tool of choice for this challenge is R! You must upload your visualizations along with the R code that brought them to life, accompanied by a brief description of your project. The rest is limited only by your imagination!
+
+### When’s the deadline?
+
+You'll have approximately two weeks to submit your visualizations before the showcase event on October 11th from 3:00 PM to 6:30 PM. During this event, you'll present your work, and we'll feature an engaging keynote speech while announcing the challenge winners!
+
+### Where do you work?
+
+You can craft your visualizations at your own pace and in your own space. However, the showcase event, where you present your work will be hosted in the inviting Orange Room at the TU Delft Library.
+
+### Why join?
+
+There are plenty of reasons to jump aboard:
+
+Data visualization with R is fun!
+You’ll learn, and you’ll help others learn too!
+The winner will have their visualization featured on the [4TUResearchData repository](https://data.4tu.nl/) website.
+There are additional exciting prizes up for grabs!
+
+### What are the prizes?
+
+- **1st Place**: €300 cash prize and the opportunity to have your data visualization featured on the [4TU.ResearchData repository](https://data.4tu.nl/) website.
+- **2nd Place**: €200 cash prize.
+- **3rd Place**: €100 cash prize.
+- **Audience Pick**: €200 cash prize.
+
+### Need Help?
+
+Should you encounter any challenges during the competition, there are numerous ways to ask for help:
+
+We'll arrange a Q&A drop-in session where you can seek answers to your questions and share any hurdles you're facing.
+An MS Teams channel will facilitate open discussions about any issues related to the challenge.
+You can always reach out to us at [rcafe-lib@tudelft.nl](mailto: rcafe-lib@tudelft.nl) for support!
+
+### Grading Criteria 
+
+Here are the main criteria we will use to grade the data visualizations. Shortly, we will provide a detailed rubric.
+ 
+ - Information
+ - Visual appeal
+ - Analysis
+ - Reproducibility
+
+## Showcase Event 
+
+All the participants of the Plot-a-thon are invited to participate in the Showcase event. During this event, you'll present your work, and we'll feature an engaging keynote speech while announcing the challenge winners!
+
+- **Date:** Wednesday, 11th October 2023
+- **Time:** 3PM – 6:30PM CEST
+- **Place:** TU Delft Library, Orange Room
+
+### Agenda
+
+#### Keynote speech (3:00 PM - 3:20 PM)
+
+Short keynote speech about data visualisations in R.
+
+#### Plots presentations (3:20 PM - 4:00 PM)
+
+Participants will shortly present their visualizations.
+
+#### Coffee break (4:00 PM - 4:15 PM)
+
+During the break we will vote for our favorite visualizations!
+
+#### Awards Ceremony (4:15 PM - 4:30 PM)
+
+Announcement of the jury pick for the 1st, 2nd and 3rd place. We will also reveal the audience pick winner!
+
+
+#### Borrel (4:30 PM - 6:30 PM)
+
+Networking event
+
+## FAQ
+
+### How big should the groups be?
+
+There is no limit to the group size.
+
+### Can I skip the Showcase event?
+
+At least one person from the group needs to be present at the Showcase event to present your work. Also, you wouldn't like to miss it!
+
+### I have just started to learn R. Can I still join?
+
+Sure! You will learn plenty from the challenge, and we will assist you once you get stuck!
+
+### Will you provide food and drinks during the event?
+
+Yes! The refreshments will be provided! We also have cool goodie-packs ready for you!
+
+### How will my work be assessed?
+
+The data visualizations will be assessed by independent judges, using a number of assessment criteria, e.g. data analysis, visual design, reproducibility. The full grading rubric will be shared with with you together with the data visualization assignment.
+
+:::

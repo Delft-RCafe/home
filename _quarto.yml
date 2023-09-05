@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "TU Delft R Café"
+  site-url: https://delft-rcafe.github.io/home/
+  favicon: img/logo.png
+  
+  page-footer: 
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)"
+    left: "&copy; CC-By TU Delft R Café"
+  
+  
+  navbar: 
+    logo: img/logo.png
+    href: https://delft-rcafe.github.io/home/
+    right:
+      - icon: github
+        href:  https://github.com/Delft-RCafe/home
+
+    left:
+      - href: Index.qmd
+        text: Home
+      - href: Plotathon.qmd
+        text: Plot-a-thon
+
+format: 
+  html:
+    code-tools: true
+    fig-cap-location: bottom
+    self-contained: true
+    theme: 
+        light: cerulean
+        dark: cyborg

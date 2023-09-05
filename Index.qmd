@@ -297,13 +297,13 @@ For a full list of R resources collected by members of the R Café, click [here]
 
 # Contact {#sec-contact}
 
-The R Cafe is an initiative of the TU Delft Library [Research Data Services](https://www.tudelft.nl/library/research-data-management) Team and the [Digital Competence Centre](https://www.tudelft.nl/library/library-voor-onderzoekers/library-voor-onderzoekers/onderzoek-starten/dcc).
+The R Café initiative emerged in the TU Delft Library [Research Data Services](https://www.tudelft.nl/library/research-data-management) Team and the [Digital Competence Centre](https://www.tudelft.nl/library/library-voor-onderzoekers/library-voor-onderzoekers/onderzoek-starten/dcc).
 
 ::: {.column-margin}
 ![Artwork by @allison_horst](img/rtwitter.png) 
 :::
 
-The organizers are [Ashley Cryan]( https://www.tudelft.nl/library/research-data-management/r/support/data-stewardship/contact/ashley-cryan) and [Aleksandra Wilczynska]( https://www.tudelft.nl/library/research-data-management/r/support/data-stewardship/contact/aleksandra-wilczynska). For questions or more information, please contact [rcafe-lib@tudelft.nl](mailto:rcafe-lib@tudelft.nl). 
+The organizers are [Aleksandra Wilczynska]( https://www.tudelft.nl/library/research-data-management/r/support/data-stewardship/contact/aleksandra-wilczynska), [Bjørn Bartholdy](https://www.tudelft.nl/library/research-data-management/r/support/data-stewardship/contact/bjoern-bartholdy) and [Roel Janssen](https://community.data.4tu.nl/members/rrejanssen/). For questions or more information, please contact [rcafe-lib@tudelft.nl](mailto:rcafe-lib@tudelft.nl). 
 
 
 You can also find us on [GitHub](https://github.com/Delft-RCafe). 
@@ -317,7 +317,7 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 
 ::: {.callout-note icon=false}
 
-## R Café September 2023: **Sourcing data with R**
+## R Café September 2023: **Use APIs to source your data in R**
 
 - **Date:** Friday, 29th September 2023
 - **Time:** 12PM – 13:30PM CEST
@@ -334,13 +334,18 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 
 ::: {.callout-note icon=false}
 
-## R Café October 2023: **R Café event**
+## R Café October 2023: **Plot-a-thon - data visualization challenge featuring 4TU.ResearchData**
 
+Join us for the first TU Delft [R Café Plot-a-thon](Plotathon.qmd): a data visualization challenge featuring [4TU.ResearchData](https://data.4tu.nl/)!
+
+#### Submissions
+- **Submissions open:** 25th September - 10th October 2023
+- **Registration:** [Sign up to win prizes](https://www.eventbrite.nl/e/plot-a-thon-tickets-708427334227?aff=oddtdtcreator)
+
+#### Showcase event
 - **Date:** Wednesday, 11th October 2023
-- **Time:** 3PM – 7PM CEST
+- **Time:** 3PM – 6:30PM CEST
 - **Place:** TU Delft Library, Orange Room
-- **Presenter:** TBD
-- **Registration:** TBD
 
 
 <a href='outlook/Rcafe-oct2023.ics' download="R-Cafe">
