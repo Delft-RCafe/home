@@ -47,7 +47,33 @@ The tool of choice for this challenge is R! You must upload your visualizations 
 
 ### When’s the deadline?
 
-You'll have approximately two weeks to submit your visualizations before the showcase event on October 11th from 3:00 PM to 6:30 PM. During this event, you'll present your work, and we'll feature an engaging keynote speech while announcing the challenge winners!
+:::{.callout-note}
+## Submission deadline
+
+**9th October 2023, 12PM**
+
+:::
+
+
+You'll have two weeks to submit your visualizations before the showcase event on October 11th from 3:00 PM to 6:30 PM. During this event, you'll present your work, and we'll feature an engaging keynote speech while announcing the challenge winners!
+
+### What's the detailed timeline?
+
+
+| Date                      |    Event                                                                                    |
+|---------------------------|---------------------------------------------------------------------------------------------|
+| **01/09 - 24/09**         | registration for the event is open                                                          |
+| **25/09**                 | dataset with the instructions is sent out to the participants                               |
+| **27/09, 12:45PM**        | online info drop-in session  about the data and the challenge                               |
+| **09/10, 12PM**           | **deadline for work submission**                                                            |
+| **11/10 , 3PM**           | Showcase Event and Award Ceremony Starts                                                    |
+
+
+
+::: {.column-margin}
+![Data visualisation challenge timeline](img/plot-a-thon_timeline.png)                                                
+:::
+
 
 ### Where do you work?
 
@@ -64,10 +90,24 @@ There are additional exciting prizes up for grabs!
 
 ### What are the prizes?
 
-- **1st Place**: €300 cash prize and the opportunity to have your data visualization featured on the [4TU.ResearchData repository](https://data.4tu.nl/) website.
-- **2nd Place**: €200 cash prize.
-- **3rd Place**: €100 cash prize.
-- **Audience Pick**: €200 cash prize.
+| Place           | Prize          |
+|-----------------|----------------|
+|**1st Place**    | €300 cash prize| 
+|**2nd Place**    | €200 cash prize|
+|**3rd Place**    | €100 cash prize|
+|**Audience Pick**| €200 cash prize|
+
+
+::: {.column-margin}
+
+:::{.callout-note}
+Winner will have their data visualization featured on the [4TU.ResearchData repository](https://data.4tu.nl/) website!!
+![](img/4tu.png)                                                
+
+:::
+
+:::
+
 
 ### Need Help?
 
