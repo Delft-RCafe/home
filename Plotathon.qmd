@@ -62,13 +62,14 @@ You'll have two weeks to submit your visualizations before the showcase event on
 
 | Date                      |    Event                                                                                    |
 |---------------------------|---------------------------------------------------------------------------------------------|
-| **01/09 - 24/09**         | registration for the event is open                                                          |
+| **01/09 - 24/09**         | registration for the event is open*                                                         |
 | **25/09**                 | dataset with the instructions is sent out to the participants                               |
 | **27/09, 12:45PM**        | online info drop-in session  about the data and the challenge                               |
 | **09/10, 12PM**           | **deadline for work submission**                                                            |
 | **11/10 , 3PM**           | Showcase Event and Award Ceremony Starts                                                    |
 
 
+\* You will also be able to register after this time, but you will have less time for the challenge.
 
 ::: {.column-margin}
 ![Data visualisation challenge timeline](img/plot-a-thon_timeline.png)                                                
