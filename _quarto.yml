@@ -1,5 +1,6 @@
 project:
   type: website
+  resources: Index.html
   output-dir: docs
 
 website:
@@ -9,7 +10,7 @@ website:
   
   page-footer: 
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)"
-    left: "&copy; CC-By TU Delft R Café"
+    left: "&copy; CC-BY TU Delft R Café"
   
   
   navbar: 
