@@ -120,12 +120,14 @@ You can always reach out to us at [rcafe-lib@tudelft.nl](mailto: rcafe-lib@tudel
 
 ### Grading Criteria 
 
-Here are the main criteria we will use to grade the data visualizations. Shortly, we will provide a detailed rubric.
+Here are the main criteria we will use to grade the data visualizations.
  
- - Information
- - Visual appeal
- - Analysis
- - Reproducibility
+| criterion/score | 0 | 1 | 2 | 3 |
+|----|----|----|----|----|
+| information | The information on the visualisation is not accurate. It is unclear what the visualisation is supposed to depict. | The information in the visualisation is mostly accurate and can be fully understood with the aid of a presentation. | The information on the visualisation is accurate and easily understood without additional information from the creator. Labels, legends, and axes are clearly labeled. |
+| visual appeal | That's nice... | Not bad! | Ooooh pretty! | 🤩🤩🤩 |
+| analysis | Limited data wrangling. No comments provided in code. | Good use of data wrangling to access additional trends in the data. Limited comments provided. | Great use of data wrangling to access information within the dataset. Great use of comments to guide the reader through the code | |
+| reproducibility | Visualisation required more than three interventions to reproduce. | Visualisation reproducible with two or three interventions. | Visualisation reproducible with only a single intervention. | Fully reproducible with no intervention. Works on Linux (Ubuntu), MacOS, and Windows. |
 
 ## Showcase Event 
 
