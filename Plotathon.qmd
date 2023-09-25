@@ -112,11 +112,21 @@ Winner will have their data visualization featured on the [4TU.ResearchData repo
 
 ### Need Help?
 
-Should you encounter any challenges during the competition, there are numerous ways to ask for help:
+Should you encounter any challenges during the competition, there are numerous ways to ask for help.
 
-We'll arrange a Q&A drop-in session where you can seek answers to your questions and share any hurdles you're facing.
-An MS Teams channel will facilitate open discussions about any issues related to the challenge.
-You can always reach out to us at [rcafe-lib@tudelft.nl](mailto: rcafe-lib@tudelft.nl) for support!
+#### Join self-help MS Teams channel 
+If you're stuck with a data visualization channel, post your question in the Plot-a-thon self-help Channel, for other participants and organizers to answer. Like that we learn together!
+
+#### Drop by online info session
+If you would like to meet us and ask questions live, join the Q&A drop-in session online. The session will take place on Wednesday, 27th September, 12:45 - 13:45. 
+ 
+#### Send us an email
+If you have questions about the challenge or organization, you can always reach out to us at [rcafe-lib@tudelft.nl](mailto: rcafe-lib@tudelft.nl) for support!
+
+
+::: {.column-margin}
+![Showcase event agenda](img/showcase-event.png)                                                
+:::
 
 ### Grading Criteria 
 
@@ -129,7 +139,11 @@ Here are the main criteria we will use to grade the data visualizations.
 | analysis | Limited data wrangling. No comments provided in code. | Good use of data wrangling to access additional trends in the data. Limited comments provided. | Great use of data wrangling to access information within the dataset. Great use of comments to guide the reader through the code | |
 | reproducibility | Visualisation required more than three interventions to reproduce. | Visualisation reproducible with two or three interventions. | Visualisation reproducible with only a single intervention. | Fully reproducible with no intervention. Works on Linux (Ubuntu), MacOS, and Windows. |
 
-## Showcase Event 
+### What's next?
+After the submission, you are invited to join our grand finale - the  Showcase Event, where we invite you to present your work and to join the award ceremony. Please remember to save the date on **Wednesday, 11th October, 3PM  at Orange Room, TU Delft Library**.
+
+
+## Showcase Event
 
 All the participants of the Plot-a-thon are invited to participate in the Showcase event. During this event, you'll present your work, and we'll feature an engaging keynote speech while announcing the challenge winners!
 
@@ -137,7 +151,9 @@ All the participants of the Plot-a-thon are invited to participate in the Showca
 - **Time:** 3PM – 6:30PM CEST
 - **Place:** TU Delft Library, Orange Room
 
+
 ### Agenda
+
 
 #### Keynote speech (3:00 PM - 3:20 PM)
 
@@ -156,7 +172,7 @@ During the break we will vote for our favorite visualizations!
 Announcement of the jury pick for the 1st, 2nd and 3rd place. We will also reveal the audience pick winner!
 
 
-#### Borrel (4:30 PM - 6:30 PM)
+#### Meet & mingle (4:30 PM - 6:30 PM)
 
 Networking event
 
