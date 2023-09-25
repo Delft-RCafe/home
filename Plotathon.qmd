@@ -176,6 +176,40 @@ Announcement of the jury pick for the 1st, 2nd and 3rd place. We will also revea
 
 Networking event
 
+## R Starter Kit
+
+### Setup R and RStudio
+
+To complete the challenge, you will need to work with R. You can use it with a code editor of your choice,but if you don’t have a preferred code editor, consider using RStudio, which provides a number of useful features to help your project be well organized.
+Please go through [setup instructions](https://datacarpentry.org/r-socialsci/#setup-instructions) on how to install R and Rstudio, depending on your operating system.
+
+### Create an RStudio Project
+
+This step is not necessary, but will help you organize your work better. If you’re working with RStudio, you can create a project that encapsulates all your work associated with Plot-a-thon in one place. Read the [instructions on how to create a new project](https://datacarpentry.org/r-socialsci/00-intro.html#create-a-new-project). 
+
+### Load dataset to R 
+
+To work with the dataset we’ve sent you, you will need to load it to your working environment. There are a few ways to do this in R. You can read a [csv file using `read.csv()` function](http://swcarpentry.github.io/r-novice-inflammation/11-supp-read-write-csv) available in the installation version of R. 
+You can also opt for making use of some add-on packages, for instance very widely used `tidyverse` package(s). Then, you would [read data with `read_csv()` function](https://datacarpentry.org/r-socialsci/02-starting-with-data.html#importing-data). 
+
+The choice is yours!
+
+
+### R data visualization packages & resources
+
+R has some built-in functions to visualize data. But oftentimes, you might want to use packages that are curated specifically for data visualization. Here are some examples of packages that you might find useful: 
+ 
+ * [`ggplot2`](https://ggplot2.tidyverse.org/) - graphics library, based on grammar of graphics framework
+ * [`plotly`](https://plotly.com/r/) - interactive graphics
+ * [`leaflet`](https://rstudio.github.io/leaflet/) - interactive maps
+ * [`dygraphs`](https://rstudio.github.io/dygraphs/) - interactive time-series graphics
+
+To get you started with visualizations in R, follow the [Data Carpentry episode](https://datacarpentry.org/r-socialsci/05-ggplot2.html) on data visualizations using `ggplot2`.
+
+
+For further reading, look at some [resources on data visualizations in R](https://delft-rcafe.github.io/resources/#data-visualisation), gathered by TU Delft R Café. 
+
+
 ## FAQ
 
 ### How big should the groups be?
