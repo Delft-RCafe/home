@@ -128,7 +128,7 @@ If you have questions about the challenge or organization, you can always reach 
 ![Showcase event agenda](img/showcase-event.png)                                                
 :::
 
-### Grading Criteria 
+### Grading Criteria {#plot-grading}
 
 Here are the main criteria we will use to grade the data visualizations.
  
@@ -180,20 +180,26 @@ Networking event
 
 ### Setup R and RStudio
 
-To complete the challenge, you will need to work with R. You can use it with a code editor of your choice,but if you don’t have a preferred code editor, consider using RStudio, which provides a number of useful features to help your project be well organized.
-Please go through [setup instructions](https://datacarpentry.org/r-socialsci/#setup-instructions) on how to install R and Rstudio, depending on your operating system.
+To complete the challenge, you will need to work with R. You can use it with a code editor of your choice, but if you don’t have a preferred code editor, we recommend using RStudio, which provides a number of useful features to help your project be well organized.
+Please go through [setup instructions](https://datacarpentry.org/r-socialsci/#setup-instructions) on how to install R and RStudio, depending on your operating system.
 
 ### Create an RStudio Project
 
 This step is not necessary, but will help you organize your work better. If you’re working with RStudio, you can create a project that encapsulates all your work associated with Plot-a-thon in one place. Read the [instructions on how to create a new project](https://datacarpentry.org/r-socialsci/00-intro.html#create-a-new-project). 
 
-### Load dataset to R 
+### Load dataset into R 
 
-To work with the dataset we’ve sent you, you will need to load it to your working environment. There are a few ways to do this in R. You can read a [csv file using `read.csv()` function](http://swcarpentry.github.io/r-novice-inflammation/11-supp-read-write-csv) available in the installation version of R. 
-You can also opt for making use of some add-on packages, for instance very widely used `tidyverse` package(s). Then, you would [read data with `read_csv()` function](https://datacarpentry.org/r-socialsci/02-starting-with-data.html#importing-data). 
+To work with the dataset we’ve sent you, you will need to load it into your working environment. There are a few ways to do this in R. You can load a csv file into R using the [`read.csv()` function](http://swcarpentry.github.io/r-novice-inflammation/11-supp-read-write-csv) available in the installation version of R. 
+You can also opt for making use of some add-on packages, for instance very widely used `tidyverse` package(s), which includes `ggplot2`. Then, you can [load data with `read_csv()` function](https://datacarpentry.org/r-socialsci/02-starting-with-data.html#importing-data). 
 
 The choice is yours!
 
+To install `tidyverse`:
+
+```{r}
+#| eval: false
+install.packages("tidyverse")
+```
 
 ### R data visualization packages & resources
 
@@ -205,7 +211,6 @@ R has some built-in functions to visualize data. But oftentimes, you might want 
  * [`dygraphs`](https://rstudio.github.io/dygraphs/) - interactive time-series graphics
 
 To get you started with visualizations in R, follow the [Data Carpentry episode](https://datacarpentry.org/r-socialsci/05-ggplot2.html) on data visualizations using `ggplot2`.
-
 
 For further reading, look at some [resources on data visualizations in R](https://delft-rcafe.github.io/resources/#data-visualisation), gathered by TU Delft R Café. 
 
@@ -230,6 +235,6 @@ Yes! The refreshments will be provided! We also have cool goodie-packs ready for
 
 ### How will my work be assessed?
 
-The data visualizations will be assessed by independent judges, using a number of assessment criteria, e.g. data analysis, visual design, reproducibility. The full grading rubric will be shared with with you together with the data visualization assignment.
+The data visualizations will be assessed by independent judges, using a number of assessment criteria, e.g. data analysis, visual design, reproducibility. The [full grading rubric](#plot-grading) will be shared with with you together with the data visualization assignment.
 
 :::
