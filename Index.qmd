@@ -311,22 +311,6 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 
 # Upcoming meetings {#sec-upcoming}
 
-::: {.callout-note icon=false}
-
-## R Café September 2023: **Use APIs to source your data in R**
-
-- **Date:** Friday, 29th September 2023
-- **Time:** 12PM – 13:30PM CEST
-- **Place:** TU Delft Library, Orange Room
-- **Presenter:** TBD
-- **Registration:** [Sign up for free pizza](https://www.eventbrite.nl/e/use-apis-to-source-your-data-in-r-tickets-700715176957?aff=oddtdtcreator)
-
-
-<a href='outlook/Rcafe-sep2023.ics' download="R-Cafe">
-<button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
-</a>
-
-:::
 
 ::: {.callout-note icon=false}
 
@@ -472,6 +456,17 @@ Join us for the first TU Delft [R Café Plot-a-thon](Plotathon.qmd): a data visu
  
 # Past meetings {#sec-past}
 
+
+
+##### Use APIs to source your data in R
+
+- Date: 29th September 2023
+- Time: 12PM – 13:30PM CEST
+- Place: TU Delft Library, Orange Room
+- Presenter: [Bjørn Bartholdy](https://www.universiteitleiden.nl/en/staffmembers/bjorn-peare-bartholdy#tab-1) & [Aleksandra Wilczynska](https://www.tudelft.nl/library/research-data-management/r/support/data-stewardship/contact/aleksandra-wilczynska)
+- **Resources: [Walkthrough](https://raw.githack.com/Delft-RCafe/resources/main/themes/apis_in_r/apis-in-r.html)**
+
+
 ##### Troubleshooting walk-in session
 - Date: 7 July 2022
 - Time: 3:00PM – 4:30PM CEST
@@ -484,7 +479,7 @@ Join us for the first TU Delft [R Café Plot-a-thon](Plotathon.qmd): a data visu
 - Time: 12PM – 13:30PM CEST
 - Place: TU Delft Library, Blue Room
 - Presenter: [Aleksandra Wilczynska](https://www.tudelft.nl/library/research-data-management/r/support/data-stewardship/contact/aleksandra-wilczynska) & [Ashley Cryan](https://www.tudelft.nl/library/research-data-management/r/support/data-stewardship/contact/ashley-cryan)
-- **Resources:** [R project](https://github.com/Delft-RCafe/resources/tree/main/themes/intro_shiny)
+- **Resources: [R project](https://github.com/Delft-RCafe/resources/tree/main/themes/intro_shiny)**
 
 
 ##### Level up your reproducibility game with Quarto
@@ -493,7 +488,7 @@ Join us for the first TU Delft [R Café Plot-a-thon](Plotathon.qmd): a data visu
 - Time: 12PM – 13:30PM CEST
 - Place: TU Delft Library, Orange Room
 - Presenters: [Claudiu Forgaci](https://www.tudelft.nl/en/staff/c.forgaci/?cHash=9502327a507dad434f22a30ca4f4771b) & [Bjørn Bartholdy](https://www.universiteitleiden.nl/en/staffmembers/bjorn-peare-bartholdy#tab-1)
-- **Resources:** [R project](https://github.com/bbartholdy/quarto-level-up-reproducibility/releases/tag/v23.04.0-beta)
+- **Resources: [R project](https://github.com/bbartholdy/quarto-level-up-reproducibility/releases/tag/v23.04.0-beta)**
 
 
 ##### Network science approach to psychopathology using R
@@ -502,7 +497,7 @@ Join us for the first TU Delft [R Café Plot-a-thon](Plotathon.qmd): a data visu
 - Time: 12PM – 13:30PM CEST 
 - Place: TU Delft Library, Orange Room
 - Presenter: [Alberto Jover Martínez](https://www.nsmd.eu/organisation/people/jover-martinez-alberto)
-- **Resources:** [R project](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Delft-RCafe/resources/tree/main/themes/network_science) 
+- **Resources: [R project](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Delft-RCafe/resources/tree/main/themes/network_science)** 
 
 ##### Organizing a research paper as an R package
 
