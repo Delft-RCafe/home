@@ -314,35 +314,13 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 
 ::: {.callout-note icon=false}
 
-## R Café October 2023: **Plot-a-thon - data visualization challenge featuring 4TU.ResearchData**
-
-Join us for the first TU Delft [R Café Plot-a-thon](Plotathon.qmd): a data visualization challenge featuring [4TU.ResearchData](https://data.4tu.nl/)!
-
-#### Submissions
-- **Submissions open:** 25th September - 10th October 2023
-- **Registration:** [Sign up to win prizes](https://www.eventbrite.nl/e/plot-a-thon-tickets-708427334227?aff=oddtdtcreator)
-
-#### Showcase event
-- **Date:** Wednesday, 11th October 2023
-- **Time:** 3PM – 6:30PM CEST
-- **Place:** TU Delft Library, Orange Room
-
-
-<a href='outlook/Rcafe-oct2023.ics' download="R-Cafe">
-<button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
-</a>
-
-:::
- 
-::: {.callout-note icon=false}
-
-## R Café November 2023: **Why is my `for` loop so *fast*? Code performance in R**
+## R Café November 2023: **Code performance in R**
 
 - **Date:** Friday, 17th November 2023
 - **Time:** 12PM – 13:30PM CEST
 - **Place:** TU Delft Library, Orange Room
 - **Presenter:** TBD
-- **Registration:** TBD
+- **Registration:** [Sign up for free pizza](https://www.eventbrite.nl/e/code-performance-in-r-tickets-737067196827?aff=oddtdtcreator)
 
 
 <a href='outlook/Rcafe-nov2023.ics' download="R-Cafe">
@@ -456,6 +434,12 @@ Join us for the first TU Delft [R Café Plot-a-thon](Plotathon.qmd): a data visu
  
 # Past meetings {#sec-past}
 
+##### Plot-a-thon showcase event
+
+- Date: 11th October 2023
+- Time: 15PM – 17PM CEST
+- Place: TU Delft Library, Orange Room
+- Presenter: [Roel Janssen](https://community.data.4tu.nl/members/rrejanssen/) 
 
 
 ##### Use APIs to source your data in R
