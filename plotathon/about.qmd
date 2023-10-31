@@ -1,0 +1,41 @@
+---
+title: "PLOT-A-THON"
+subtitle: "TU Delft R Café x 4TU.ResearchData data visualization challenge"
+format: 
+  html:
+    code-tools: true
+    fig-cap-location: bottom
+    self-contained: true
+    theme: 
+        light: cerulean
+        dark: darkly
+execute:
+  warning: false
+  message: false
+---
+
+![](../img/Plot-a-thon_Eventbrite.png)
+
+::: {.column-margin}
+<a href='2023-plotathon.html'>
+<button type="button" class="btn btn-primary btn-lg">EVENT OVER</button>
+</a>
+
+:::
+
+## About Plot-a-thon 
+
+Are you venturing into the world of R programming and seeking a challenge to elevate your skills? Perhaps you find yourself finetuning your data visualizations a tad too often? Do you yearn to express your creativity while unraveling data's mysteries?
+
+Read about the first [TU Delft R Café Plot-a-thon: a data visualization challenge!](https://community.data.4tu.nl/2023/10/17/first-tu-delft-r-plot-a-thon-inspiring/)
+
+### Who can participate?
+
+The event is dedicated to the TU Delft community. So if you study or work at TU Delft, you’re welcome to participate! The competition is open to R users of all proficiency levels!
+
+You can register individually or as part of a group. If you prefer joining a group but don't have one in mind, don't worry—we can match you with other solo R enthusiasts searching for their pack!
+
+### Past events
+
+[October 2023](./2023-plotathon.qmd)
+

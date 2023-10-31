@@ -1,0 +1,25 @@
+---
+toc: true
+toc-location: body
+toc-title: "Frequently asked questions"
+---
+
+### How big should the groups be?
+
+There is no limit to the group size.
+
+### Can I skip the Showcase event?
+
+At least one person from the group needs to be present at the Showcase event to present your work. Also, you wouldn't like to miss it!
+
+### I have just started to learn R. Can I still join?
+
+Sure! You will learn plenty from the challenge, and we will assist you once you get stuck!
+
+### Will you provide food and drinks during the event?
+
+Yes! The refreshments will be provided! We also have cool goodie-packs ready for you!
+
+### How will my work be assessed?
+
+The data visualizations will be assessed by independent judges, using a number of assessment criteria, e.g. data analysis, visual design, reproducibility. The full grading rubric will be shared with with you together with the data visualization assignment.
