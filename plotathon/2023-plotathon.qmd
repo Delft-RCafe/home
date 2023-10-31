@@ -1,0 +1,202 @@
+
+![Congratulations to the winners of the first R Café Plot-a-thon, Rodrigo Revilla
+Llaca, Claudiu Forgaci, and Yiyuan Zou!](../img/plot-a-thon_winners.jpg)
+
+
+::: {.panel-tabset}
+
+## Info
+
+### What’s the challenge?
+
+In this thrilling challenge, you will dive into the world of statistics from the [4TU.ResearchData repository](https://data.4tu.nl/). Once you register, we'll provide instructions on how to access the data and submit your work.
+
+### How to participate?
+
+The tool of choice for this challenge is R! You must upload your visualizations along with the R code that brought them to life, accompanied by a brief description of your project. The rest is limited only by your imagination!
+
+### When’s the deadline?
+
+:::{.callout-note}
+## Submission deadline
+
+**9th October 2023, 12PM**
+
+:::
+
+
+You'll have two weeks to submit your visualizations before the showcase event on October 11th from 3:00 PM to 6:30 PM. During this event, you'll present your work, and we'll feature an engaging keynote speech while announcing the challenge winners!
+
+
+
+### Where do you work?
+
+You can craft your visualizations at your own pace and in your own space. However, the showcase event, where you present your work will be hosted in the inviting Orange Room at the TU Delft Library.
+
+### Why join?
+
+There are plenty of reasons to jump aboard:
+
+Data visualization with R is fun!
+You’ll learn, and you’ll help others learn too!
+The winner will have their visualization featured on the [4TUResearchData repository](https://data.4tu.nl/) website.
+There are additional exciting prizes up for grabs!
+
+### What are the prizes?
+
+| Place           | Prize          |
+|-----------------|----------------|
+|**1st Place**    | €300 cash prize| 
+|**2nd Place**    | €200 cash prize|
+|**3rd Place**    | €100 cash prize|
+|**Audience Pick**| €200 cash prize|
+
+
+::: {.column-margin}
+
+:::{.callout-note}
+Winner will have their data visualization featured on the [4TU.ResearchData repository](https://data.4tu.nl/) website!!
+![](../img/4tu.png)                                                
+
+:::
+
+:::
+
+
+### Need Help?
+
+Should you encounter any challenges during the competition, there are numerous ways to ask for help.
+
+#### Join self-help MS Teams channel 
+If you're stuck with a data visualization channel, post your question in the Plot-a-thon self-help Channel, for other participants and organizers to answer. Like that we learn together!
+
+#### Drop by online info session
+If you would like to meet us and ask questions live, join the Q&A drop-in session online. The session will take place on Wednesday, 27th September, 12:45 - 13:45. 
+ 
+#### Send us an email
+If you have questions about the challenge or organization, you can always reach out to us at [rcafe-lib@tudelft.nl](mailto: rcafe-lib@tudelft.nl) for support!
+
+
+::: {.column-margin}
+![Showcase event agenda](../img/showcase-event.png)                                                
+:::
+
+### Grading Criteria 
+
+Here are the main criteria we will use to grade the data visualizations.
+ 
+| criterion/score | 0 | 1 | 2 | 3 |
+|----|----|----|----|----|
+| information | The information on the visualisation is not accurate. It is unclear what the visualisation is supposed to depict. | The information in the visualisation is mostly accurate and can be fully understood with the aid of a presentation. | The information on the visualisation is accurate and easily understood without additional information from the creator. Labels, legends, and axes are clearly labeled. |
+| visual appeal | That's nice... | Not bad! | Ooooh pretty! | 🤩🤩🤩 |
+| analysis | Limited data wrangling. No comments provided in code. | Good use of data wrangling to access additional trends in the data. Limited comments provided. | Great use of data wrangling to access information within the dataset. Great use of comments to guide the reader through the code | |
+| reproducibility | Visualisation required more than three interventions to reproduce. | Visualisation reproducible with two or three interventions. | Visualisation reproducible with only a single intervention. | Fully reproducible with no intervention. Works on Linux (Ubuntu), MacOS, and Windows. |
+
+### What's next?
+After the submission, you are invited to join our grand finale - the  Showcase Event, where we invite you to present your work and to join the award ceremony. Please remember to save the date on **Wednesday, 11th October, 3PM  at Orange Room, TU Delft Library**.
+
+## Schedule
+
+### Detailed timeline
+
+
+| Date                      |    Event                                                                                    |
+|---------------------------|---------------------------------------------------------------------------------------------|
+| **01/09 - 24/09**         | registration for the event is open*                                                         |
+| **25/09**                 | dataset with the instructions is sent out to the participants                               |
+| **27/09, 12:45PM**        | online info drop-in session  about the data and the challenge                               |
+| **09/10, 12PM**           | **deadline for work submission**                                                            |
+| **11/10 , 3PM**           | Showcase Event and Award Ceremony Starts                                                    |
+
+
+\* You will also be able to register after this time, but you will have less time for the challenge.
+
+::: {.column-margin}
+![Data visualisation challenge timeline](../img/plot-a-thon_timeline.png)                                                
+:::
+
+### Showcase agenda
+
+All the participants of the Plot-a-thon are invited to participate in the Showcase event. During this event, you'll present your work, and we'll feature an engaging keynote speech while announcing the challenge winners!
+
+- **Date:** Wednesday, 11th October 2023
+- **Time:** 3PM – 6:30PM CEST
+- **Place:** TU Delft Library, Orange Room
+
+#### Keynote speech (3:00 PM - 3:20 PM)
+
+Short keynote speech about data visualisations in R.
+
+#### Plots presentations (3:20 PM - 4:00 PM)
+
+Participants will shortly present their visualizations.
+
+#### Coffee break (4:00 PM - 4:15 PM)
+
+During the break we will vote for our favorite visualizations!
+
+#### Awards Ceremony (4:15 PM - 4:30 PM)
+
+Announcement of the jury pick for the 1st, 2nd and 3rd place. We will also reveal the audience pick winner!
+
+
+#### Meet & mingle (4:30 PM - 6:30 PM)
+
+Networking event
+
+## Showcase event
+
+The first edition of the R Café Plot-a-thon was a success! The event kicked off
+with a keynote lecture by Roel Janssen on some of the quirks of the R programming
+language, followed by presentations by each of the participants.
+
+Prizes were awarded to the winners and the day was wrapped-up with a networking
+event and a lot of R-talk!
+
+Read more about the showcase event on the
+[4TU community website.](https://community.data.4tu.nl/2023/10/17/first-tu-delft-r-plot-a-thon-inspiring/)
+
+### Winning submissions
+
+🥇 **1st**
+
+[![](../img/submission_Rodrigo_Revilla.png){width=400}](../img/Rplot.svg)
+
+🥈 **2nd**
+
+[![](../img/4tu-stats.png){width=400}](../img/4tu-stats.png)
+
+🥉 **3rd**
+
+[![](../img/plot-a-thon_yiyuan.png){width=400}](../img/plot-a-thon_yiyuan.png)
+
+### Event gallery
+
+:::: {.columns}
+
+::: {.column}
+
+[![](../img/plot-a-thon_keynote.jpg)](../img/plot-a-thon_keynote.jpg)
+
+[![](../img/plot-a-thon_1.jpg)](../img/plot-a-thon_1.jpg)
+
+[![](../img/plot-a-thon_2.jpg)](../img/plot-a-thon_2.jpg)
+
+[![](../img/plot-a-thon_3.jpg)](../img/plot-a-thon_3.jpg)
+
+:::
+::: {.column}
+
+[![](../img/plot-a-thon_4.jpg)](../img/plot-a-thon_4.jpg)
+
+[![](../img/plot-a-thon_5.jpg)](../img/plot-a-thon_5.jpg)
+
+[![](../img/plot-a-thon_6.jpg)](../img/plot-a-thon_6.jpg)
+
+[![](../img/plot-a-thon_7.jpg)](../img/plot-a-thon_7.jpg)
+
+:::
+
+::::
+
+:::
