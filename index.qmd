@@ -331,7 +331,7 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
  
 ::: {.callout-note icon=false}
 
-## R Café December 2023: **How to create an R package?**
+## R Café December 2023: **TBD**
 
 - **Date:** Friday, 15th December 2023
 - **Time:** 12PM – 13:30PM CEST
