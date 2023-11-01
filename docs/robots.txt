@@ -1,1 +1,1 @@
-Sitemap: https://delft-rcafe.github.io/home/Index.html/sitemap.xml
+Sitemap: https://delft-rcafe.github.io/home/sitemap.xml
