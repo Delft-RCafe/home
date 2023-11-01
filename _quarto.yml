@@ -23,9 +23,14 @@ website:
     left:
       - href: Index.qmd
         text: Home
-      - href: Plotathon.qmd
-        text: Plot-a-thon
-
+      - text: Plot-a-thon
+        menu: 
+          - text: "About"
+            href: plotathon/about.qmd
+          - text: "FAQ"
+            href: plotathon/faq.qmd
+          - text: "2023"
+            href: plotathon/2023-plotathon.qmd
 format: 
   html:
     code-tools: true
