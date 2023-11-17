@@ -103,7 +103,7 @@ wordcloud2(wcloud_data, size = 0.7, color = mycolors)
 ```
 
 
-
+<!--
 ```{r}
 #| label: network
 #| fig-cap: "Connections between words in IDE master theses: bigram count network created with `networkD3` package"
@@ -191,7 +191,7 @@ dygraph(stocks) %>%
 
 ```
 
-
+-->
 
 # Join the TU Delft R Café!{#sec-joinrcafe}
 
@@ -211,6 +211,8 @@ If you plan to join online, please pre-register so that we can order enough refr
 
 Our initiative was inspired by Utrecht University’s R Café now [Programming Café](https://www.uu.nl/en/research/research-data-management/walk-in-hours-workshops/programming-cafe).
 
+<!--
+
 ### Hear from our members
 ```{r}
 #| echo: false 
@@ -225,6 +227,7 @@ embed_url( "https://youtu.be/6C8_TGZc6B0" )
 
 ```
 
+-->
 
 # Who can join?{#sec-who}
 
@@ -337,7 +340,7 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 - **Time:** 12PM – 13:30PM CEST
 - **Place:** TU Delft Library, Orange Room
 - **Presenter:** TBD
-- **Registration:** TBD
+- **Registration:** [Sign up to participate](https://vu-nl.libcal.com/event/4120296)
 
 
 <a href='outlook/Rcafe-dec2023.ics' download="R-Cafe">
