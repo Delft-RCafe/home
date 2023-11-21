@@ -314,24 +314,6 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 
 # Upcoming meetings {#sec-upcoming}
 
-
-::: {.callout-note icon=false}
-
-## R Café November 2023: **Code performance in R**
-
-- **Date:** Friday, 17th November 2023
-- **Time:** 12PM – 13:30PM CEST
-- **Place:** TU Delft Library, Orange Room
-- **Presenter:** TBD
-- **Registration:** [Sign up for free pizza](https://www.eventbrite.nl/e/code-performance-in-r-tickets-737067196827?aff=oddtdtcreator)
-
-
-<a href='outlook/Rcafe-nov2023.ics' download="R-Cafe">
-<button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
-</a>
-
-::: 
- 
 ::: {.callout-note icon=false}
 
 ## R Café December 2023: **Advent of Code**
@@ -436,6 +418,14 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 ::: 
  
 # Past meetings {#sec-past}
+
+##### Code performance in R
+
+- Date: Friday, 17th November 2023
+- Time: 12PM – 13:30PM CEST
+- Place: TU Delft Library, Orange Room
+- Presenter: [Roel Janssen](https://community.data.4tu.nl/members/rrejanssen/) 
+
 
 ##### Plot-a-thon showcase event
 
