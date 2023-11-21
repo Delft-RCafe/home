@@ -314,16 +314,6 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 
 # Upcoming meetings {#sec-upcoming}
 
-
-::: {.callout-note icon=false}
-
-
-<a href='outlook/Rcafe-nov2023.ics' download="R-Cafe">
-<button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
-</a>
-
-::: 
- 
 ::: {.callout-note icon=false}
 
 ## R Café December 2023: **Advent of Code**
@@ -339,8 +329,7 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 <button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
 </a>
 
-:::  
- 
+:::
 
 ::: {.callout-note icon=false}
 
