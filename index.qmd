@@ -322,7 +322,8 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 - **Time:** 12PM – 13:30PM CEST
 - **Place:** TU Delft Library, Orange Room
 - **Presenter:** TBD
-- **Registration:** [Sign up to participate](https://vu-nl.libcal.com/event/4120296)
+- **Registration:** [Advent of Code](https://vu-nl.libcal.com/event/4120296)
+- **Registration:** [R Café and pizza!](https://www.eventbrite.nl/e/advent-of-code-tickets-760613634857)
 
 
 <a href='outlook/Rcafe-dec2023.ics' download="R-Cafe">
