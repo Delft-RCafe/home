@@ -1,0 +1,27 @@
+/*-- scss:defaults --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Roboto&display=swap');
+@import url("https://www.nerdfonts.com/assets/css/webfont.css");
+
+$white: #ffffff;
+$black: #000000;
+$blue: #00a6d6;
+
+$font-family-sans-serif: Roboto, sans-serif;
+
+// document colours
+$headings-color: $blue;
+$body-bg: $white;
+$body-color: $black;
+$link-color: $blue;
+$navbar-fg: $white;
+
+/*-- scss:rules --*/
+
+.navbar {
+    color: $white;
+}
+
+h1, h2, h3, h4 {
+    font-family: Bungee, sans-serif;
+}

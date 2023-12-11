@@ -37,5 +37,5 @@ format:
     fig-cap-location: bottom
     self-contained: true
     theme: 
-        light: cerulean
-        dark: cyborg
+        light: rcafe-theme.scss
+        dark: rcafe-dark.scss
