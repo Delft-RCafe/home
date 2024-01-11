@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "events/AoC/about.html",
-    "href": "events/AoC/about.html",
-    "title": "Advent of Code",
-    "section": "",
-    "text": "Advent of Code is an event that takes place from the 1st to the 25th of December. Each day a new programming puzzle is released and can be solved using your choice of programming language."
-  },
-  {
-    "objectID": "events/AoC/about.html#about-advent-of-code",
-    "href": "events/AoC/about.html#about-advent-of-code",
-    "title": "Advent of Code",
-    "section": "",
-    "text": "Advent of Code is an event that takes place from the 1st to the 25th of December. Each day a new programming puzzle is released and can be solved using your choice of programming language."
-  },
-  {
-    "objectID": "events/AoC/about.html#special-nl-edition",
-    "href": "events/AoC/about.html#special-nl-edition",
-    "title": "Advent of Code",
-    "section": "Special NL Edition",
-    "text": "Special NL Edition\nWe have teamed up with our colleagues from Bytes and Bites to organise a local edition of Advent of Code for Dutch Universities."
-  },
-  {
     "objectID": "plotathon/about.html#about-plot-a-thon",
     "href": "plotathon/about.html#about-plot-a-thon",
     "title": "PLOT-A-THON",
@@ -49,24 +28,10 @@
     "text": "Subscribe\nTo stay informed about upcoming events, please subscribe to our mailing list."
   },
   {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "",
-    "section": "",
-    "text": "Code\n\n\n\n\n\n\nArtwork by @allison_horst\n\n\nSome inspiration for working with R!\n\nInstall R for your OS\nInstall RStudio\nGallery of data visualization in R\nReproducible Research in R\nR for Excel\nLearning statistics with R\nText mining with R\nHappy Git and GitHub for the useR"
-  },
-  {
     "objectID": "plotathon/faq.html",
     "href": "plotathon/faq.html",
     "title": "",
     "section": "",
     "text": "Code\n\n\n\n\nHow big should the groups be?\nThere is no limit to the group size.\n\n\nCan I skip the Showcase event?\nAt least one person from the group needs to be present at the Showcase event to present your work. Also, you wouldn’t like to miss it!\n\n\nI have just started to learn R. Can I still join?\nSure! You will learn plenty from the challenge, and we will assist you once you get stuck!\n\n\nWill you provide food and drinks during the event?\nYes! The refreshments will be provided! We also have cool goodie-packs ready for you!\n\n\nHow will my work be assessed?\nThe data visualizations will be assessed by independent judges, using a number of assessment criteria, e.g. data analysis, visual design, reproducibility. The full grading rubric will be shared with with you together with the data visualization assignment."
-  },
-  {
-    "objectID": "events/index.html",
-    "href": "events/index.html",
-    "title": "Events",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAdvent of Code\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
