@@ -1,19 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://delft-rcafe.github.io/home/events/AoC/about.html</loc>
+<<<<<<< Updated upstream
+    <lastmod>2023-12-18T15:42:39.988Z</lastmod>
+  </url>
+  <url>
     <loc>https://delft-rcafe.github.io/home/plotathon/about.html</loc>
-    <lastmod>2024-01-11T10:21:44.431Z</lastmod>
+    <lastmod>2023-12-18T15:42:38.160Z</lastmod>
   </url>
   <url>
     <loc>https://delft-rcafe.github.io/home/plotathon/2023-plotathon.html</loc>
-    <lastmod>2024-01-11T10:21:41.167Z</lastmod>
+    <lastmod>2023-12-18T15:42:36.572Z</lastmod>
   </url>
   <url>
     <loc>https://delft-rcafe.github.io/home/index.html</loc>
-    <lastmod>2024-01-11T10:21:38.919Z</lastmod>
+    <lastmod>2024-01-11T09:54:57.803Z</lastmod>
+  </url>
+  <url>
+    <loc>https://delft-rcafe.github.io/home/resources.html</loc>
+    <lastmod>2023-12-18T15:42:35.044Z</lastmod>
   </url>
   <url>
     <loc>https://delft-rcafe.github.io/home/plotathon/faq.html</loc>
-    <lastmod>2024-01-11T10:21:42.995Z</lastmod>
+    <lastmod>2023-12-18T15:42:37.340Z</lastmod>
+  </url>
+  <url>
+    <loc>https://delft-rcafe.github.io/home/events/index.html</loc>
+    <lastmod>2023-12-18T15:42:39.152Z</lastmod>
+=======
+    <lastmod>2024-01-11T10:19:06.062Z</lastmod>
+  </url>
+  <url>
+    <loc>https://delft-rcafe.github.io/home/plotathon/about.html</loc>
+    <lastmod>2024-01-11T10:19:04.522Z</lastmod>
+  </url>
+  <url>
+    <loc>https://delft-rcafe.github.io/home/plotathon/2023-plotathon.html</loc>
+    <lastmod>2024-01-11T10:19:03.058Z</lastmod>
+  </url>
+  <url>
+    <loc>https://delft-rcafe.github.io/home/index.html</loc>
+    <lastmod>2024-01-11T10:19:00.946Z</lastmod>
+  </url>
+  <url>
+    <loc>https://delft-rcafe.github.io/home/resources.html</loc>
+    <lastmod>2024-01-11T10:19:01.754Z</lastmod>
+  </url>
+  <url>
+    <loc>https://delft-rcafe.github.io/home/plotathon/faq.html</loc>
+    <lastmod>2024-01-11T10:19:03.770Z</lastmod>
+  </url>
+  <url>
+    <loc>https://delft-rcafe.github.io/home/events/index.html</loc>
+    <lastmod>2024-01-11T10:19:05.330Z</lastmod>
+>>>>>>> Stashed changes
   </url>
 </urlset>
