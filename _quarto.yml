@@ -3,6 +3,9 @@ project:
   resources: Index.html
   output-dir: docs
 
+execute: 
+  freeze: auto
+
 website:
   title: "TU Delft R Café"
   site-url: https://delft-rcafe.github.io/home/
