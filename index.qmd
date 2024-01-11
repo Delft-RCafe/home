@@ -323,6 +323,7 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 - **Place:** TU Delft Library, Orange Room
 - **Presenter:** TBD
 - **Registration:** https://www.eventbrite.nl/e/creating-r-packages-tickets-775576679727
+- **Resources:** [presentation](https://raw.githack.com/Delft-RCafe/resources/main/themes/creating-r-package/index.html); [repo](https://github.com/Delft-RCafe/resources/themes/creating-r-package)
 
 
 <a href='outlook/Rcafe-jan2024.ics' download="R-Cafe">
