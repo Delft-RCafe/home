@@ -314,40 +314,6 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 
 # Upcoming meetings {#sec-upcoming}
 
-::: {.callout-note icon=false}
-
-## R Café December 2023: **Advent of Code**
-
-- **Date:** Friday, 15th December 2023
-- **Time:** 12PM – 13:30PM CEST
-- **Place:** TU Delft Library, Orange Room
-- **Presenter:** TBD
-- **Registration:** [Advent of Code](https://vu-nl.libcal.com/event/4120296)
-- **Registration:** [R Café and pizza!](https://www.eventbrite.nl/e/advent-of-code-tickets-760613634857)
-
-
-<a href='outlook/Rcafe-dec2023.ics' download="R-Cafe">
-<button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
-</a>
-
-:::
-
-::: {.callout-note icon=false}
-
-## R Café January 2024: **TBD**
-
-- **Date:** **Thursday**, 11th January 2024
-- **Time:** 12PM – 13:30PM CEST
-- **Place:** TU Delft Library, Orange Room
-- **Presenter:** TBD
-- **Registration:** TBD
-
-
-<a href='outlook/Rcafe-jan2024.ics' download="R-Cafe">
-<button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
-</a>
-
-:::  
 
 ::: {.callout-note icon=false}
 
@@ -418,6 +384,24 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 ::: 
  
 # Past meetings {#sec-past}
+
+
+##### R Café January 2024: **Creating an R package**
+
+- Date: Thursday, 11th January 2024
+- Time: 12PM – 13:30PM CEST
+- Place: TU Delft Library, Orange Room
+- Presenter: [Bjørn Bartholdy](https://www.universiteitleiden.nl/en/staffmembers/bjorn-peare-bartholdy#tab-1)
+- Resources: [presentation](https://raw.githack.com/Delft-RCafe/resources/main/themes/creating-r-package/index.html); [repo](https://github.com/Delft-RCafe/resources/tree/main/themes/creating-r-package)
+
+
+##### R Café December 2023: **Advent of Code**
+
+- Date: Friday, 15th December 2023
+- Time: 12PM – 13:30PM CEST
+- Place: TU Delft Library, Orange Room
+- Presenter: [Bjørn Bartholdy](https://www.universiteitleiden.nl/en/staffmembers/bjorn-peare-bartholdy#tab-1)
+
 
 ##### Code performance in R
 

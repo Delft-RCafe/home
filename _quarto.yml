@@ -1,7 +1,10 @@
 project:
   type: website
   resources: Index.html
-  output-dir: docs
+  #output-dir: docs
+
+execute: 
+  freeze: auto
 
 website:
   title: "TU Delft R Café"
