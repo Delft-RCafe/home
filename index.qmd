@@ -317,13 +317,13 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 
 ::: {.callout-note icon=false}
 
-## R Café February 2024: **TBD**
+## R Café February 2024: **Creating an R Package (the sequel)**
 
 - **Date:** Friday, 23rd February 2024
 - **Time:** 12PM – 13:30PM CEST
 - **Place:** TU Delft Library, Orange Room
 - **Presenter:** TBD
-- **Registration:** TBD
+- **Registration:** [Eventbrite](https://www.eventbrite.nl/e/creating-r-packages-the-sequel-tickets-808823682407)
 
 
 <a href='outlook/Rcafe-feb2024.ics' download="R-Cafe">
