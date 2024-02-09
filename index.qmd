@@ -20,20 +20,22 @@ execute:
 
 # Load libraries ----------------------------------------------------------
 # Package names
-packages <- c("tidyverse", "here", "data.table", "igraph", "ggraph", "stringr", "tm", "tidytext", "pluralize" , "quanteda", "fst", "stopwords", "SnowballC", "textstem" , "viridis", "htmlwidgets", "webshot", "lexicon", "wesanderson", "RColorBrewer", "textdata", "stringi", "vembedr"
-              )
+# packages <- c("tidyverse", "here", "data.table", "igraph", "ggraph", "stringr", "tm", "tidytext", "pluralize" , "quanteda", "fst", "stopwords", "SnowballC", "textstem" , "viridis", "htmlwidgets", "webshot", "lexicon", "wesanderson", "RColorBrewer", "textdata", "stringi", "vembedr"
+#               )
 
 # Install packages not yet installed
-installed_packages <- packages %in% rownames(installed.packages())
-if (any(installed_packages == FALSE)) {
-  install.packages(packages[!installed_packages], repos="http://cran.us.r-project.org")
-}
+# installed_packages <- packages %in% rownames(installed.packages())
+# if (any(installed_packages == FALSE)) {
+#   install.packages(packages[!installed_packages], repos="http://cran.us.r-project.org")
+# }
 
 # Packages loading 
-invisible(lapply(packages, library, character.only = TRUE))
+#invisible(lapply(packages, library, character.only = TRUE))
 
 # Themes and colors ----------------------------------------------------------
 
+library(here)
+library(ggplot2)
 # Set the ggplot theme
 theme_set(theme_minimal())
 
@@ -103,7 +105,6 @@ wordcloud2(wcloud_data, size = 0.7, color = mycolors)
 ```
 
 
-<!--
 ```{r}
 #| label: network
 #| fig-cap: "Connections between words in IDE master theses: bigram count network created with `networkD3` package"
@@ -112,6 +113,7 @@ wordcloud2(wcloud_data, size = 0.7, color = mycolors)
 
 # Load networkD3 package
 library(networkD3)
+library(igraph)
 
 # Load data 
 network <- readRDS(here('data', 'network.RDS'))
@@ -191,7 +193,6 @@ dygraph(stocks) %>%
 
 ```
 
--->
 
 # Join the TU Delft R Café!{#sec-joinrcafe}
 
@@ -211,23 +212,6 @@ If you plan to join online, please pre-register so that we can order enough refr
 
 Our initiative was inspired by Utrecht University’s R Café now [Programming Café](https://www.uu.nl/en/research/research-data-management/walk-in-hours-workshops/programming-cafe).
 
-<!--
-
-### Hear from our members
-```{r}
-#| echo: false 
-embed_url( "https://youtu.be/u-w1-fiBJrI" )
-
-```
-
-
-```{r}
-#| echo: false 
-embed_url( "https://youtu.be/6C8_TGZc6B0" )
-
-```
-
--->
 
 # Who can join?{#sec-who}
 
