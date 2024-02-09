@@ -60,6 +60,26 @@ tud_blue<-'#00A6D6'
 ![](img/poster_mailing_list.png)
 ---
 
+# Upcoming meeting {#sec-upcoming}
+
+::: {.callout-note icon=false}
+
+## R Café February 2024: **TBD**
+
+- **Date:** Friday, 23rd February 2024
+- **Time:** 12PM – 13:30PM CEST
+- **Place:** TU Delft Library, Orange Room
+- **Presenter:** TBD
+- **Registration:** TBD
+
+
+<a href='outlook/Rcafe-feb2024.ics' download="R-Cafe">
+<button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
+</a>
+
+::: 
+
+
 # Why R?{#sec-whyr}
 
 
@@ -312,26 +332,9 @@ You can also find us on [GitHub](https://github.com/Delft-RCafe).
 
 To stay informed about upcoming events, please subscribe to our [mailing list](https://c.spotler.com/ct/m7/k1/N8Z4e19vGcZGN2mE3VcMXfDMXZoWzWbiRLJZ2JUjp5kjHNFzI5QbCaHn2bZuk-sa/bWDAUgBpGub4uVH).
 
-# Upcoming meetings {#sec-upcoming}
+# Future meetings {#sec-future}
 
 
-::: {.callout-note icon=false}
-
-## R Café February 2024: **TBD**
-
-- **Date:** Friday, 23rd February 2024
-- **Time:** 12PM – 13:30PM CEST
-- **Place:** TU Delft Library, Orange Room
-- **Presenter:** TBD
-- **Registration:** TBD
-
-
-<a href='outlook/Rcafe-feb2024.ics' download="R-Cafe">
-<button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
-</a>
-
-::: 
- 
 ::: {.callout-note icon=false}
 
 ## R Café March 2024: **TBD**
