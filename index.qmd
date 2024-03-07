@@ -351,7 +351,7 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
  
 # Past meetings {#sec-past}
 
-## R Café February 2024: **Creating an R Package (the sequel)**
+##### R Café February 2024: **Creating an R Package (the sequel)**
 
 - Date: Friday, 23rd February 2024
 - Time: 12PM – 13:30PM CEST
