@@ -300,12 +300,12 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 
 ::: {.callout-note icon=false}
 
-## R Café March 2024: **TBD**
+## R Café March 2024: **Open forum - come and have a chat!**
 
 - **Date:** Friday, 22nd March 2024
 - **Time:** 12PM – 13:30PM CEST
-- **Place:** TU Delft Library, Orange Room
-- **Presenter:** TBD
+- **Place:** TU Delft Library, Albert Einstein
+- **Presenter:** NA
 - **Registration:** TBD
 
 
@@ -319,7 +319,7 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 
 ## R Café April 2024: **TBD**
 
-- **Date:** Friday, 26th April 2024
+- **Date:** Thursday, 25th April 2024
 - **Time:** 12PM – 13:30PM CEST
 - **Place:** TU Delft Library, **Blue** Room
 - **Presenter:** TBD
@@ -336,9 +336,9 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 
 ## R Café May 2024: **Using APIs to retrieve social media data**
 
-- **Date:** Friday, 24th May 2024
+- **Date:** Thursday, 23rd May 2024
 - **Time:** 12PM – 13:30PM CEST
-- **Place:** TU Delft Library, Orange Room
+- **Place:** TU Delft Library, Blue Room
 - **Presenter:** Sofia Gil Clavel
 - **Registration:** TBD
 
