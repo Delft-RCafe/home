@@ -300,23 +300,6 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 
 ::: {.callout-note icon=false}
 
-## R Café March 2024: **Open forum - come and have a chat!**
-
-- **Date:** Friday, 22nd March 2024
-- **Time:** 12PM – 13:30PM CEST
-- **Place:** TU Delft Library, Albert Einstein
-- **Presenter:** NA
-- **Registration:** TBD
-
-
-<a href='outlook/Rcafe-mar2024.ics' download="R-Cafe">
-<button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
-</a>
-
-:::  
-
-::: {.callout-note icon=false}
-
 ## R Café April 2024: **TBD**
 
 - **Date:** Thursday, 25th April 2024
@@ -350,6 +333,13 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 ::: 
  
 # Past meetings {#sec-past}
+
+##### R Café March 2024: **Open forum - come and have a chat!**
+
+- Date: Friday, 22nd March 2024
+- Time: 12PM – 13:30PM CEST
+- Place: TU Delft Library, Albert Einstein
+- Presenter: NA
 
 ##### R Café February 2024: **Creating an R Package (the sequel)**
 
