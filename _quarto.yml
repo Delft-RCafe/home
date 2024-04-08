@@ -31,6 +31,8 @@ website:
         menu: 
           - text: "Plot-a-thon"
             href: plotathon/about.qmd
+      - href: about.qmd
+        text: About
 
   sidebar:
     - id: plotathon

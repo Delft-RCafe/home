@@ -1,0 +1,101 @@
+# Join the TU Delft R Café!{#sec-joinrcafe}
+
+
+![Live coding during our monthly R Café meeting in September 2022](img/r_cafe.jpg)
+
+
+![R Café reproducible research & pizza meeting in February 2023](img/r_cafe_feb.jpg)
+
+We’re a group of R enthusiasts from across the TU Delft community who meet monthly to discuss questions from the very broad *Why should I use R?* to the hyper-specific *Why is my code not working?!*
+
+
+Together we make up a supportive community of practice for researchers to share knowledge and learn with each other in an open and informal setting.
+
+If you plan to join online, please pre-register so that we can order enough refreshments. See below for upcoming dates and registration links, and make sure to update your registration if you can’t make it.
+
+
+Our initiative was inspired by Utrecht University’s R Café now [Programming Café](https://www.uu.nl/en/research/research-data-management/walk-in-hours-workshops/programming-cafe).
+
+# Who can join?{#sec-who}
+
+The R Café is open to anyone who works in R or is interested in learning. No prior experience with R is necessary - all are welcome! 
+
+::: {.column-margin}
+![Artwork by @allison_horst](img/monsteRs.jpg)
+:::
+
+Many of our members have recently completed the Data Carpentry workshop and are looking for a space to continue practicing R skills with others. You can also join if you’ve got plenty of R experience and want to share some awesome tips and tricks (e.g., about an R package, type of analysis, or visualization) with others! 
+
+
+To get the most out of the R Café, we suggest that you bring your laptop with R and RStudio installed. You can find details on installing R and RStudio in the [Resources](#sec-res) section below - please let us know if you need any help.
+ 
+
+# How do R Café meetings run?{#sec-how}
+
+Our monthly meetings usually have a theme which we can touch upon by brief presentations by one or more of our members, exercises for us to work through, a group discussion, or some combination.
+
+
+We take a hands-on approach to work through problems and always have RStudio open for live coding. 
+
+::: {.column-margin}
+![](img/pizza2.gif)
+:::
+
+If you have an R-related question or challenge that is specific to your project, we are happy to discuss in any of our meetings. If your question requires a lot of context, it’s helpful if you can send us an email with details before the meeting. 
+
+Because we know our audience, we offer a *unique*  combination of `r emo::ji("coffee")` and  `r emo::ji("pizza")`.
+
+:::{.callout-tip}
+## Want to get involved?
+
+Got a favorite topic you’d like us to explore, or an idea for a presentation at an upcoming R Café? Please let us know at: [rcafe-lib@tudelft.nl](mailto:rcafe-lib@tudelft.nl)
+
+:::
+
+
+# Resources {#sec-res}
+
+
+Some inspiration for working with R! 
+
+- [Install R for your OS](https://cran.r-project.org/) 
+
+- [Install RStudio](https://www.rstudio.com/products/rstudio/download/#download) 
+
+- [Gallery of data visualization in R](https://r-graph-gallery.com/)
+
+- [Reproducible Research in R](https://datacarpentry.org/rr-workshop/) 
+
+- [R for Excel](https://rstudio-conf-2020.github.io/r-for-excel/)
+
+- [Learning statistics with R](https://bookdown.org/ekothe/navarro26/preface.html) 
+
+- [Text mining with R](https://juliasilge.shinyapps.io/learntidytext/) 
+
+- [Happy Git and GitHub for the useR](https://happygitwithr.com/) 
+
+::: {.column-margin}
+![Artwork by @allison_horst](img/monster_support.jpg)
+:::
+
+
+For a full list of R resources collected by members of the R Café, click [here](https://delft-rcafe.github.io/resources/).
+
+# Contact {#sec-contact}
+
+The R Café initiative emerged in the TU Delft Library [Research Data Services](https://www.tudelft.nl/library/research-data-management) Team and the [Digital Competence Centre](https://www.tudelft.nl/library/library-voor-onderzoekers/library-voor-onderzoekers/onderzoek-starten/dcc).
+
+::: {.column-margin}
+![Artwork by @allison_horst](img/rtwitter.png) 
+:::
+
+The organizers are [Aleksandra Wilczynska]( https://www.tudelft.nl/library/research-data-management/r/support/data-stewardship/contact/aleksandra-wilczynska), [Bjørn Bartholdy](https://www.tudelft.nl/library/research-data-management/r/support/data-stewardship/contact/bjoern-bartholdy) and [Roel Janssen](https://community.data.4tu.nl/members/rrejanssen/). For questions or more information, please contact [rcafe-lib@tudelft.nl](mailto:rcafe-lib@tudelft.nl). 
+
+
+You can also find us on [GitHub](https://github.com/Delft-RCafe). 
+
+## Subscribe {#sec-subscribe}
+
+
+To stay informed about upcoming events, please subscribe to our [mailing list](https://c.spotler.com/ct/m7/k1/N8Z4e19vGcZGN2mE3VcMXfDMXZoWzWbiRLJZ2JUjp5kjHNFzI5QbCaHn2bZuk-sa/bWDAUgBpGub4uVH).
+
