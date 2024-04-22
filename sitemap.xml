@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://delft-rcafe.github.io/home/plotathon/about.html</loc>
-    <lastmod>2024-04-06T19:35:09.428Z</lastmod>
+    <loc>https://delft-rcafe.github.io/home/index.html</loc>
+    <lastmod>2024-04-22T12:20:37.205Z</lastmod>
   </url>
   <url>
     <loc>https://delft-rcafe.github.io/home/plotathon/2023-plotathon.html</loc>
-    <lastmod>2024-04-06T19:35:09.428Z</lastmod>
-  </url>
-  <url>
-    <loc>https://delft-rcafe.github.io/home/index.html</loc>
-    <lastmod>2024-04-06T19:35:09.424Z</lastmod>
+    <lastmod>2024-04-22T12:20:37.209Z</lastmod>
   </url>
   <url>
     <loc>https://delft-rcafe.github.io/home/plotathon/faq.html</loc>
-    <lastmod>2024-04-06T19:35:09.428Z</lastmod>
+    <lastmod>2024-04-22T12:20:37.209Z</lastmod>
+  </url>
+  <url>
+    <loc>https://delft-rcafe.github.io/home/plotathon/about.html</loc>
+    <lastmod>2024-04-22T12:20:37.209Z</lastmod>
   </url>
 </urlset>
