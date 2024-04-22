@@ -300,16 +300,16 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 
 ::: {.callout-note icon=false}
 
-## R Café April 2024: **TBD**
+## R Café April 2024: **R vs Python**
 
 - **Date:** Thursday, 25th April 2024
 - **Time:** 12PM – 13:30PM CEST
 - **Place:** TU Delft Library, **Blue** Room
-- **Presenter:** TBD
-- **Registration:** TBD
+- **Presenter:** Roel Janssen
+- **Registration:** Not required
 
 
-<a href='outlook/Rcafe-apr2024.ics' download="R-Cafe">
+<a href='outlook/Rcafe-apr2024.ics' download="R-Cafe.ics">
 <button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
 </a>
 
@@ -321,12 +321,12 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 
 - **Date:** Thursday, 23rd May 2024
 - **Time:** 12PM – 13:30PM CEST
-- **Place:** TU Delft Library, Blue Room
+- **Place:** TU Delft Library, **Blue** Room
 - **Presenter:** Sofia Gil Clavel
 - **Registration:** TBD
 
 
-<a href='outlook/Rcafe-may2024.ics' download="R-Cafe">
+<a href='outlook/Rcafe-may2024.ics' download="R-Cafe.ics">
 <button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
 </a>
 
