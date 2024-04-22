@@ -25,6 +25,7 @@ listing:
     fields: 
       - title
       - subtitle
+      - author
       - date
     field-display-names:
       subtitle: "Theme"
