@@ -1,0 +1,21 @@
+<% for (const item of items) { %>
+  
+  <div class="callout callout-style-default callout-note no-icon callout-titled">
+  <h5><%= item.title %></h5>
+  <ul>
+    <li>
+        <b>Theme: </b><%= item.subtitle %>
+    </li>
+    <li>
+        <b>Date: </b><%= item.date %>
+    </li>
+    <li>
+        <b>Place: </b><%= item.description %>
+    </li>
+    <li>
+        <b>Presenter: </b><%= item.author %>
+    </li>
+  </ul>
+  <a href="https://delft-rcafe.github.io/home/outlook/<%= item.ics %>" download="R-Cafe.ics"><button type="button" class="btn btn-primary btn-sm">Add to calendar</button> </a>
+</div>
+<% } %>

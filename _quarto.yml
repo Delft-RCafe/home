@@ -1,6 +1,8 @@
 project:
   type: website
-  resources: Index.html
+  resources: 
+    - Index.html
+    - outlook
   #output-dir: docs
 
 execute: 
@@ -29,6 +31,8 @@ website:
         text: Home
       - text: Events
         menu: 
+          - text: Meetings
+            href: events/meetings/index.qmd
           - text: "Plot-a-thon"
             href: plotathon/about.qmd
       - href: about.qmd

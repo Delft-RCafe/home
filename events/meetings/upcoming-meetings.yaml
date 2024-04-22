@@ -1,12 +1,14 @@
 - title: 'R Cafe April'
   subtitle: 'Benchmarking R and Python'
-  description: TUD Lib, Blue Room
+  description: TUD Library, Blue Room
   author: Roel Janssen
   date:  2024-04-25
   path: NA
+  ics: 'Rcafe-apr2024.ics'
 - title: 'R Cafe May'
   subtitle: 'Using APIs to retrieve social media data'
-  description: TUD Lib, Orange Room
+  description: TUD Library, Orange Room
   author: Sofia Gil Clavel
   date:  2024-05-23
   path: NA
+  ics: 'Rcafe-may2024.ics'

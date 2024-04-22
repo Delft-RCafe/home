@@ -1,144 +1,144 @@
 - title: 'R Cafe November'
-  subtitle: TUD Lib, Coffee Star
-  description: 'R Café Kickoff'
-  author: '[NA](NA)'
+  subtitle: 'R Café Kickoff'
+  description: 'TUD Library, Coffee Star'
+  author: 'NA'
   date:  2021-11-01
   path: NA
 - title: 'R Cafe November'
-  subtitle: Online
-  description: 'Do you want to build your R coding skills, or write R code with others?'
-  author: '[NA](NA)'
+  subtitle: 'Do you want to build your R coding skills, or write R code with others?'
+  description: 'Online'
+  author: 'NA'
   date:  2021-11-29
   path: NA
 - title: 'R Cafe July'
-  subtitle: Online
-  description: 'Do you want to build your R coding skills, or write R code with others?'
-  author: '[NA](NA)'
+  subtitle: 'Do you want to build your R coding skills, or write R code with others?'
+  description: 'Online'
+  author: 'NA'
   date:  2022-07-02
   path: NA
 - title: 'R Cafe March'
-  subtitle: Online
-  description: 'Do you want to build your R coding skills, or write R code with others?'
-  author: '[NA](NA)'
+  subtitle: 'Do you want to build your R coding skills, or write R code with others?'
+  description: 'Online'
+  author: 'NA'
   date:  2022-03-03
   path: NA
 - title: 'R Cafe April'
-  subtitle: Online
-  description: 'Do you want to build your R coding skills, or write R code with others?'
-  author: '[NA](NA)'
+  subtitle: 'Do you want to build your R coding skills, or write R code with others?'
+  description: 'Online'
+  author: 'NA'
   date:  2022-04-04
   path: NA
 - title: 'R Cafe November'
-  subtitle: TUD Lib, Steve Jobs Room
-  description: 'Do you want to build your R coding skills, or write R code with others?'
-  author: '[NA](NA)'
+  subtitle: 'Do you want to build your R coding skills, or write R code with others?'
+  description: 'TUD Library, Steve Jobs Room'
+  author: 'NA'
   date:  2022-11-05
   path: NA
 - title: 'R Cafe September'
-  subtitle: TUD BK, BG.West.350
-  description: 'Do you want to build your R coding skills, or write R code with others?'
-  author: '[NA](NA)'
+  subtitle: 'Do you want to build your R coding skills, or write R code with others?'
+  description: 'TUD BK, BG.West.350'
+  author: 'NA'
   date:  2022-09-06
   path: NA
 - title: 'R Cafe July'
-  subtitle: TUD Lib, Gertrude Stein
-  description: 'Do you want to build your R coding skills, or write R code with others?'
-  author: '[NA](NA)'
+  subtitle: 'Do you want to build your R coding skills, or write R code with others?'
+  description: 'TUD Library, Gertrude Stein'
+  author: 'NA'
   date:  2022-07-07
   path: NA
 - title: 'R Cafe August'
-  subtitle: TUD Lib, Steve Jobs Room
-  description: 'Prepare your R script before you get your data? How to do it effectively?'
-  author: '[NA](NA)'
+  subtitle: 'Prepare your R script before you get your data? How to do it effectively?'
+  description: 'TUD Library, Steve Jobs Room'
+  author: 'NA'
   date:  2022-08-26
   path: https://delft-rcafe.github.io/2022-08-26-Prepare-your-script/Index.html#/
 - title: 'R Cafe September'
-  subtitle: TUD Lib, Steve Jobs Room
-  description: 'Using the `apply` family of functions'
-  author: '[NA](NA)'
+  subtitle: 'Using the `apply` family of functions'
+  description: 'TUD Library, Steve Jobs Room'
+  author: 'NA'
   date:  2022-09-26
   path: https://github.com/Delft-RCafe/resources/tree/main/themes/apply_family
 - title: 'R Cafe April'
-  subtitle: TUD BK, BG.West.670
-  description: 'Time series visualisation with `dygraphs` library'
-  author: '[NA](NA)'
+  subtitle: 'Time series visualisation with `dygraphs` library'
+  description: 'TUD BK, BG.West.670'
+  author: 'NA'
   date:  2022-04-11
   path: https://github.com/Delft-RCafe/resources/tree/main/themes/xts_dygraphs
 - title: 'R Cafe February'
-  subtitle: TUD Lib, Elbert Einstein Room
-  description: 'R for Geospatial data ( Data Carpentry follow-up)'
-  author: '[NA](NA)'
+  subtitle: 'R for Geospatial data ( Data Carpentry follow-up)'
+  description: 'TUD Library, Elbert Einstein Room'
+  author: 'NA'
   date:  2022-02-12
   path: https://github.com/Delft-RCafe/resources/tree/main/themes/geospatial
 - title: 'R Cafe January'
-  subtitle: TUD BK, BG.West.640
-  description: 'Dealing with messy data in R'
-  author: '[Rodrigo Revilla](NA)'
+  subtitle: 'Dealing with messy data in R'
+  description: 'TUD BK, BG.West.640'
+  author: 'Rodrigo Revilla'
   date:  2023-01-13
   path: https://github.com/Delft-RCafe/resources/tree/main/themes/pdf_to_R
 - title: 'R Cafe October'
-  subtitle: TUD Lib, Orange Room
-  description: 'Organizing a research paper as an R package'
-  author: '[Bjørn Bartholdy](https://www.universiteitleiden.nl/en/staffmembers/bjorn-peare-bartholdy#tab-1)'
+  subtitle: 'Organizing a research paper as an R package'
+  description: 'TUD Library, Orange Room'
+  author: 'Bjørn Bartholdy'
   date:  2023-10-02
   path: https://github.com/Delft-RCafe/resources/tree/main/themes/research_package
 - title: 'R Cafe March'
-  subtitle: TUD Lib, Orange Room
-  description: 'Network Science approach to psychopathology using R'
-  author: '[Alberto Jover Martínez](https://www.nsmd.eu/organisation/people/jover-martinez-alberto)'
+  subtitle: 'Network Science approach to psychopathology using R'
+  description: 'TUD Library, Orange Room'
+  author: 'Alberto Jover Martínez'
   date:  2023-03-17
   path: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Delft-RCafe/resources/tree/main/themes/network_science
 - title: 'R Cafe April'
-  subtitle: TUD Lib, Orange Room
-  description: 'Level up your reproducibility game with Quarto'
-  author: '[Claudiu Forgaci;Bjørn Bartholdy](NA)'
+  subtitle: 'Level up your reproducibility game with Quarto'
+  description: 'TUD Library, Orange Room'
+  author: 'Claudiu Forgaci & Bjørn Bartholdy'
   date:  2023-04-24
   path: https://github.com/bbartholdy/quarto-level-up-reproducibility/releases/tag/v23.04.0-beta
 - title: 'R Cafe May'
-  subtitle: TUD Lib, Blue Room
-  description: 'A gentle introduction to building web apps with R Shiny'
-  author: '[Aleksandra Wilczynska;Ashley Cryan](NA)'
+  subtitle: 'A gentle introduction to building web apps with R Shiny'
+  description: 'TUD Library, Blue Room'
+  author: 'Aleksandra Wilczynska & Ashley Cryan'
   date:  2023-05-30
   path: https://github.com/Delft-RCafe/resources/tree/main/themes/intro_shiny
 - title: 'R Cafe September'
-  subtitle: TUD Lib, Orange Room
-  description: 'Use APIs to source your data in R'
-  author: '[Bjørn Bartholdy;Aleksandra Wilczynska](NA)'
+  subtitle: 'Use APIs to source your data in R'
+  description: 'TUD Library, Orange Room'
+  author: 'Bjørn Bartholdy & Aleksandra Wilczynska'
   date:  2023-09-29
   path: https://raw.githack.com/Delft-RCafe/resources/main/themes/apis_in_r/apis-in-r.html
 - title: 'R Cafe November'
-  subtitle: TUD Lib, Orange Room
-  description: 'Datathon - keynote : syntax of ggplot'
-  author: '[Roel Janssen](https://community.data.4tu.nl/members/rrejanssen/)'
+  subtitle: 'Datathon - keynote : syntax of ggplot'
+  description: 'TUD Library, Orange Room'
+  author: 'Roel Janssen'
   date:  2023-11-10
   path: NA
 - title: 'R Cafe November'
-  subtitle: TUD Lib, Orange Room
-  description: 'why for loops can be faster than other options ( lapply?) / (measurement of ) performance of code'
-  author: '[Roel Janssen](https://community.data.4tu.nl/members/rrejanssen/)'
+  subtitle: 'why for loops can be faster than other options ( lapply?) / (measurement of ) performance of code'
+  description: 'TUD Library, Orange Room'
+  author: 'Roel Janssen'
   date:  2023-11-17
   path: NA
 - title: 'R Cafe December'
-  subtitle: TUD Lib, Orange Room
-  description: 'Advent of Code'
-  author: '[Bjørn Bartholdy](https://www.tudelft.nl/en/library/research-data-management/r/support/data-stewardship/contact/bjoern-bartholdy)'
+  subtitle: 'Advent of Code'
+  description: 'TUD Library, Orange Room'
+  author: 'Bjørn Bartholdy'
   date:  2023-12-15
   path: NA
 - title: 'R Cafe January'
-  subtitle: TUD Lib, Orange Room
-  description: 'Creating an R package'
-  author: '[Bjørn Bartholdy](https://www.tudelft.nl/en/library/research-data-management/r/support/data-stewardship/contact/bjoern-bartholdy)'
+  subtitle: 'Creating an R package'
+  description: 'TUD Library, Orange Room'
+  author: 'Bjørn Bartholdy'
   date:  2024-01-11
   path: https://github.com/Delft-RCafe/resources/tree/main/themes/creating-r-package
 - title: 'R Cafe February'
-  subtitle: TUD Lib, Orange Room
-  description: 'Creating an R package (the sequel)'
-  author: '[Bjørn Bartholdy](https://www.tudelft.nl/en/library/research-data-management/r/support/data-stewardship/contact/bjoern-bartholdy)'
+  subtitle: 'Creating an R package (the sequel)'
+  description: 'TUD Library, Orange Room'
+  author: 'Bjørn Bartholdy'
   date:  2024-02-23
   path: https://github.com/Delft-RCafe/resources/tree/main/themes/creating-r-package
 - title: 'R Cafe March'
-  subtitle: TUD Lib, Albert Einstein
-  description: 'Open Forum'
-  author: '[NA](NA)'
+  subtitle: 'Open Forum'
+  description: 'TUD Library, Albert Einstein'
+  author: 'NA'
   date:  2024-03-22
   path: NA

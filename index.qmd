@@ -11,6 +11,33 @@ format:
 execute:
   warning: false
   message: false
+listing: 
+  - id: upcoming
+    template: custom.ejs 
+    image-placeholder: /img/logo_square.png
+    type: grid
+    max-items: 1
+    grid-columns: 1
+    fields: 
+      - title
+      - subtitle
+      - author
+      - description
+    contents:
+    - events/meetings/upcoming-meetings.yaml
+  - id: past
+    type: table
+    sort: "date desc"
+    fields: 
+      - title
+      - subtitle
+      - author
+      - date
+    field-display-names:
+      subtitle: "Theme"
+      author: "Presenter"
+    contents:
+      - past-meetings.yaml
 ---
 
 ```{r}
@@ -19,18 +46,21 @@ execute:
 #| include: false
 
 # Load libraries ----------------------------------------------------------
+library(ggplot2)
+library(tidyverse)
+library(here)
 # Package names
-packages <- c("tidyverse", "here", "data.table", "igraph", "ggraph", "stringr", "tm", "tidytext", "pluralize" , "quanteda", "fst", "stopwords", "SnowballC", "textstem" , "viridis", "htmlwidgets", "webshot", "lexicon", "wesanderson", "RColorBrewer", "textdata", "stringi", "vembedr"
-              )
-
-# Install packages not yet installed
-installed_packages <- packages %in% rownames(installed.packages())
-if (any(installed_packages == FALSE)) {
-  install.packages(packages[!installed_packages], repos="http://cran.us.r-project.org")
-}
-
-# Packages loading 
-invisible(lapply(packages, library, character.only = TRUE))
+# packages <- c("tidyverse", "here", "data.table", "igraph", "ggraph", "stringr", "tm", "tidytext", "pluralize" , "quanteda", "fst", "stopwords", "SnowballC", "textstem" , "viridis", "htmlwidgets", "webshot", "lexicon", "wesanderson", "RColorBrewer", "textdata", "stringi", "vembedr"
+#               )
+# 
+# # Install packages not yet installed
+# installed_packages <- packages %in% rownames(installed.packages())
+# if (any(installed_packages == FALSE)) {
+#   install.packages(packages[!installed_packages], repos="http://cran.us.r-project.org")
+# }
+# 
+# # Packages loading 
+# invisible(lapply(packages, library, character.only = TRUE))
 
 # Themes and colors ----------------------------------------------------------
 
@@ -62,6 +92,10 @@ tud_blue<-'#00A6D6'
 
 # Upcoming meeting {#sec-upcoming}
 
+:::{#upcoming}
+:::
+
+
 ::: {.callout-note icon=false}
 
 ## R Café February 2024: **TBD**
@@ -73,7 +107,7 @@ tud_blue<-'#00A6D6'
 - **Registration:** TBD
 
 
-<a href='outlook/Rcafe-feb2024.ics' download="R-Cafe">
+<a href='outlook/Rcafe-feb2024.ics' download="R-Cafe.ics">
 <button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
 </a>
 
@@ -99,8 +133,6 @@ Do you want to build your skills in the programming language R, write R code wit
 
 During R Café meetings, we're trying out different tools and types of analysis. Here's a small sample of what we've been working on:
 
-
-
 ```{r}
 #| label: word-cloud
 #| fig-cap: "Words used in IDE master theses: word cloud created with `wordcloud2` package"
@@ -123,62 +155,10 @@ wordcloud2(wcloud_data, size = 0.7, color = mycolors)
 ```
 
 
-# Future meetings {#sec-future}
-
-
-::: {.callout-note icon=false}
-
-## R Café March 2024: **TBD**
-
-- **Date:** Friday, 22nd March 2024
-- **Time:** 12PM – 13:30PM CEST
-- **Place:** TU Delft Library, Orange Room
-- **Presenter:** TBD
-- **Registration:** TBD
-
-
-<a href='outlook/Rcafe-mar2024.ics' download="R-Cafe">
-<button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
-</a>
-
-:::  
-
-::: {.callout-note icon=false}
-
-## R Café April 2024: **TBD**
-
-- **Date:** Friday, 26th April 2024
-- **Time:** 12PM – 13:30PM CEST
-- **Place:** TU Delft Library, **Blue** Room
-- **Presenter:** TBD
-- **Registration:** TBD
-
-
-<a href='outlook/Rcafe-apr2024.ics' download="R-Cafe">
-<button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
-</a>
-
-::: 
-
-::: {.callout-note icon=false}
-
-## R Café May 2024: **TBD**
-
-- **Date:** Friday, 24th May 2024
-- **Time:** 12PM – 13:30PM CEST
-- **Place:** TU Delft Library, Orange Room
-- **Presenter:** TBD
-- **Registration:** TBD
-
-
-<a href='outlook/Rcafe-may2024.ics' download="R-Cafe">
-<button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
-</a>
-
-::: 
- 
 # Past meetings {#sec-past}
 
+:::{#past}
+:::
 
 ##### R Café January 2024: **Creating an R package**
 
