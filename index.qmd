@@ -96,24 +96,6 @@ tud_blue<-'#00A6D6'
 :::
 
 
-::: {.callout-note icon=false}
-
-## R Café February 2024: **TBD**
-
-- **Date:** Friday, 23rd February 2024
-- **Time:** 12PM – 13:30PM CEST
-- **Place:** TU Delft Library, Orange Room
-- **Presenter:** TBD
-- **Registration:** TBD
-
-
-<a href='outlook/Rcafe-feb2024.ics' download="R-Cafe.ics">
-<button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
-</a>
-
-::: 
-
-
 # Why R?{#sec-whyr}
 
 
