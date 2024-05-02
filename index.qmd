@@ -300,23 +300,6 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 
 ::: {.callout-note icon=false}
 
-## R Café April 2024: **R vs Python**
-
-- **Date:** Thursday, 25th April 2024
-- **Time:** 12PM – 13:30PM CEST
-- **Place:** TU Delft Library, **Blue** Room
-- **Presenter:** Roel Janssen
-- **Registration:** Not required
-
-
-<a href='outlook/Rcafe-apr2024.ics' download="R-Cafe.ics">
-<button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
-</a>
-
-::: 
-
-::: {.callout-note icon=false}
-
 ## R Café May 2024: **Using APIs to retrieve social media data**
 
 - **Date:** Thursday, 23rd May 2024
@@ -333,6 +316,13 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 ::: 
  
 # Past meetings {#sec-past}
+
+##### R Café April 2024: **R vs Python**
+
+- Date: Thursday, 25th April 2024
+- Time: 12PM – 13:30PM CEST
+- Place: TU Delft Library, **Blue** Room
+- Presenter: Roel Janssen
 
 ##### R Café March 2024: **Open forum - come and have a chat!**
 
