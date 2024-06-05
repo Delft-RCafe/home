@@ -142,3 +142,15 @@
   author: 'NA'
   date:  2024-03-22
   path: NA
+- title: 'R Cafe April'
+  subtitle: 'Benchmarking R and Python'
+  description: 'TUD Library, Blue Room'
+  author: 'Roel Janssen'
+  date:  2024-04-25
+  path: NA
+- title: 'R Cafe May'
+  subtitle: 'Using APIs to retrieve social media data'
+  description: 'TUD Library, Orange Room'
+  author: 'Sofia Gil Clavel'
+  date:  2024-05-23
+  path: NA

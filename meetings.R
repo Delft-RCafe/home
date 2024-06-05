@@ -32,6 +32,7 @@ if(nrow(upcoming) == 0){
 } else {
   upcoming_out <- vector(mode = "list", length = nrow(upcoming))
   for (i in 1:nrow(upcoming)) {
+    image <- paste0("/img/R_cafe_", upcoming[i,]$month_abbrev, upcoming[i,]$year, ".png")
     upcoming_out[[i]] <- glue::glue_data(
       upcoming[i,],
       #template_vec
@@ -44,6 +45,7 @@ if(nrow(upcoming) == 0){
         date:  {date}
         path: {registration}
         ics: '{ics}'
+        image: '{img}'
       "
     )
     # override file on first loop
