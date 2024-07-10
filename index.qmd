@@ -34,7 +34,7 @@ listing:
 
 # Load libraries ----------------------------------------------------------
 library(ggplot2)
-library(tidyverse)
+#library(tidyverse)
 library(here)
 # Package names
 # packages <- c("tidyverse", "here", "data.table", "igraph", "ggraph", "stringr", "tm", "tidytext", "pluralize" , "quanteda", "fst", "stopwords", "SnowballC", "textstem" , "viridis", "htmlwidgets", "webshot", "lexicon", "wesanderson", "RColorBrewer", "textdata", "stringi", "vembedr"

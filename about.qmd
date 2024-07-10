@@ -43,7 +43,7 @@ We take a hands-on approach to work through problems and always have RStudio ope
 
 If you have an R-related question or challenge that is specific to your project, we are happy to discuss in any of our meetings. If your question requires a lot of context, it’s helpful if you can send us an email with details before the meeting. 
 
-Because we know our audience, we offer a *unique*  combination of `r emo::ji("coffee")` and  `r emo::ji("pizza")`.
+<!--Because we know our audience, we offer a *unique*  combination of `r emo::ji("coffee")` and  `r emo::ji("pizza")`.-->
 
 :::{.callout-tip}
 ## Want to get involved?
