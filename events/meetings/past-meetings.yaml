@@ -1,0 +1,156 @@
+- title: 'R Cafe November'
+  subtitle: 'R Café Kickoff'
+  description: 'TUD Library, Coffee Star'
+  author: 'NA'
+  date:  2021-11-01
+  path: NA
+- title: 'R Cafe November'
+  subtitle: 'Do you want to build your R coding skills, or write R code with others?'
+  description: 'Online'
+  author: 'NA'
+  date:  2021-11-29
+  path: NA
+- title: 'R Cafe July'
+  subtitle: 'Do you want to build your R coding skills, or write R code with others?'
+  description: 'Online'
+  author: 'NA'
+  date:  2022-07-02
+  path: NA
+- title: 'R Cafe March'
+  subtitle: 'Do you want to build your R coding skills, or write R code with others?'
+  description: 'Online'
+  author: 'NA'
+  date:  2022-03-03
+  path: NA
+- title: 'R Cafe April'
+  subtitle: 'Do you want to build your R coding skills, or write R code with others?'
+  description: 'Online'
+  author: 'NA'
+  date:  2022-04-04
+  path: NA
+- title: 'R Cafe November'
+  subtitle: 'Do you want to build your R coding skills, or write R code with others?'
+  description: 'TUD Library, Steve Jobs Room'
+  author: 'NA'
+  date:  2022-11-05
+  path: NA
+- title: 'R Cafe September'
+  subtitle: 'Do you want to build your R coding skills, or write R code with others?'
+  description: 'TUD BK, BG.West.350'
+  author: 'NA'
+  date:  2022-09-06
+  path: NA
+- title: 'R Cafe July'
+  subtitle: 'Do you want to build your R coding skills, or write R code with others?'
+  description: 'TUD Library, Gertrude Stein'
+  author: 'NA'
+  date:  2022-07-07
+  path: NA
+- title: 'R Cafe August'
+  subtitle: 'Prepare your R script before you get your data? How to do it effectively?'
+  description: 'TUD Library, Steve Jobs Room'
+  author: 'NA'
+  date:  2022-08-26
+  path: https://delft-rcafe.github.io/2022-08-26-Prepare-your-script/Index.html#/
+- title: 'R Cafe September'
+  subtitle: 'Using the `apply` family of functions'
+  description: 'TUD Library, Steve Jobs Room'
+  author: 'NA'
+  date:  2022-09-26
+  path: https://github.com/Delft-RCafe/resources/tree/main/themes/apply_family
+- title: 'R Cafe April'
+  subtitle: 'Time series visualisation with `dygraphs` library'
+  description: 'TUD BK, BG.West.670'
+  author: 'NA'
+  date:  2022-04-11
+  path: https://github.com/Delft-RCafe/resources/tree/main/themes/xts_dygraphs
+- title: 'R Cafe February'
+  subtitle: 'R for Geospatial data ( Data Carpentry follow-up)'
+  description: 'TUD Library, Elbert Einstein Room'
+  author: 'NA'
+  date:  2022-02-12
+  path: https://github.com/Delft-RCafe/resources/tree/main/themes/geospatial
+- title: 'R Cafe January'
+  subtitle: 'Dealing with messy data in R'
+  description: 'TUD BK, BG.West.640'
+  author: 'Rodrigo Revilla'
+  date:  2023-01-13
+  path: https://github.com/Delft-RCafe/resources/tree/main/themes/pdf_to_R
+- title: 'R Cafe October'
+  subtitle: 'Organizing a research paper as an R package'
+  description: 'TUD Library, Orange Room'
+  author: 'Bjørn Bartholdy'
+  date:  2023-10-02
+  path: https://github.com/Delft-RCafe/resources/tree/main/themes/research_package
+- title: 'R Cafe March'
+  subtitle: 'Network Science approach to psychopathology using R'
+  description: 'TUD Library, Orange Room'
+  author: 'Alberto Jover Martínez'
+  date:  2023-03-17
+  path: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Delft-RCafe/resources/tree/main/themes/network_science
+- title: 'R Cafe April'
+  subtitle: 'Level up your reproducibility game with Quarto'
+  description: 'TUD Library, Orange Room'
+  author: 'Claudiu Forgaci & Bjørn Bartholdy'
+  date:  2023-04-24
+  path: https://github.com/bbartholdy/quarto-level-up-reproducibility/releases/tag/v23.04.0-beta
+- title: 'R Cafe May'
+  subtitle: 'A gentle introduction to building web apps with R Shiny'
+  description: 'TUD Library, Blue Room'
+  author: 'Aleksandra Wilczynska & Ashley Cryan'
+  date:  2023-05-30
+  path: https://github.com/Delft-RCafe/resources/tree/main/themes/intro_shiny
+- title: 'R Cafe September'
+  subtitle: 'Use APIs to source your data in R'
+  description: 'TUD Library, Orange Room'
+  author: 'Bjørn Bartholdy & Aleksandra Wilczynska'
+  date:  2023-09-29
+  path: https://raw.githack.com/Delft-RCafe/resources/main/themes/apis_in_r/apis-in-r.html
+- title: 'R Cafe November'
+  subtitle: 'Datathon - keynote : syntax of ggplot'
+  description: 'TUD Library, Orange Room'
+  author: 'Roel Janssen'
+  date:  2023-11-10
+  path: NA
+- title: 'R Cafe November'
+  subtitle: 'why for loops can be faster than other options ( lapply?) / (measurement of ) performance of code'
+  description: 'TUD Library, Orange Room'
+  author: 'Roel Janssen'
+  date:  2023-11-17
+  path: NA
+- title: 'R Cafe December'
+  subtitle: 'Advent of Code'
+  description: 'TUD Library, Orange Room'
+  author: 'Bjørn Bartholdy'
+  date:  2023-12-15
+  path: NA
+- title: 'R Cafe January'
+  subtitle: 'Creating an R package'
+  description: 'TUD Library, Orange Room'
+  author: 'Bjørn Bartholdy'
+  date:  2024-01-11
+  path: https://github.com/Delft-RCafe/resources/tree/main/themes/creating-r-package
+- title: 'R Cafe February'
+  subtitle: 'Creating an R package (the sequel)'
+  description: 'TUD Library, Orange Room'
+  author: 'Bjørn Bartholdy'
+  date:  2024-02-23
+  path: https://github.com/Delft-RCafe/resources/tree/main/themes/creating-r-package
+- title: 'R Cafe March'
+  subtitle: 'Open Forum'
+  description: 'TUD Library, Albert Einstein'
+  author: 'NA'
+  date:  2024-03-22
+  path: NA
+- title: 'R Cafe April'
+  subtitle: 'Benchmarking R and Python'
+  description: 'TUD Library, Blue Room'
+  author: 'Roel Janssen'
+  date:  2024-04-25
+  path: NA
+- title: 'R Cafe May'
+  subtitle: 'Using APIs to retrieve social media data'
+  description: 'TUD Library, Orange Room'
+  author: 'Sofia Gil Clavel'
+  date:  2024-05-23
+  path: NA

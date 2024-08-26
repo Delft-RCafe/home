@@ -1,0 +1,47 @@
+---
+title: R Cafe meetings
+listing: 
+  - id: future
+    image-placeholder: /img/logo_square.png
+    type: default
+    #grid-columns: 2
+    #grid-item-border: false
+    sort: date
+    fields: 
+      - image
+      - title
+      - subtitle
+      - author
+      - date
+      - description
+    contents: 
+      - upcoming-meetings.yaml
+    #- past-meetings.yaml
+  - id: past
+    type: table
+    #grid-columns: 3
+    #grid-item-border: false
+    sort: "date desc"
+    fields: 
+      - title
+      - subtitle
+      - author
+      - date
+    field-display-names:
+      subtitle: "Theme"
+      author: "Presenter"
+    contents: 
+      - past-meetings.yaml
+    #- past-meetings.yaml
+
+---
+
+## Future meetings
+
+:::{#future}
+:::
+
+## Past meetings
+
+:::{#past}
+:::

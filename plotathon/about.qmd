@@ -5,10 +5,6 @@ format:
   html:
     code-tools: true
     fig-cap-location: bottom
-    self-contained: true
-    theme: 
-        light: cerulean
-        dark: darkly
 execute:
   warning: false
   message: false

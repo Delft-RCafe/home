@@ -3,7 +3,8 @@ project:
   resources: 
     - Index.html
     - outlook
-  #output-dir: docs
+  pre-render: 
+    - meetings.R
 
 execute: 
   freeze: auto
@@ -19,6 +20,7 @@ website:
   
   
   navbar: 
+    title: false
     logo: img/logo.png
     href: https://delft-rcafe.github.io/home/
     right:
@@ -28,14 +30,26 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - text: Plot-a-thon
+      - text: Events
         menu: 
-          - text: "About"
+          - text: Meetings
+            href: events/meetings/index.qmd
+          - text: "Plot-a-thon"
             href: plotathon/about.qmd
-          - text: "FAQ"
-            href: plotathon/faq.qmd
-          - text: "2023"
-            href: plotathon/2023-plotathon.qmd
+      - href: about.qmd
+        text: About
+
+  sidebar:
+    - id: plotathon
+      text: "Plot-a-thon"
+      title: Plot-a-thon
+      align: left
+      contents:
+        - plotathon/about.qmd
+        - text: FAQ
+          href: plotathon/faq.qmd
+        - text: "2023"
+          href: plotathon/2023-plotathon.qmd
 format: 
   html:
     code-tools: true
