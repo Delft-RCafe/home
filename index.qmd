@@ -298,8 +298,24 @@ To stay informed about upcoming events, please subscribe to our [mailing list](h
 
 # Upcoming meetings {#sec-upcoming}
 
-TBD
- 
+::: {.callout-note icon=false}
+
+## R Café September 2024: **#tidytuesday Data Jam**
+
+- **Date:** Thursday, 12th September 2024
+- **Time:** 15PM – 16:30PM CEST
+- **Place:** TU Delft Library, Albert Einstein Room
+- **Presenter:** TBD
+- **Description:** We will start with a short demonstration of  [#tidytuesday](https://github.com/rfordatascience/tidytuesday) project. We will then continue to jointly jam the data solutions on one of the real-world datasets. 
+
+
+<a href='outlook/Rcafe-sep2024.ics' download="R-Cafe.ics">
+<button type="button" class="btn btn-primary btn-sm">Add to calendar</button>
+</a>
+
+::: 
+
+
 # Past meetings {#sec-past}
 
 
