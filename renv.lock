@@ -148,6 +148,19 @@
       ],
       "Hash": "cd9a672193789068eb5a2aad65a0dedf"
     },
+    "calendar": {
+      "Package": "calendar",
+      "Version": "0.2.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": [
+        "R",
+        "cli",
+        "lubridate",
+        "tibble"
+      ],
+      "Hash": "8204ab7185576575d91df30ef48a39b3"
+    },
     "cellranger": {
       "Package": "cellranger",
       "Version": "1.1.0",
@@ -1095,15 +1108,16 @@
       "RemoteUsername": "Delft-RCafe",
       "RemoteRepo": "tudrcafe",
       "RemoteRef": "main",
-      "RemoteSha": "9f7bd2cf73909020b0836809025304c2bedcf2a4",
+      "RemoteSha": "37aa60b4b6bfcf7fe727b5b33d1ea0ef6886c6fd",
       "Requirements": [
+        "calendar",
         "dplyr",
         "googlesheets4",
         "rvest",
         "stringr",
         "tibble"
       ],
-      "Hash": "e0f6966416ba761237ce4ffa42c924c7"
+      "Hash": "3e0d9b28958f1c7f0fea78863a347075"
     },
     "tzdb": {
       "Package": "tzdb",
