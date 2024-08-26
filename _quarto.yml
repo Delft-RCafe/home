@@ -5,7 +5,6 @@ project:
     - outlook
   pre-render: 
     - meetings.R
-  #output-dir: docs
 
 execute: 
   freeze: auto

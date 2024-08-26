@@ -36,18 +36,6 @@ listing:
 library(ggplot2)
 #library(tidyverse)
 library(here)
-# Package names
-# packages <- c("tidyverse", "here", "data.table", "igraph", "ggraph", "stringr", "tm", "tidytext", "pluralize" , "quanteda", "fst", "stopwords", "SnowballC", "textstem" , "viridis", "htmlwidgets", "webshot", "lexicon", "wesanderson", "RColorBrewer", "textdata", "stringi", "vembedr"
-#               )
-# 
-# # Install packages not yet installed
-# installed_packages <- packages %in% rownames(installed.packages())
-# if (any(installed_packages == FALSE)) {
-#   install.packages(packages[!installed_packages], repos="http://cran.us.r-project.org")
-# }
-# 
-# # Packages loading 
-# invisible(lapply(packages, library, character.only = TRUE))
 
 # Themes and colors ----------------------------------------------------------
 
@@ -122,4 +110,3 @@ mycolors <- c( rep(tud_blue,6),rep('#000000',1000))
 set.seed(12345)
 wordcloud2(wcloud_data, size = 0.7, color = mycolors)
 ```
-
