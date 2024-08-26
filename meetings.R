@@ -45,7 +45,7 @@ if(nrow(upcoming) == 0){
         date:  {date}
         path: {registration}
         ics: '{ics}'
-        image: '{img}'
+        image: '{image}'
       "
     )
     # override file on first loop

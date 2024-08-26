@@ -3,6 +3,8 @@ project:
   resources: 
     - Index.html
     - outlook
+  pre-render: 
+    - meetings.R
   #output-dir: docs
 
 execute: 
