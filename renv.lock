@@ -1108,16 +1108,17 @@
       "RemoteUsername": "Delft-RCafe",
       "RemoteRepo": "tudrcafe",
       "RemoteRef": "main",
-      "RemoteSha": "37aa60b4b6bfcf7fe727b5b33d1ea0ef6886c6fd",
+      "RemoteSha": "1f74979771167b5eb572414017bc883c67c38025",
       "Requirements": [
         "calendar",
         "dplyr",
         "googlesheets4",
+        "lubridate",
         "rvest",
         "stringr",
         "tibble"
       ],
-      "Hash": "3e0d9b28958f1c7f0fea78863a347075"
+      "Hash": "b0bc78d53101835ba3a15509798cabff"
     },
     "tzdb": {
       "Package": "tzdb",
