@@ -1,3 +1,8 @@
-
-    - title: TBD
-    
+- title: '#tidytuesday data jam'
+  subtitle: 'We will start with a short demonstration of [#tidytuesday](https://github.com/rfordatascience/tidytuesday) project. We will then continue to jointly jam one of the real-world data projects.'
+  description: TUD Library, Albert Einstein
+  author: Aleksandra Wilczynska
+  date:  2024-09-12
+  path: NA
+  ics: 'Rcafe-sep2024.ics'
+  image: '/img/posters/R_cafe_Sep2024.png'

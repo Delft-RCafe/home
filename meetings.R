@@ -32,14 +32,14 @@ if(nrow(upcoming) == 0){
 } else {
   upcoming_out <- vector(mode = "list", length = nrow(upcoming))
   for (i in 1:nrow(upcoming)) {
-    image <- paste0("/img/R_cafe_", upcoming[i,]$month_abbrev, upcoming[i,]$year, ".png")
+    image <- paste0("/img/posters/R_cafe_", upcoming[i,]$month_abbrev, upcoming[i,]$year, ".png")
     upcoming_out[[i]] <- glue::glue_data(
       upcoming[i,],
       #template_vec
       #template_comb
       "
-      - title: '{title}'
-        subtitle: '{theme}'
+      - title: '{theme}'
+        subtitle: '{theme_description}'
         description: {location}
         author: {presenter}
         date:  {date}
@@ -66,8 +66,7 @@ for (i in 1:nrow(past)) {
     #template_comb
     #template_vec
     "
-    - title: '{title}'
-      subtitle: '{theme}'
+    - title: '{theme}'
       description: '{location}'
       author: '{presenter}'
       date:  {date}

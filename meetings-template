@@ -1,6 +1,6 @@
-- title: {title}
-  subtitle: {location}
-  description: {theme}
+- title: {theme}
+  subtitle: {theme-description}
+  description: {location}
   author: {presenter}
   date:  {date}
   path: https://delft-rcafe.github.io/home#sec-upcoming

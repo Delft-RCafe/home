@@ -40,3 +40,6 @@ vignettes/*.pdf
 
 /.quarto/
 _site/
+
+# Index.html
+Index.html
