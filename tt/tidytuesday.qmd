@@ -1,0 +1,15 @@
+---
+title: "TidyTuesday Examples"
+---
+
+
+## Week 35 - Power Rangers Shiny App
+
+```{=html}
+ <iframe id="tt342024" src="https://tudelft-rcafe.shinyapps.io/tidytuesday-20240826/" style="border: none; width: 100%; height: 400px" frameborder="0" data-external="1"></iframe>
+```
+
+<!-- ```{r} -->
+<!-- #| echo: false -->
+<!-- knitr::include_url({"https://tudelft-rcafe.shinyapps.io/tidytuesday-20240826/"}) -->
+<!-- ``` -->
