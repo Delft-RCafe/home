@@ -42,7 +42,15 @@ We take a hands-on approach to work through problems and always have RStudio ope
 <!-- ![](img/pizza2.gif) -->
 <!-- ::: -->
 
-If you have an R-related question or challenge that is specific to your project, we are happy to discuss in any of our meetings. If your question requires a lot of context, it’s helpful if you can send us an email with details before the meeting. 
+If you have an R-related question or challenge that is specific to your project, we are happy to discuss in any of our meetings. If your question requires a lot of context, it’s helpful if you can send us an email with details before the meeting.
+
+
+:::{.callout-tip}
+## Want to get involved?
+
+Got a favorite topic you’d like us to explore, or an idea for a presentation at an upcoming R Café? Please let us know at: [rcafe-lib@tudelft.nl](mailto:rcafe-lib@tudelft.nl)
+
+:::
 
 <!--Because we know our audience, we offer a *unique*  combination of `r emo::ji("coffee")` and  `r emo::ji("pizza")`.-->
 
@@ -56,14 +64,6 @@ to work on the tidy Tuesday data together!
 
 You will find  some examples of analysis in the [TidyTuesday](tt/tidytuesday.qmd) section. 
 
-
-
-:::{.callout-tip}
-## Want to get involved?
-
-Got a favorite topic you’d like us to explore, or an idea for a presentation at an upcoming R Café? Please let us know at: [rcafe-lib@tudelft.nl](mailto:rcafe-lib@tudelft.nl)
-
-:::
 
 
 # Resources {#sec-res}
