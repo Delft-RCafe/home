@@ -13,6 +13,7 @@ listing:
       - subtitle
       - author
       - date
+      - time
       - description
     contents: 
       - upcoming-meetings.yaml

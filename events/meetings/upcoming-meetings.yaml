@@ -1,8 +1,9 @@
-- title: '#tidytuesday data jam'
-  subtitle: 'We will start with a short demonstration of [#tidytuesday](https://github.com/rfordatascience/tidytuesday) project. We will then continue to jointly jam one of the real-world data projects.'
-  description: TUD Library, Albert Einstein
-  author: Aleksandra Wilczynska
-  date:  2024-09-12
-  path: NA
-  ics: 'Rcafe-sep2024.ics'
-  image: '/img/posters/R_cafe_Sep2024.png'
+- title: 'Brush-up your R programming skills'
+  subtitle: 'We will bring you up to speed with basics of R programming language. This short intro will help you to follow other courses taught in R.'
+  description: online
+  author: Bjørn Bartholdy
+  date:  2024-10-09
+  time:  '10:30-12:00'
+  path: https://edu.nl/f9m6p
+  ics: 'Rcafe-oct2024.ics'
+  image: '/img/posters/R_cafe_Oct2024.png'

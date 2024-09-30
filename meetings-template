@@ -3,4 +3,5 @@
   description: {location}
   author: {presenter}
   date:  {date}
+  time:  {time}
   path: https://delft-rcafe.github.io/home#sec-upcoming

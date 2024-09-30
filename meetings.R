@@ -32,7 +32,9 @@ if(nrow(upcoming) == 0){
 } else {
   upcoming_out <- vector(mode = "list", length = nrow(upcoming))
   for (i in 1:nrow(upcoming)) {
-    image <- paste0("/img/posters/R_cafe_", upcoming[i,]$month_abbrev, upcoming[i,]$year, ".png")
+    image <- paste0("/img/posters/R_cafe_", 
+                    upcoming[i,]$month_abbrev, 
+                    upcoming[i,]$year, ".png")
     upcoming_out[[i]] <- glue::glue_data(
       upcoming[i,],
       #template_vec
@@ -43,6 +45,7 @@ if(nrow(upcoming) == 0){
         description: {location}
         author: {presenter}
         date:  {date}
+        time:  '{time}'
         path: {registration}
         ics: '{ics}'
         image: '{image}'
@@ -54,6 +57,14 @@ if(nrow(upcoming) == 0){
     #} else {
      # write_lines(upcoming_out[[i]], "events/meetings/upcoming-meetings.yaml", append = T)
     #}
+    if (!file.exists(image)){ 
+      tudrcafe::update_poster(upcoming[i,], out_path ='img/posters/')
+      }
+      
+    if (!file.exists(paste0("outlook/", upcoming[i,]$ics))){ 
+      tudrcafe:::create_ical(upcoming[i,], 
+                             paste0("outlook/", upcoming[i,]$ics))
+    }
   }
   write_lines(upcoming_out, "events/meetings/upcoming-meetings.yaml", append = F)
 }
@@ -70,6 +81,7 @@ for (i in 1:nrow(past)) {
       description: '{location}'
       author: '{presenter}'
       date:  {date}
+      time:  '{time}'
       path: {resource_url}
     "
   )
@@ -80,4 +92,5 @@ for (i in 1:nrow(past)) {
     write_lines(past_out[[i]], "events/meetings/past-meetings.yaml", append = T)
   }
 }
+
 
