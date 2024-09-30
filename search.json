@@ -1,10 +1,24 @@
 [
   {
-    "objectID": "index.html#fun-with-r",
-    "href": "index.html#fun-with-r",
-    "title": "TU Delft R Café",
-    "section": "Fun with R",
-    "text": "Fun with R\nDuring R Café meetings, we’re trying out different tools and types of analysis. Here’s a small sample of what we’ve been working on:\n\n\nCode\n# Load library wordcloud2\nlibrary(wordcloud2)\n\n#Load data\nwcloud_data &lt;- readRDS(here('data', 'wcloud_data.RDS'))\n\n# Define colors \ntud_blue&lt;-'#00A6D6'\nmycolors &lt;- c( rep(tud_blue,6),rep('#000000',1000))\n\n# Create a word cloud\nset.seed(12345)\nwordcloud2(wcloud_data, size = 0.7, color = mycolors)\n\n\n\n\nWords used in IDE master theses: word cloud created with wordcloud2 package"
+    "objectID": "events/meetings/index.html",
+    "href": "events/meetings/index.html",
+    "title": "R Cafe meetings",
+    "section": "",
+    "text": "We will bring you up to speed with basics of R programming language. This short intro will help you to follow other courses taught in R.\n\n\nonline\n\n\n\n\n\nOct 9, 2024\n\n\nBjørn Bartholdy\n\n\n10:30-12:00\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "events/meetings/index.html#future-meetings",
+    "href": "events/meetings/index.html#future-meetings",
+    "title": "R Cafe meetings",
+    "section": "",
+    "text": "We will bring you up to speed with basics of R programming language. This short intro will help you to follow other courses taught in R.\n\n\nonline\n\n\n\n\n\nOct 9, 2024\n\n\nBjørn Bartholdy\n\n\n10:30-12:00\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "events/meetings/index.html#past-meetings",
+    "href": "events/meetings/index.html#past-meetings",
+    "title": "R Cafe meetings",
+    "section": "Past meetings",
+    "text": "Past meetings\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Presenter\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nTheme\n\n\nPresenter\n\n\nDate\n\n\n\n\n\n\n#tidytuesday data jam\n\n\n \n\n\nAleksandra Wilczynska\n\n\nSep 12, 2024\n\n\n\n\nUsing APIs to retrieve social media data\n\n\n \n\n\nSofia Gil Clavel\n\n\nMay 23, 2024\n\n\n\n\nBenchmarking R and Python\n\n\n \n\n\nRoel Janssen\n\n\nApr 25, 2024\n\n\n\n\nOpen Forum\n\n\n \n\n\nNA\n\n\nMar 22, 2024\n\n\n\n\nCreating an R package (the sequel)\n\n\n \n\n\nBjørn Bartholdy\n\n\nFeb 23, 2024\n\n\n\n\nCreating an R package\n\n\n \n\n\nBjørn Bartholdy\n\n\nJan 11, 2024\n\n\n\n\nAdvent of Code\n\n\n \n\n\nBjørn Bartholdy\n\n\nDec 15, 2023\n\n\n\n\nwhy for loops can be faster than other options ( lapply?) / (measurement of ) performance of code\n\n\n \n\n\nRoel Janssen\n\n\nNov 17, 2023\n\n\n\n\nDatathon - keynote : syntax of ggplot\n\n\n \n\n\nRoel Janssen\n\n\nNov 10, 2023\n\n\n\n\nOrganizing a research paper as an R package\n\n\n \n\n\nBjørn Bartholdy\n\n\nOct 2, 2023\n\n\n\n\nUse APIs to source your data in R\n\n\n \n\n\nBjørn Bartholdy & Aleksandra Wilczynska\n\n\nSep 29, 2023\n\n\n\n\nA gentle introduction to building web apps with R Shiny\n\n\n \n\n\nAleksandra Wilczynska & Ashley Cryan\n\n\nMay 30, 2023\n\n\n\n\nLevel up your reproducibility game with Quarto\n\n\n \n\n\nClaudiu Forgaci & Bjørn Bartholdy\n\n\nApr 24, 2023\n\n\n\n\nNetwork Science approach to psychopathology using R\n\n\n \n\n\nAlberto Jover Martínez\n\n\nMar 17, 2023\n\n\n\n\nDealing with messy data in R\n\n\n \n\n\nRodrigo Revilla\n\n\nJan 13, 2023\n\n\n\n\nDo you want to build your R coding skills, or write R code with others?\n\n\n \n\n\nNA\n\n\nNov 5, 2022\n\n\n\n\nUsing the apply family of functions\n\n\n \n\n\nNA\n\n\nSep 26, 2022\n\n\n\n\nDo you want to build your R coding skills, or write R code with others?\n\n\n \n\n\nNA\n\n\nSep 6, 2022\n\n\n\n\nPrepare your R script before you get your data? How to do it effectively?\n\n\n \n\n\nNA\n\n\nAug 26, 2022\n\n\n\n\nDo you want to build your R coding skills, or write R code with others?\n\n\n \n\n\nNA\n\n\nJul 7, 2022\n\n\n\n\nDo you want to build your R coding skills, or write R code with others?\n\n\n \n\n\nNA\n\n\nJul 2, 2022\n\n\n\n\nTime series visualisation with dygraphs library\n\n\n \n\n\nNA\n\n\nApr 11, 2022\n\n\n\n\nDo you want to build your R coding skills, or write R code with others?\n\n\n \n\n\nNA\n\n\nApr 4, 2022\n\n\n\n\nDo you want to build your R coding skills, or write R code with others?\n\n\n \n\n\nNA\n\n\nMar 3, 2022\n\n\n\n\nR for Geospatial data ( Data Carpentry follow-up)\n\n\n \n\n\nNA\n\n\nFeb 12, 2022\n\n\n\n\nDo you want to build your R coding skills, or write R code with others?\n\n\n \n\n\nNA\n\n\nNov 29, 2021\n\n\n\n\nR Café Kickoff\n\n\n \n\n\nNA\n\n\nNov 1, 2021\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "plotathon/2023-plotathon.html",
@@ -17,25 +31,31 @@
     ]
   },
   {
-    "objectID": "events/meetings/index.html",
-    "href": "events/meetings/index.html",
-    "title": "R Cafe meetings",
+    "objectID": "plotathon/faq.html",
+    "href": "plotathon/faq.html",
+    "title": "",
     "section": "",
-    "text": "We will start with a short demonstration of #tidytuesday project. We will then continue to jointly jam one of the real-world data projects.\n\n\nTUD Library, Albert Einstein\n\n\n\n\n\nSep 12, 2024\n\n\nAleksandra Wilczynska\n\n\n\n\n\n\nNo matching items"
+    "text": "Code\n\n\n\n\n\nHow big should the groups be?\nThere is no limit to the group size.\n\n\nCan I skip the Showcase event?\nAt least one person from the group needs to be present at the Showcase event to present your work. Also, you wouldn’t like to miss it!\n\n\nI have just started to learn R. Can I still join?\nSure! You will learn plenty from the challenge, and we will assist you once you get stuck!\n\n\nWill you provide food and drinks during the event?\nYes! The refreshments will be provided! We also have cool goodie-packs ready for you!\n\n\nHow will my work be assessed?\nThe data visualizations will be assessed by independent judges, using a number of assessment criteria, e.g. data analysis, visual design, reproducibility. The full grading rubric will be shared with with you together with the data visualization assignment.",
+    "crumbs": [
+      "FAQ"
+    ]
   },
   {
-    "objectID": "events/meetings/index.html#future-meetings",
-    "href": "events/meetings/index.html#future-meetings",
-    "title": "R Cafe meetings",
-    "section": "",
-    "text": "We will start with a short demonstration of #tidytuesday project. We will then continue to jointly jam one of the real-world data projects.\n\n\nTUD Library, Albert Einstein\n\n\n\n\n\nSep 12, 2024\n\n\nAleksandra Wilczynska\n\n\n\n\n\n\nNo matching items"
+    "objectID": "index.html#fun-with-r",
+    "href": "index.html#fun-with-r",
+    "title": "TU Delft R Café",
+    "section": "Fun with R",
+    "text": "Fun with R\nDuring R Café meetings, we’re trying out different tools and types of analysis. Here’s a small sample of what we’ve been working on:\n\n\nCode\n# Load library wordcloud2\nlibrary(wordcloud2)\n\n#Load data\nwcloud_data &lt;- readRDS(here('data', 'wcloud_data.RDS'))\n\n# Define colors \ntud_blue&lt;-'#00A6D6'\nmycolors &lt;- c( rep(tud_blue,6),rep('#000000',1000))\n\n# Create a word cloud\nset.seed(12345)\nwordcloud2(wcloud_data, size = 0.7, color = mycolors)\n\n\n\n\nWords used in IDE master theses: word cloud created with wordcloud2 package"
   },
   {
-    "objectID": "events/meetings/index.html#past-meetings",
-    "href": "events/meetings/index.html#past-meetings",
-    "title": "R Cafe meetings",
-    "section": "Past meetings",
-    "text": "Past meetings\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Presenter\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nTheme\n\n\nPresenter\n\n\nDate\n\n\n\n\n\n\nUsing APIs to retrieve social media data\n\n\n \n\n\nSofia Gil Clavel\n\n\nMay 23, 2024\n\n\n\n\nBenchmarking R and Python\n\n\n \n\n\nRoel Janssen\n\n\nApr 25, 2024\n\n\n\n\nOpen Forum\n\n\n \n\n\nNA\n\n\nMar 22, 2024\n\n\n\n\nCreating an R package (the sequel)\n\n\n \n\n\nBjørn Bartholdy\n\n\nFeb 23, 2024\n\n\n\n\nCreating an R package\n\n\n \n\n\nBjørn Bartholdy\n\n\nJan 11, 2024\n\n\n\n\nAdvent of Code\n\n\n \n\n\nBjørn Bartholdy\n\n\nDec 15, 2023\n\n\n\n\nwhy for loops can be faster than other options ( lapply?) / (measurement of ) performance of code\n\n\n \n\n\nRoel Janssen\n\n\nNov 17, 2023\n\n\n\n\nDatathon - keynote : syntax of ggplot\n\n\n \n\n\nRoel Janssen\n\n\nNov 10, 2023\n\n\n\n\nOrganizing a research paper as an R package\n\n\n \n\n\nBjørn Bartholdy\n\n\nOct 2, 2023\n\n\n\n\nUse APIs to source your data in R\n\n\n \n\n\nBjørn Bartholdy & Aleksandra Wilczynska\n\n\nSep 29, 2023\n\n\n\n\nA gentle introduction to building web apps with R Shiny\n\n\n \n\n\nAleksandra Wilczynska & Ashley Cryan\n\n\nMay 30, 2023\n\n\n\n\nLevel up your reproducibility game with Quarto\n\n\n \n\n\nClaudiu Forgaci & Bjørn Bartholdy\n\n\nApr 24, 2023\n\n\n\n\nNetwork Science approach to psychopathology using R\n\n\n \n\n\nAlberto Jover Martínez\n\n\nMar 17, 2023\n\n\n\n\nDealing with messy data in R\n\n\n \n\n\nRodrigo Revilla\n\n\nJan 13, 2023\n\n\n\n\nDo you want to build your R coding skills, or write R code with others?\n\n\n \n\n\nNA\n\n\nNov 5, 2022\n\n\n\n\nUsing the apply family of functions\n\n\n \n\n\nNA\n\n\nSep 26, 2022\n\n\n\n\nDo you want to build your R coding skills, or write R code with others?\n\n\n \n\n\nNA\n\n\nSep 6, 2022\n\n\n\n\nPrepare your R script before you get your data? How to do it effectively?\n\n\n \n\n\nNA\n\n\nAug 26, 2022\n\n\n\n\nDo you want to build your R coding skills, or write R code with others?\n\n\n \n\n\nNA\n\n\nJul 7, 2022\n\n\n\n\nDo you want to build your R coding skills, or write R code with others?\n\n\n \n\n\nNA\n\n\nJul 2, 2022\n\n\n\n\nTime series visualisation with dygraphs library\n\n\n \n\n\nNA\n\n\nApr 11, 2022\n\n\n\n\nDo you want to build your R coding skills, or write R code with others?\n\n\n \n\n\nNA\n\n\nApr 4, 2022\n\n\n\n\nDo you want to build your R coding skills, or write R code with others?\n\n\n \n\n\nNA\n\n\nMar 3, 2022\n\n\n\n\nR for Geospatial data ( Data Carpentry follow-up)\n\n\n \n\n\nNA\n\n\nFeb 12, 2022\n\n\n\n\nDo you want to build your R coding skills, or write R code with others?\n\n\n \n\n\nNA\n\n\nNov 29, 2021\n\n\n\n\nR Café Kickoff\n\n\n \n\n\nNA\n\n\nNov 1, 2021\n\n\n\n\n\nNo matching items"
+    "objectID": "plotathon/about.html#about-plot-a-thon",
+    "href": "plotathon/about.html#about-plot-a-thon",
+    "title": "PLOT-A-THON",
+    "section": "About Plot-a-thon",
+    "text": "About Plot-a-thon\nAre you venturing into the world of R programming and seeking a challenge to elevate your skills? Perhaps you find yourself finetuning your data visualizations a tad too often? Do you yearn to express your creativity while unraveling data’s mysteries?\nRead about the first TU Delft R Café Plot-a-thon: a data visualization challenge!\n\nWho can participate?\nThe event is dedicated to the TU Delft community. So if you study or work at TU Delft, you’re welcome to participate! The competition is open to R users of all proficiency levels!\nYou can register individually or as part of a group. If you prefer joining a group but don’t have one in mind, don’t worry—we can match you with other solo R enthusiasts searching for their pack!\n\n\nPast events\nOctober 2023",
+    "crumbs": [
+      "PLOT-A-THON"
+    ]
   },
   {
     "objectID": "about.html",
@@ -50,25 +70,5 @@
     "title": "",
     "section": "Subscribe",
     "text": "Subscribe\nTo stay informed about upcoming events, please subscribe to our mailing list."
-  },
-  {
-    "objectID": "plotathon/about.html#about-plot-a-thon",
-    "href": "plotathon/about.html#about-plot-a-thon",
-    "title": "PLOT-A-THON",
-    "section": "About Plot-a-thon",
-    "text": "About Plot-a-thon\nAre you venturing into the world of R programming and seeking a challenge to elevate your skills? Perhaps you find yourself finetuning your data visualizations a tad too often? Do you yearn to express your creativity while unraveling data’s mysteries?\nRead about the first TU Delft R Café Plot-a-thon: a data visualization challenge!\n\nWho can participate?\nThe event is dedicated to the TU Delft community. So if you study or work at TU Delft, you’re welcome to participate! The competition is open to R users of all proficiency levels!\nYou can register individually or as part of a group. If you prefer joining a group but don’t have one in mind, don’t worry—we can match you with other solo R enthusiasts searching for their pack!\n\n\nPast events\nOctober 2023",
-    "crumbs": [
-      "PLOT-A-THON"
-    ]
-  },
-  {
-    "objectID": "plotathon/faq.html",
-    "href": "plotathon/faq.html",
-    "title": "",
-    "section": "",
-    "text": "Code\n\n\n\n\n\nHow big should the groups be?\nThere is no limit to the group size.\n\n\nCan I skip the Showcase event?\nAt least one person from the group needs to be present at the Showcase event to present your work. Also, you wouldn’t like to miss it!\n\n\nI have just started to learn R. Can I still join?\nSure! You will learn plenty from the challenge, and we will assist you once you get stuck!\n\n\nWill you provide food and drinks during the event?\nYes! The refreshments will be provided! We also have cool goodie-packs ready for you!\n\n\nHow will my work be assessed?\nThe data visualizations will be assessed by independent judges, using a number of assessment criteria, e.g. data analysis, visual design, reproducibility. The full grading rubric will be shared with with you together with the data visualization assignment.",
-    "crumbs": [
-      "FAQ"
-    ]
   }
 ]
