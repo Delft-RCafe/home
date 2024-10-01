@@ -3,9 +3,10 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 DTSTART:20241009T103000
 DTEND:20241009T120000
-UID:ical-17b68fc8-c7cd-445b-bb6e-2659227baf5e
+UID:ical-3948cad5-c2ef-44f4-a094-de624d30dae3
 SUMMARY:R Cafe October
 LOCATION:online
 DESCRIPTION:R Cafe @ TU Delft, 9 October, online. Bjørn Bartholdy will present session: Brush-up your R programming skills.
+ Register to join the meeting: https://edu.nl/f9m6p
 END:VEVENT
 END:VCALENDAR
