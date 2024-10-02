@@ -18,7 +18,7 @@
         <b>Presenter: </b><%= item.author %>
     </li>
     <li>
-        <b>Register: </b><%= item.path %>
+        <b>Register: </b><a href="<%=item.path%>"><%= item.path %></a>
     </li>
   </ul>
   <a href="https://delft-rcafe.github.io/home/outlook/<%= item.ics %>" download="R-Cafe.ics"><button type="button" class="btn btn-primary btn-sm">Add to calendar</button> </a>
