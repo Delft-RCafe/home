@@ -89,7 +89,7 @@ The R Café initiative emerged in the TU Delft Library [Research Data Services](
 ![Artwork by @allison_horst](img/rtwitter.png) 
 :::
 
-The organizers are [Aleksandra Wilczynska]( https://www.tudelft.nl/library/research-data-management/r/support/data-stewardship/contact/aleksandra-wilczynska), [Bjørn Bartholdy](https://www.tudelft.nl/library/research-data-management/r/support/data-stewardship/contact/bjoern-bartholdy) and [Roel Janssen](https://community.data.4tu.nl/members/rrejanssen/). For questions or more information, please contact [rcafe-lib@tudelft.nl](mailto:rcafe-lib@tudelft.nl). 
+The organizers are [Aleksandra Wilczynska]( https://www.tudelft.nl/library/research-data-management/r/support/data-stewardship/contact/aleksandra-wilczynska) and [Bjørn Bartholdy](https://www.tudelft.nl/library/research-data-management/r/support/data-stewardship/contact/bjoern-bartholdy). For questions or more information, please contact [rcafe-lib@tudelft.nl](mailto:rcafe-lib@tudelft.nl). 
 
 
 You can also find us on [GitHub](https://github.com/Delft-RCafe). 
