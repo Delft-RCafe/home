@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://delft-rcafe.github.io/home/events/meetings/index.html</loc>
-    <lastmod>2024-10-07T07:27:26.897Z</lastmod>
-  </url>
-  <url>
     <loc>https://delft-rcafe.github.io/home/plotathon/2023-plotathon.html</loc>
-    <lastmod>2024-10-07T07:27:27.045Z</lastmod>
+    <lastmod>2024-10-21T14:40:54.360Z</lastmod>
   </url>
   <url>
     <loc>https://delft-rcafe.github.io/home/plotathon/faq.html</loc>
-    <lastmod>2024-10-07T07:27:27.045Z</lastmod>
+    <lastmod>2024-10-21T14:40:54.360Z</lastmod>
   </url>
   <url>
-    <loc>https://delft-rcafe.github.io/home/index.html</loc>
-    <lastmod>2024-10-07T07:27:27.043Z</lastmod>
-  </url>
-  <url>
-    <loc>https://delft-rcafe.github.io/home/plotathon/about.html</loc>
-    <lastmod>2024-10-07T07:27:27.045Z</lastmod>
+    <loc>https://delft-rcafe.github.io/home/events/meetings/index.html</loc>
+    <lastmod>2024-10-21T14:40:54.200Z</lastmod>
   </url>
   <url>
     <loc>https://delft-rcafe.github.io/home/about.html</loc>
-    <lastmod>2024-10-07T07:27:26.823Z</lastmod>
+    <lastmod>2024-10-21T14:40:54.120Z</lastmod>
+  </url>
+  <url>
+    <loc>https://delft-rcafe.github.io/home/index.html</loc>
+    <lastmod>2024-10-21T14:40:54.356Z</lastmod>
+  </url>
+  <url>
+    <loc>https://delft-rcafe.github.io/home/plotathon/about.html</loc>
+    <lastmod>2024-10-21T14:40:54.360Z</lastmod>
   </url>
 </urlset>

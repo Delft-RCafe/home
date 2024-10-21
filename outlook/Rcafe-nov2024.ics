@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20241120T150000
+DTEND:20241120T163000
+UID:ical-b7a5d6fb-12eb-4252-9537-81cb189a1e6b
+SUMMARY:R Cafe November
+LOCATION:online
+DESCRIPTION:R Cafe @ TU Delft, 20 November, online. Sam Langton will present session: Introduction to reproducibility with R.
+ Register to join the meeting: https://edu.nl/u6n8k
+END:VEVENT
+END:VCALENDAR
