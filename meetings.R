@@ -1,6 +1,7 @@
 library(tudrcafe)
 library(readr)
 library(dplyr)
+library(here)
 sched <- tudrcafe:::retrieve_schedule()
 
 sessions <- tudrcafe:::parse_schedule(sched)
@@ -17,7 +18,7 @@ sessions_parsed <- sessions |>
 now <- Sys.Date()
 
 upcoming <- sessions_parsed |>
-  filter(date > now)
+  filter(date >= now)
 
 past <- sessions_parsed |>
   filter(date < now)
@@ -32,6 +33,9 @@ if(nrow(upcoming) == 0){
 } else {
   upcoming_out <- vector(mode = "list", length = nrow(upcoming))
   for (i in 1:nrow(upcoming)) {
+    image_loc <- paste0("img/posters/R_cafe_", 
+                    upcoming[i,]$month_abbrev, 
+                    upcoming[i,]$year, ".png")
     image <- paste0("/img/posters/R_cafe_", 
                     upcoming[i,]$month_abbrev, 
                     upcoming[i,]$year, ".png")
@@ -49,6 +53,8 @@ if(nrow(upcoming) == 0){
         path: {registration}
         ics: '{ics}'
         image: '{image}'
+        
+        
       "
     )
     # override file on first loop
@@ -57,7 +63,7 @@ if(nrow(upcoming) == 0){
     #} else {
      # write_lines(upcoming_out[[i]], "events/meetings/upcoming-meetings.yaml", append = T)
     #}
-    if (!file.exists(image)){ 
+    if (!file.exists(here(image_loc))){ 
       tudrcafe::update_poster(upcoming[i,], out_path ='img/posters/')
       }
       
