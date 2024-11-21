@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20241212T103000
+DTEND:20241212T123000
+UID:ical-e22d57a6-0b2d-4de9-8c39-954f5ec85152
+SUMMARY:R Cafe December
+LOCATION:TUD Library, Albert Einstein
+DESCRIPTION:R Cafe @ TU Delft, 12 December, TUD Library, Albert Einstein. Bjørn Bartholdy & Aleksandra Wilczynska will present session: Advent of Code.
+ Register to join the meeting: https://edu.nl/dba7h
+END:VEVENT
+END:VCALENDAR
