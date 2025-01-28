@@ -1,0 +1,15 @@
+{
+  "hash": "5001b7ed2b7a5b76056203b5102b4713",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"#tidytuesday examples\"\n---\n\n\n\n## Tidytuesday\n\nbla bla bla\n\n### Week 34 : power Rangers\n\n\n<!-- ```{=html} -->\n<!--  <iframe id=\"tt342024\" src=\"https://tudelft-rcafe.shinyapps.io/tidytuesday-20240826/\" style=\"border: none; width: 100%; height: 400px\" frameborder=\"0\" data-external=\"1\"></iframe> -->\n<!-- ``` -->\n\n\n\n::: {.cell}\n<iframe src=\"https://tudelft-rcafe.shinyapps.io/tidytuesday-20240826/\" width=\"672\" height=\"400px\" data-external=\"1\"></iframe>\n:::",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
