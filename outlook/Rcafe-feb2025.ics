@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20250213T103000
+DTEND:20250213T120000
+UID:ical-a0952f68-453d-4869-8949-f18628754f82
+SUMMARY:R Cafe February
+LOCATION:TUD Library, Albert Einstein
+DESCRIPTION:R Cafe @ TU Delft, 13 February, TUD Library, Albert Einstein. Bjørn Bartholdy & Aleksandra Wilczynska, Selin Kubilay will present session: Everyday R Series: Part 1 - Loops Made Simple.
+END:VEVENT
+END:VCALENDAR

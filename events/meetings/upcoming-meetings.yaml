@@ -1,40 +1,11 @@
-- title: 'Introduction to reproducibility with R'
-  subtitle: 'In this session, we willl explore key tips to ensure that the R scripts you write today will run consistently in the future, whether for yourself or for others.'
-  description: online
-  author: Sam Langton
-  date:  2024-11-20
-  time:  '15:00-16:30'
-  path: https://edu.nl/u6n8k
-  ics: 'Rcafe-nov2024.ics'
-  image: '/img/posters/R_cafe_Nov2024.png'
-  
-  
-- title: 'Advent of Code'
-  subtitle: '🎄 Get Ready for Advent of Code Fun! 🎄
-
-
-It’s that time of the year again! This session, we’re diving into the excitement of Advent of Code – a global programming challenge featuring daily puzzles for all skill levels. Whether you’re a beginner or a coding pro, tackle the challenges in any programming language you love and have a blast solving puzzles!
-
-And after flexing those brain muscles, what’s better than celebrating with some well-deserved pizza? 🍕 Bring your appetite for both coding and snacks!
-
-
-Want more?
-Join the Dutch Research Community Advent of Code for:
-
-
-✨ Puzzle-solving support
-
-
-🏆 Opportunities to win prizes
-
-
-💬 A private leaderboard to share your progress!'
+- title: 'Everyday R Series: Part 1 - Loops Made Simple'
+  subtitle: 'In this first session of the Everyday R series, we’ll explore loops in R with a brief demo and hands-on practice, learning how to automate tasks and iterate through data efficiently.'
   description: TUD Library, Albert Einstein
-  author: Bjørn Bartholdy & Aleksandra Wilczynska
-  date:  2024-12-12
-  time:  '10:30-12:30'
-  path: https://edu.nl/dba7h
-  ics: 'Rcafe-dec2024.ics'
-  image: '/img/posters/R_cafe_Dec2024.png'
+  author: Bjørn Bartholdy & Aleksandra Wilczynska, Selin Kubilay
+  date:  2025-02-13
+  time:  '10:30-12:00'
+  path: NA
+  ics: 'Rcafe-feb2025.ics'
+  image: '/img/posters/R_cafe_Feb2025.png'
   
   

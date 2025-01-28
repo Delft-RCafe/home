@@ -166,3 +166,21 @@
   date:  2024-10-09
   time:  '10:30-12:00'
   path: https://rchaeology.github.io/RchaeoStats/docs/02_workflow.html
+- title: 'Introduction to reproducibility with R'
+  description: 'online'
+  author: 'Sam Langton'
+  date:  2024-11-20
+  time:  '15:00-16:30'
+  path: https://github.com/langtonhugh/reprod_r
+- title: 'Advent of Code'
+  description: 'TUD Library, Albert Einstein'
+  author: 'Bjørn Bartholdy & Aleksandra Wilczynska'
+  date:  2024-12-12
+  time:  '10:30-12:30'
+  path: NA
+- title: '#tidytuesday data jam'
+  description: 'online'
+  author: 'Bjørn Bartholdy & Aleksandra Wilczynska'
+  date:  2025-01-16
+  time:  '15:00-16:30'
+  path: NA
