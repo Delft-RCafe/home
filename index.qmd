@@ -62,7 +62,19 @@ tud_blue<-'#00A6D6'
  <!-- ``` -->
 
 
-![](img/poster_mailing_list.png)
+:::{.grid style="align-items: center;"}
+::::{.g-col-6}
+### Join our Mailing List ✉️
+
+At R Café, we’re building a vibrant community where collaboration and knowledge sharing are at the heart of everything we do.
+
+Sign up for our [mailing list](https://c.spotler.com/ct/m7/k1/N8Z4e19vGcZGN2mE3VcMXfDMXZoWzWbiRLJZ2JUjp5kjHNFzI5QbCaHn2bZuk-sa/bWDAUgBpGub4uVH) and be part of the R Café community.
+::::
+::::{.g-col-6}
+![](img/logo_square.png){width=80%}
+::::
+:::
+
 ---
 
 # Upcoming meeting {#sec-upcoming}
