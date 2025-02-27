@@ -1,11 +1,11 @@
-- title: 'Everyday R Series: Part 1 - Loops Made Simple'
-  subtitle: 'In this first session of the Everyday R series, we’ll explore loops in R with a brief demo and hands-on practice, learning how to automate tasks and iterate through data efficiently.'
+- title: 'Everyday R Series: Part 2 - Avoid Repetition with Functions'
+  subtitle: 'In this second session of the Everyday R series, we’ll explore functions in R with a brief demo and hands-on practice and learn you can make repetitive tasks easier by creating functions.'
   description: TUD Library, Albert Einstein
   author: Bjørn Bartholdy & Aleksandra Wilczynska, Selin Kubilay
-  date:  2025-02-13
+  date:  2025-03-13
   time:  '10:30-12:00'
   path: NA
-  ics: 'Rcafe-feb2025.ics'
-  image: '/img/posters/R_cafe_Feb2025.png'
+  ics: 'Rcafe-mar2025.ics'
+  image: '/img/posters/R_cafe_Mar2025.png'
   
   
