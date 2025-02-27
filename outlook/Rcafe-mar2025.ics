@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20250313T103000
+DTEND:20250313T120000
+UID:ical-8864c09d-9432-4013-a303-ae53ad701047
+SUMMARY:R Cafe March
+LOCATION:TUD Library, Albert Einstein
+DESCRIPTION:R Cafe @ TU Delft, 13 March, TUD Library, Albert Einstein. Bjørn Bartholdy & Aleksandra Wilczynska, Selin Kubilay will present session: Everyday R Series: Part 2 - Avoid Repetition with Functions.
+END:VEVENT
+END:VCALENDAR
