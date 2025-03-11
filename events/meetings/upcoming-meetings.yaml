@@ -10,7 +10,7 @@
   
   
 - title: 'Everyday R Series: Part 3 - Iterate Smarter with purrr'
-  subtitle: 'In this third session of the Everyday R series, we’ll explore the purrr package and how it can make working with data easier and more efficient. Through a brief demo and hands-on practice, you'll learn to apply functions in a smarter way to simplify your code.'
+  subtitle: 'In this third session of the Everyday R series, we’ll explore the purrr package and how it can make working with data easier and more efficient. Through a brief demo and hands-on practice, you willl learn to apply functions in a smarter way to simplify your code.'
   description: online
   author: Bjørn Bartholdy & Aleksandra Wilczynska, Selin Kubilay
   date:  2025-04-03
