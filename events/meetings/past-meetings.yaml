@@ -178,15 +178,9 @@
   date:  2024-12-12
   time:  '10:30-12:30'
   path: NA
-- title: '#tidytuesday data jam'
-  description: 'online'
-  author: 'Bjørn Bartholdy & Aleksandra Wilczynska'
-  date:  2025-01-16
-  time:  '15:00-16:30'
-  path: NA
 - title: 'Everyday R Series: Part 1 - Loops Made Simple'
   description: 'TUD Library, Albert Einstein'
   author: 'Bjørn Bartholdy & Aleksandra Wilczynska, Selin Kubilay'
   date:  2025-02-13
   time:  '10:30-12:00'
-  path: NA
+  path: https://github.com/Delft-RCafe/everedayR-loops
