@@ -184,3 +184,9 @@
   date:  2025-02-13
   time:  '10:30-12:00'
   path: https://github.com/Delft-RCafe/everedayR-loops
+- title: 'Everyday R Series: Part 2 - Avoid Repetition with Functions'
+  description: 'TUD Library, Albert Einstein'
+  author: 'Bjørn Bartholdy & Aleksandra Wilczynska, Selin Kubilay'
+  date:  2025-03-13
+  time:  '10:30-12:00'
+  path: https://github.com/Delft-RCafe/everydayR-functions
