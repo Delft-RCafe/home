@@ -1,11 +1,11 @@
-- title: 'Everyday R Series: Part 3 - Iterate Smarter with purrr'
-  subtitle: 'In this third session of the Everyday R series, we’ll explore the purrr package and how it can make working with data easier and more efficient. Through a brief demo and hands-on practice, you willl learn to apply functions in a smarter way to simplify your code.'
-  description: online
+- title: '#tidytuesday data jam'
+  subtitle: 'We will start with a short demonstration of [#tidytuesday](https://github.com/rfordatascience/tidytuesday) project. We will then continue to jointly jam one of the real-world data projects.'
+  description: TUD Library, Albert Einstein
   author: Bjørn Bartholdy & Aleksandra Wilczynska, Selin Kubilay
-  date:  2025-04-03
+  date:  2025-05-08
   time:  '10:30-12:00'
-  path: https://edu.nl/hcp93
-  ics: 'Rcafe-apr2025.ics'
-  image: '/img/posters/R_cafe_Apr2025.png'
+  path: NA
+  ics: 'Rcafe-may2025.ics'
+  image: '/img/posters/R_cafe_May2025.png'
   
   

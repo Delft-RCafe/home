@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20250508T103000
+DTEND:20250508T120000
+UID:ical-10f8e0a7-3dbb-43a4-9067-0e67cfae628d
+SUMMARY:R Cafe May
+LOCATION:TUD Library, Albert Einstein
+DESCRIPTION:R Cafe @ TU Delft, 8 May, TUD Library, Albert Einstein. Bjørn Bartholdy & Aleksandra Wilczynska, Selin Kubilay will present session: #tidytuesday data jam.
+END:VEVENT
+END:VCALENDAR
