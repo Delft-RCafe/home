@@ -166,3 +166,39 @@
   date:  2024-10-09
   time:  '10:30-12:00'
   path: https://rchaeology.github.io/RchaeoStats/docs/02_workflow.html
+- title: 'Introduction to reproducibility with R'
+  description: 'online'
+  author: 'Sam Langton'
+  date:  2024-11-20
+  time:  '15:00-16:30'
+  path: https://github.com/langtonhugh/reprod_r
+- title: 'Advent of Code'
+  description: 'TUD Library, Albert Einstein'
+  author: 'Bjørn Bartholdy & Aleksandra Wilczynska'
+  date:  2024-12-12
+  time:  '10:30-12:30'
+  path: NA
+- title: 'Everyday R Series: Part 1 - Loops Made Simple'
+  description: 'TUD Library, Albert Einstein'
+  author: 'Bjørn Bartholdy & Aleksandra Wilczynska, Selin Kubilay'
+  date:  2025-02-13
+  time:  '10:30-12:00'
+  path: https://github.com/Delft-RCafe/everedayR-loops
+- title: 'Everyday R Series: Part 2 - Avoid Repetition with Functions'
+  description: 'TUD Library, Albert Einstein'
+  author: 'Bjørn Bartholdy & Aleksandra Wilczynska, Selin Kubilay'
+  date:  2025-03-13
+  time:  '10:30-12:00'
+  path: https://github.com/Delft-RCafe/everydayR-functions
+- title: 'Everyday R Series: Part 3 - Iterate Smarter with purrr'
+  description: 'online'
+  author: 'Bjørn Bartholdy & Aleksandra Wilczynska, Selin Kubilay'
+  date:  2025-04-03
+  time:  '10:30-12:00'
+  path: NA
+- title: '#tidytuesday data jam'
+  description: 'TUD Library, Albert Einstein'
+  author: 'Bjørn Bartholdy & Aleksandra Wilczynska, Selin Kubilay'
+  date:  2025-05-08
+  time:  '10:30-12:00'
+  path: https://github.com/Delft-RCafe/resources/blob/main/themes/tidytuesdays/tt_20240827.R
