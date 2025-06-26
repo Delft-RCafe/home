@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20250403T103000
+DTEND:20250403T120000
+UID:ical-91b29cec-3cef-4625-bdb3-f37d92c6c19c
+SUMMARY:R Cafe April
+LOCATION:online
+DESCRIPTION:R Cafe @ TU Delft, 3 April, online. Bjørn Bartholdy & Aleksandra Wilczynska, Selin Kubilay will present session: Everyday R Series: Part 3 - Iterate Smarter with purrr.
+ Register to join the meeting: https://edu.nl/hcp93
+END:VEVENT
+END:VCALENDAR
