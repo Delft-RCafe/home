@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20250922T123000
+DTEND:20250922T140000
+UID:ical-7cd2a43d-1fd2-465e-9ae1-6e7d92804dcc
+SUMMARY:R Cafe September
+LOCATION:TUD Library, Albert Einstein
+DESCRIPTION:R Cafe @ TU Delft, 22 September, TUD Library, Albert Einstein. Bjørn Bartholdy & Aleksandra Wilczynska will present session: Presentation and code along: Reproducible Research with code notebooks.
+ Register to join the meeting: https://www.eventbrite.nl/e/tickets-presentation-and-code-along-reproducible-research-with-code-notebooks-1459752532119?aff=oddtdtcreator
+END:VEVENT
+END:VCALENDAR
