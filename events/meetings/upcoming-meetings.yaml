@@ -1,3 +1,11 @@
-
-    - title: TBD
-    
+- title: 'Presentation and code along: Reproducible Research with code notebooks'
+  subtitle: 'Reproducibility is essential to credible and transparent research, but it is hard to achieve in practice. This session introduces practical steps to make your work more reproducible, focusing on tools that help you integrate your code, text, and results into a single, coherent workflow. Whether you use R or Python, Quarto provides a powerful framework to weave narrative and analysis together—making it easier to share, revise, and rerun your research. The session also highlights programming Cafés: a low-threshold platform where researchers meet to troubleshoot, learn, and support each other in building reproducible practices. Join us to see how the right tools and community support can make reproducibility not only achievable, but sustainable.'
+  description: TUD Library, Albert Einstein
+  author: Bjørn Bartholdy & Aleksandra Wilczynska
+  date:  2025-09-22
+  time:  '12:30:00-14:00'
+  path: https://www.eventbrite.nl/e/tickets-presentation-and-code-along-reproducible-research-with-code-notebooks-1459752532119?aff=oddtdtcreator
+  ics: 'Rcafe-sep2025.ics'
+  image: '/img/posters/R_cafe_Sep2025.png'
+  
+  
