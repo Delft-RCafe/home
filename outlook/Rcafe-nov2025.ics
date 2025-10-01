@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20251127T123000
+DTEND:20251127T143000
+UID:ical-eb853296-d5f3-4ed4-a4c9-214a4689114e
+SUMMARY:R Cafe November
+LOCATION:TUD Library, Blue Room
+DESCRIPTION:R Cafe @ TU Delft, 27 November, TUD Library, Blue Room. TBD will present session: Nice and Clean: Refactoring Code from the #30DayMapChallenge.
+ Register to join the meeting: https://edu.nl/ctx77
+END:VEVENT
+END:VCALENDAR

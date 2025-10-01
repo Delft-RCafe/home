@@ -43,3 +43,4 @@ _site/
 
 # Index.html
 Index.html
+**/*.quarto_ipynb
