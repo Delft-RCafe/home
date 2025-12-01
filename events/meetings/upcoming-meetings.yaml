@@ -1,11 +1,22 @@
-- title: 'Nice and Clean: Refactoring Code from the #30DayMapChallenge'
-  subtitle: 'A 2-hour hands-on workshop on transforming quick #30DayMapChallenge scripts into clean, reusable R code. Learn simple refactoring techniques to make your maps easier to read, maintain, and share.'
-  description: TUD Library, Blue Room
+- title: 'TBD'
+  subtitle: 'We are still thinking about the theme of the session. Do you have some ideas? Let us know: rcafe-lib@tudelft.nl'
+  description: TUD Library, Albert Einstein
   author: TBD
-  date:  2025-11-27
-  time:  '12:30-14:30'
-  path: https://edu.nl/ctx77
-  ics: 'Rcafe-nov2025.ics'
-  image: '/img/posters/R_cafe_Nov2025.png'
+  date:  2026-03-05
+  time:  '12:30-13:30'
+  path: NA
+  ics: 'Rcafe-mar2026.ics'
+  image: '/img/posters/R_cafe_Mar2026.png'
+  
+  
+- title: 'TBD'
+  subtitle: 'We are still thinking about the theme of the session. Do you have some ideas? Let us know: rcafe-lib@tudelft.nl'
+  description: TUD Library, Albert Einstein
+  author: TBD
+  date:  2026-06-04
+  time:  '12:30-13:30'
+  path: NA
+  ics: 'Rcafe-jun2026.ics'
+  image: '/img/posters/R_cafe_Jun2026.png'
   
   
